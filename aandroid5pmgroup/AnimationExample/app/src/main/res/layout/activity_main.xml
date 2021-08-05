@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+   <ImageView
+       android:layout_width="150dp"
+       android:layout_height="150dp"
+       android:scaleType="fitXY"
+       android:layout_gravity="center_horizontal"
+       android:layout_margin="8dp"
+       android:id="@+id/rotateimage"
+       android:src="@drawable/naturetwo"/>
+<Button
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:id="@+id/rotatebtn"
+    android:text="Rotate"/>
+
+   <EditText
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+      android:id="@+id/emailedit"
+      android:hint="Enter email"
+      android:layout_margin="10dp"/>
+   <EditText
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/paswordedit"
+       android:hint="Enter Password"
+       android:layout_margin="10dp"/>
+   <Button
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal"
+       android:id="@+id/submitbtn"
+       android:text="Submit"/>
+</LinearLayout>

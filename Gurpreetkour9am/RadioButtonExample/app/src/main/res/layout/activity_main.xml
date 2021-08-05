@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/squestiontext"
+    android:layout_centerHorizontal="true"
+    android:layout_margin="10dp"
+    android:textColor="#6FBC0621"
+
+    android:textStyle="bold"
+
+    android:text="How many planets are there in solar system ?"/>
+
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/planetradiogroup"
+        android:orientation="vertical"
+        android:layout_below="@id/squestiontext">
+
+      <RadioButton
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Six"
+          android:id="@+id/sixradiobtn"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fourbtn"
+            android:text="Four"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nine"
+            android:id="@+id/ninebtn"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/egithbtn"
+            android:text="Eight"/>
+
+
+
+
+    </RadioGroup>
+    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/planetradiogroup"
+        android:layout_margin="10dp"
+        android:text="Check Anser "
+        android:textAlignment="center"
+        android:id="@+id/checkbtn"
+        android:textColor="#fff"/>
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/logout"
+    android:title="LogOut"/>
+    <item android:id="@+id/uploadimgae"
+        android:title="Upload Image"/>
+    <item android:id="@+id/alluser"
+        android:title="All User"/>
+    <item android:id="@+id/notification"
+        android:title="Notification"/>
+</menu>

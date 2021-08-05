@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:text="MainItems"
+    android:textSize="25sp"
+    android:fontFamily="cursive"
+    android:textStyle="bold"
+    android:textColor="#27E11A"
+    android:layout_margin="10dp"
+    android:padding="8dp"
+    android:layout_height="wrap_content">
+
+</TextView>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032971209893",
+    "firebase_url": "https://spreadshe4et.firebaseio.com",
+    "project_id": "spreadshe4et",
+    "storage_bucket": "spreadshe4et.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032971209893:android:be52ed32e376f97dbf914c",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseproject5pm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032971209893-3k3cjfa7pdphq1ckuqaleho7skh614gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirebaseproject5pm",
+            "certificate_hash": "531ffe5834d150f419c3437738c714983e2e5b71"
+          }
+        },
+        {
+          "client_id": "1032971209893-gf1gm0uha3c1rf346nfrgkf3bekmloug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs65lKyvnQpDETfDJk_L3TScx1RrO13qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032971209893-gf1gm0uha3c1rf346nfrgkf3bekmloug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

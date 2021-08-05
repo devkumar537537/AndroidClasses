@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195633876747",
+    "firebase_url": "https://life-hackes.firebaseio.com",
+    "project_id": "life-hackes",
+    "storage_bucket": "life-hackes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195633876747:android:becf1dda8d34ea54791c0e",
+        "android_client_info": {
+          "package_name": "com.dailydose.lifehackes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195633876747-kgi3in616jpv69qbn62k5rhq46agir5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DNS6jl_mBDVpDpWChgZJmNOoWmx6kFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195633876747-kgi3in616jpv69qbn62k5rhq46agir5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

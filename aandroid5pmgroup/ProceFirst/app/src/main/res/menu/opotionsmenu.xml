@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/firstoptionmenu"
+        android:title="First Option"/>
+    <item android:id="@+id/secondoption"
+        android:title="SecondOtpion">
+
+
+
+
+
+
+
+        <menu>
+            <item android:id="@+id/subitem"
+                android:title="SubItem"/>
+            <item android:id="@+id/subitemtwo"
+                android:title="SubItemTwo"/>
+
+
+
+        </menu>
+    </item>
+        </menu>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySamllcomponent</string>
+    <string name ="firstquestion">How many planets are there in solar system ?</string>
+</resources>

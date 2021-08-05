@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    >
+<data >
+
+    <variable
+        name="firstviewmodel"
+        type="com.example.mvvmexamples.viemodels.FragmentFirstViewMode" />
+</data>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Fragment.FirstFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/emailEdit"
+            android:text="@={firstviewmodel.userEmail}"
+            android:hint="Enter email"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/userpassword"
+            android:layout_below="@+id/emailEdit"
+            android:hint="Enter Your password"
+            android:text="@={firstviewmodel.userPassword}"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#A51010"
+            android:id="@+id/textview"
+            android:layout_centerInParent="true"
+            android:text="First Fragment" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+
+            android:layout_above="@+id/textview"
+            android:onClick="@{firstviewmodel::showvalues}"
+            android:text="MovetoSecond" />
+
+
+
+    </RelativeLayout>
+</layout>

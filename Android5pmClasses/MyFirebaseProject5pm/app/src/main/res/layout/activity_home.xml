@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/weather"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Logout"
+        android:id="@+id/logoutbtn"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user_email"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:id="@+id/textemail"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user_name"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:id="@+id/textname"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user_number"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:id="@+id/textnumber"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user_Password"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:id="@+id/textpassword"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="user_id"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:id="@+id/textuserid"/>
+
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/recyclerview"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Gotouploadimage"
+        android:id="@+id/gotouploadimage"/>
+
+</LinearLayout>

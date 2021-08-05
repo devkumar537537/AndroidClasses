@@ -1,0 +1,2 @@
+rootProject.name = "RestapiExampl850"
+include ':app'

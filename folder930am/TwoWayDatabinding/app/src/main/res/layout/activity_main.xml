@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="userdata"
+            type="com.example.twowaydatabinding.UserDatamodel"/>
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+
+
+
+                    <EditText
+                        android:id="@+id/username"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="30dp"
+                        android:hint="Email"
+
+                        android:text="@={userdata.email}"
+                        android:inputType="textEmailAddress"
+                        android:singleLine="true"
+                        android:textColorHint="#9F9F9F" />
+
+
+
+
+                    <EditText
+                        android:id="@+id/password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                       android:layout_below="@+id/username"
+                        android:hint="Password"
+
+                        android:text="@={userdata.password}"
+                        android:inputType="textPassword"
+                        android:singleLine="true"
+                        android:textColorHint="#9F9F9F" />
+
+
+                <Button
+                    android:id="@+id/login"
+                    android:layout_width="280dp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/password"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="49dp"
+                    android:text="Login"
+                    android:onClick="@{userdata::loginmethod}"
+                    android:textColor="#FFFFFF" />
+
+            </RelativeLayout>
+
+
+</layout>

@@ -1,0 +1,2 @@
+rootProject.name = "ThreadingExample"
+include ':app'

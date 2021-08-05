@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/logintext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:fontFamily="@font/hanalei_regular"
+        android:text="LogIn Example"
+        android:textColor="#219C3C"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:weightSum="20"
+        >
+
+
+        <TextView
+            android:id="@+id/emailtext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+         android:layout_weight="6"
+            android:fontFamily="@font/hanalei_regular"
+            android:text="Email"
+            android:textColor="#219C3C"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="14"
+            android:hint="Enter Your Email"
+            android:id="@+id/emailedit"/>
+
+
+    </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:weightSum="20"
+       android:layout_margin="10dp"
+       >
+
+
+       <TextView
+           android:id="@+id/passwordtext"
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="10dp"
+           android:layout_weight="6"
+           android:fontFamily="@font/hanalei_regular"
+           android:text="Password"
+           android:textColor="#219C3C"
+
+           android:textSize="15sp"
+           android:textStyle="bold" />
+
+       <EditText
+           android:layout_width="0dp"
+           android:layout_height="wrap_content"
+
+           android:layout_weight="14"
+           android:hint="Enter Your Password"
+           android:id="@+id/passwordedit"/>
+
+   </LinearLayout>
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log In"
+        android:id="@+id/logintbtn"
+        android:layout_margin="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#1BAC8A"
+        android:layout_gravity="end"
+        android:text="Forgot Password ?"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#1BAC8A"
+
+        android:text="Don't have account? Singup"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#39B816"
+
+           android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="10dp"
+            android:textSize="30sp"
+            android:fontFamily="cursive"
+            android:textStyle="bold"
+            android:text="Welcom Ueser Here"/>
+
+    </RelativeLayout>
+</LinearLayout>

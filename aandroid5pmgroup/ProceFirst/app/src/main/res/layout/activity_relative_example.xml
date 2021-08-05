@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RelativeExample">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/firsttext"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="6"
+            android:layout_margin="10dp"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:id="@+id/emaill_Text"
+            android:text="Password"
+
+            android:textSize="18sp"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="14"
+            android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+            android:hint="Enter your email"
+            android:id="@+id/emaill_edit"/>
+
+    </LinearLayout>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="First Text"
+    android:id="@+id/firsttext"
+    android:textSize="23sp"
+    android:fontFamily="cursive"
+    android:layout_centerHorizontal="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Second Text"
+        android:id="@+id/secontext"
+        android:textSize="23sp"
+        android:fontFamily="cursive"
+        android:layout_centerVertical="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Third Text"
+        android:id="@+id/thirdtext"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textSize="23sp"
+        android:fontFamily="cursive"
+      />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FourthText"
+        android:id="@+id/fourthtext"
+      android:layout_toRightOf="@+id/secontext"
+        android:layout_centerVertical="true"
+        android:textSize="23sp"
+        android:fontFamily="cursive"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Five Text"
+        android:id="@+id/fivetext"
+          android:layout_above="@+id/thirdtext"
+        android:layout_alignParentRight="true"
+        android:textSize="23sp"
+        android:fontFamily="cursive"
+        />
+</RelativeLayout>

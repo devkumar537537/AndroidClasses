@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/datepickerview"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DAte text"
+        android:textSize="25sp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/dateview"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/datepickerbtn"
+        android:layout_gravity="center_horizontal"
+        android:text="Pick datae"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/generatealertdiatl"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/background"
+        android:text="GenerateAlertDialog"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/customtoast"
+        android:layout_gravity="center_horizontal"
+        android:text="Custom Toast"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/snackbar"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"
+        android:text="producesanbar"/>
+
+</LinearLayout>
+
+</ScrollView>

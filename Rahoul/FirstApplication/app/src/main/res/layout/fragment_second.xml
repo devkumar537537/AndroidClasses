@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/move_first_fragment"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:layout_below="@+id/showtoast"
+        android:background="@drawable/buttonbackground"
+        android:textColor="#fff"
+        android:text="Move to First Fragment"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:id="@+id/move_constraintlayout"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:layout_below="@+id/move_first_fragment"
+        android:background="@drawable/buttonbackground"
+        android:textColor="#fff"
+        android:text="Move to Constraintlayouyt"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This will show data"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:id="@+id/textview_fragment"
+        android:textSize="40sp"
+        android:textColor="#E60B0B"
+        android:fontFamily="cursive"/>
+</RelativeLayout>

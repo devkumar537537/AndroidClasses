@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RadioButtonExample">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:textColor="#ED0D5B"
+ android:fontFamily="@font/alfa_slab_one"
+    android:textSize="20sp"
+    android:layout_margin="8dp"
+    android:text="@string/firstquestion"
+    android:id="@+id/questiontext"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/questiontext"
+        android:id="@+id/radiogroup"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/firstoption"
+            android:text="Seven"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/secondoption"
+            android:text="Six"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/thirdoption"
+            android:text="Ten"/>
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/fourthoption"
+            android:text="Nine"/>
+    </RadioGroup>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/submintanser"
+        android:text="Submit"
+        android:layout_below="@id/radiogroup"
+        android:layout_margin="10dp"/>
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/submintanser"
+        android:numStars="5"
+        android:stepSize="0.5"
+        android:id="@+id/radtingbar"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="getrating"
+        android:layout_below="@+id/radtingbar"
+        android:id="@+id/getratinbtn"/>
+</RelativeLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RelativeExample">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+   android:layout_centerHorizontal="true"
+    android:layout_margin="10dp"
+    android:textStyle="bold"
+    android:text="Email"
+    android:id="@+id/emaillayoutrelative"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/passwordlayoutrealtive"
+        android:layout_below="@+id/emaillayoutrelative"
+        android:text="Password"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/something"
+        android:text="SomeThisng"
+        android:layout_below="@id/passwordlayoutrealtive"
+        android:layout_centerHorizontal="true"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fragmentcontainer"
+        android:layout_below="@id/something"/>
+</RelativeLayout>

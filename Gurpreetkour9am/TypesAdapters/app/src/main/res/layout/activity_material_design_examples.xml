@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/right"
+    android:orientation="vertical"
+    tools:context=".MaterialDesignExamples">
+<com.google.android.material.textfield.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+    android:id="@+id/email_layout">
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/email_edit"
+
+        android:hint="Enter email"
+        />
+</com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:id="@+id/passwor_layout">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/password_edit"
+            android:hint="Enter Password"/>
+
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+ <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="LogIn"
+     android:textAlignment="center"
+     android:textColor="#fff"
+     android:id="@+id/loginbtnn"
+     android:textSize="23sp"
+     android:layout_margin="12dp"
+     android:elevation="10dp"
+     app:icon="@drawable/login"
+     app:iconGravity="textStart"
+     app:iconTint="#fff"
+     app:iconPadding="10dp"/>
+</LinearLayout>

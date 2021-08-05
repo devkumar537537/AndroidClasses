@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/weather"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/carview_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/right"
+        android:text="CarViewExample"
+        android:textColor="#fff"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/logoimage"
+        android:src="@drawable/weather"
+        android:layout_below="@+id/carview_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"/>
+ <androidx.cardview.widget.CardView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginStart="20dp"
+     android:layout_marginEnd="20dp"
+     android:elevation="10dp"
+     app:cardCornerRadius="10dp"
+
+     android:layout_centerInParent="true">
+
+     <RelativeLayout
+         android:layout_width="match_parent"
+         android:layout_marginStart="8dp"
+         android:layout_marginEnd="8dp"
+         android:layout_marginTop="10dp"
+         android:layout_height="match_parent">
+
+         <EditText
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Enter email"
+             android:fontFamily="@font/best"
+             android:textColorHint="#7F0BD3"
+             android:layout_margin="10dp"
+             android:drawablePadding="10dp"
+             android:textSize="30dp"
+            android:drawableLeft="@drawable/email"
+             android:id="@+id/email"/>
+         <EditText
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:hint="Enter password"
+             android:layout_margin="10dp"
+              android:drawablePadding="10dp"
+             android:fontFamily="@font/best"
+             android:textColorHint="#7F0BD3"
+             android:textSize="30dp"
+             android:drawableLeft="@drawable/password"
+             android:layout_below="@+id/email"
+             android:id="@+id/password"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/password"
+            android:id="@+id/login_layout"
+            app:cardCornerRadius="30dp"
+            android:elevation="10dp"
+          android:layout_margin="10dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/logint_btn"
+                android:background="@color/usual_color"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/login_text"
+                    android:text="Log In"
+                    android:textColor="#fff"
+                    android:fontFamily="@font/right"
+                    android:layout_centerInParent="true"
+                    android:padding="10dp"
+                    android:textSize="40sp"
+                    android:textStyle="bold"/>
+
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+        </androidx.cardview.widget.CardView>
+
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/login_layout"
+    android:layout_margin="10dp"
+    android:textColor="#fff"
+    android:fontFamily="@font/right"
+    android:background="@drawable/buttonbackground"
+    android:id="@+id/signut"
+    android:padding="10dp"
+    android:textSize="40sp"
+    android:textStyle="bold"
+    android:text="SignUp"/>
+     </RelativeLayout>
+
+
+
+
+
+ </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/homemenu"
+    android:title="Home"
+    android:icon="@drawable/howm"/>
+    <item android:id="@+id/chatmenu"
+        android:title="Chat"
+        android:icon="@drawable/logout"
+        />
+    <item android:id="@+id/settingmenu"
+        android:title="Setting"
+        android:icon="@drawable/seeting"/>
+
+</menu>

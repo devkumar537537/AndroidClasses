@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000"
+    tools:context=".FullScreenImage">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/fullScreenToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:navigationIcon="@drawable/back_arrow_white" />
+
+    <com.jsibbold.zoomage.ZoomageView
+        android:id="@+id/showImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/fullScreenToolbar"
+        android:layout_centerInParent="true"
+        android:scaleType="fitCenter">
+    </com.jsibbold.zoomage.ZoomageView>
+
+
+    <com.spark.submitbutton.SubmitButton
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="6dp"
+        android:onClick="Download"
+        android:fontFamily="@font/acme"
+        android:textStyle="bold"
+        android:text="Download"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="10sp"
+        app:sub_btn_background="#77000000"
+        app:sub_btn_duration="1500"
+        app:sub_btn_line_color="#FFFFFF"
+        app:sub_btn_ripple_color="@color/white"
+        app:sub_btn_tick_color="@color/black" />
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="15dp"
+    android:layout_margin="15dp"
+    app:cardElevation="15dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#0CC1A6"
+        >
+      <ImageView
+          android:layout_width="100dp"
+          android:layout_height="100dp"
+          android:src="@drawable/sample"
+          android:scaleType="fitXY"
+          android:id="@+id/recyerl_image"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UserNumber"
+            android:textColor="#fff"
+            android:textSize="20sp"
+            android:layout_toRightOf="@+id/recyerl_image"
+            android:layout_centerVertical="true"
+            android:layout_margin="10dp"
+            android:id="@+id/recyelr_name"/>
+
+<androidx.cardview.widget.CardView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentRight="true"
+    android:layout_margin="10dp"
+    android:elevation="10dp"
+    app:cardCornerRadius="25dp"
+    android:id="@+id/click_btn"
+    android:layout_centerVertical="true"
+    >
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#0A8506"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Click Me"
+            android:textColor="#fff"
+            android:padding="10dp"/>
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

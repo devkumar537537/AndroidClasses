@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/firstcontext"
+    android:title="Context First"/>
+    <item android:id="@+id/seconcontext"
+        android:title="Context Second"/>
+</menu>

@@ -1,0 +1,2 @@
+rootProject.name = "Authenticatio5pm"
+include ':app'

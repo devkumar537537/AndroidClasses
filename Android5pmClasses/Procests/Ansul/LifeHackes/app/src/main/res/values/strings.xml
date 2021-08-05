@@ -1,0 +1,1845 @@
+<resources>
+    <string name="app_name">Life Hacks</string>
+    <string name="food">Food &amp; Drinks</string>
+    <string name="app_ID">ca-app-pub-5628893012248011~9969440588</string>
+    <string name="ads_ID">ca-app-pub-5628893012248011/4230507670</string>
+
+    <string name="ads_inter_ID">ca-app-pub-5628893012248011/1454610022</string>
+
+    <string name="ads_native_ID">ca-app-pub-5628893012248011/5903516143</string>
+    <string-array name="Technology">
+        <item>At website login pages, you can view masked passwords by changing the password input type as text.</item>
+        <item>Test battery easily by dropping it few inches from the ground. A fully charged battery bounces very little, whereas a dead battery bounces around.</item>
+        <item>Broken keyboard feet? Replace them with binder clips</item>
+        <item> Find expensive stuff for cheap on Craigslist using the following search terms:
+
+    divorce,
+    wife,
+    husband,
+    new baby,
+    pcs,
+    Kia,
+    health,
+    surgery,
+    moving.
+</item>
+        <item>In Windows, create a new folder and name it “Control Panel Shortcuts.{ed7ba470–8e54–465e-825c-99712043e01c}”. Access any control settings in the folder.</item>
+        <item>Google “[food] vs [food]” to compare nutritional values.</item>
+        <item>On calculator, the C (clear) button is to clear all entry, whereas the CE (clear entry) button is to clear the most recent entry only.</item>
+        <item>Project Naptha is a browser extension that allows you to select, copy, modify, erase, and translate text in images.</item>
+        <item>Not sure whether your remote control is working? Use any camera to check whether it emits light when you press a button.</item>
+        <item>Watch age restricted YouTube videos without signing in by adding “nsfw” before “youtube.com”.</item>
+        <item>Sugru is a Play-Doh-like substance, but it’s much stronger, durable, resistant to heat, and flexible. A nifty product for life hacking.</item>
+        <item>Sleepyti.me helps you to calculate the best time to go to bed/wake up for optimal sleep</item>
+        <item>Ninite.com helps you to install many programs at once. Just select all the apps you want. No more junk software and clicking next.</item>
+        <item>HowLongToReadThis.com estimates time required to read a book. Pretty accurate for me.</item>
+        <item>PizzaCodes.com shows pizza coupon codes based on your location.</item>
+        <item>Add a fake email address into your contact list. If a bot starts sending out spam using your email address, you’ll get an undeliverable mail notice.</item>
+        <item>Before going to a porn suspicious site, Google “safebrowsing:(website)” to see a 90-day history of malware attempts on its visitors.</item>
+        <item>Check whether a username is taken or available on popular sites using Namechk.com.</item>
+        <item>AccountKiller.com guides you on how to delete your online accounts from popular websites.</item>
+        <item>Search recipes by ingredients you have at Supercook.com.</item>
+        <item>HaveIBeenPwned.com checks if your email has been compromised in a data breach.</item>
+        <item>Want to convert YouTube video to GIF? Add “gif” before “youtube.com”. Here’s an example.</item>
+
+    </string-array>
+
+    <string-array name="Food">
+        <item>Ice cream can get rock hard in the freezer and it takes ages to thaw out just enough that you can eat it. A simple trick to keep it just the right consistency is to put the container in a plastic zip lock bag before throwing it in the freezer.</item>
+        <item>When frozen and then mashed up, bananas create a perfect creamy ice cream base that you can be mixed with other fruit and various toppings to create a super-healthy home-made ice cream.</item>
+        <item>A zip lock bag or a pastry bag can be used to mix up pancake batter. Make sure to make a small cut in a corner of the plastic bag if you don’t have a pastry bag. You have to clean up less afterwards, and you can make some very creative shapes.</item>
+        <item>Things can get messy if you are cutting a particularly large cake and only have a small knife, but even things like cheese and Swiss rolls can be difficult to cut precisely. You can use dental floss to make quick and precise cuts and avoid the trouble.</item>
+        <item>You can spend a couple of hours on a lazy Sunday and cook up enough frozen veggies, chicken, fish, steak, rice, baked potatoes or whatever else you like to eat, and store the food in plastic containers. Mix it up, and you will have quick meals ready to go for the next few days or the entire week.</item>
+        <item>People often view pancakes as a dirty pleasure, but you can make healthy and diet-friendly pancakes using protein powder, almond milk, oat flower, different fruit and other healthy ingredients.</item>
+        <item>If you are the kind of person who likes to add fresh herbs to meals, you can stock up on herbs, chopped them up, put them in ice cube tray, cover them in olive oil and freeze them. Next time you are cooking something, just drop a cube in and have yourself a treat.</item>
+        <item>For a more permanent storage solution, you can buy a bunch of herbs at the flea market – make your own unique blend of herbs – and then dry them out in the microwave. Put them in for 20 second intervals, and keep turning them over until they are completely dry, at which point you can crush them up. </item>
+        <item>Baked treats tend to get fairly dry and don’t taste so good after a while. A good way to combat this is to keep them in a plastic container with an apple slice, which will help them preserve moisture and stay yummy for much longer.</item>
+        <item>Boiled eggs are sometimes notoriously difficult to peel, but that’s just fresh eggs. Week old eggs are perfectly fine to eat, but they are incredibly easy to peal, so make sure you buy eggs well in advance and let them sit in the fridge for a while before boiling them.</item>
+        <item>In case you just have to eat some boiled eggs right now and you only have fresh ones, you can add a little salt in the water with them and then use a spoon to crack one ends slightly and start peeling the shell from the inside. It’s incredibly quick and simple.</item>
+        <item>To make perfect poached eggs you need to keep the eggs in a consistent shape when boiling them in water. A simple, trick to ensure that the egg whites keep a consistent shape is to soak the eggs in white vinegar for several minutes before breaking them open.</item>
+        <item>Bacon is actually cooked much more evenly in the oven than in the frying pan, and to go a step further you can weave them into a square shape first. It’s a great shape for sandwiches, and you won’t have chunks falling out.</item>
+        <item>Fish will tend to stick and even break up when placed on the grill, but if you put it on top of lemon slices and grill it like that it will be much easier to prepare, and it will get that nice zesty flavor.</item>
+        <item>You have guests arriving any minute now, and your beverages are all lukewarm? Well, have no fear, just take a few wet paper towels and wrap them around the bottles before throwing them in the freezer. It will cool your drinks down incredibly fast.</item>
+        <item>Making hash browns can be a bit of a hassle, but a very simple trick is to just throw them on a waffle iron and slam it shut. That golden brown color you are going for will be nice and even, and you won’t have to do much work at all.</item>
+        <item>Oysters can require quite a bit of brute force to open, and you don’t want to be pressing hard on something with a knife and risk having it slip and hurt you. The simple solution is to microwave them for 10–20 seconds, which loosens them up and allows you to open them using much less force. </item>
+        <item>If all you’ve got is a baguette or a loaf of bread that is getting a bit stale, but you don’t have time to run to the store and get some more, just run it through some water and put it in the oven for 5–10 minutes. You can also wrap it in a damp towel and then pop it in the oven. It will be fresh and crunchy like you just baked it.</item>
+        <item>Melt some chocolate into a bowl and then dip an inflated balloon in it so that the chocolate sticks all around it in a semicircular shape. Once it has cooled down just pop the balloon and take it out. Voila! You now have chocolate bowls to serve your dessert in.</item>
+        <item>If you are making a salad and need to chop a whole bunch of cherry tomatoes in half, just trap them between two plates and slice through them with a knife. You can slice a dozen or more of them in one clean movement.</item>
+
+    </string-array>
+
+    <string-array name="Health">
+        <item>Hair Growth Hack:\n\n
+Peppermint oil is a wonderful essential oil with many healing properties. Its invigorating scent can awaken us and stimulate the body’s natural healing power. Peppermint essential oil also has antimicrobial properties and increases blood circulation – making it perfect to use on your scalp to stimulate hair growth.</item>
+        <item>Toothache Hack:\n\n
+Ginger has many powerful medicinal properties to help soothe and treat a variety of ailments within the body. The antibacterial and anti-inflammatory properties found in ginger root can help sooth redness, swelling, and even minor infections that stem from toothaches.</item>
+        <item>Acne Hack:\n\n
+Liquid chlorophyll is the green pigment found in plants to help them absorb sunlight. Liquid chlorophyll promotes oxygen in the skin and the reproduction of red blood cells to help the skin look clear and vibrant. Plus, liquid chlorophyll can also kill bad germs and bacteria found within the body which can help clear existing breakouts as well as prevent more breakouts from occurring.</item>
+        <item>Ear Infection Hack:\n\n
+To avoid harmful antibiotics to treat ear infections, try using this pungent plant to find relief. Garlic has been utilized as a natural remedy for thousands of years and is filled with anti-bacterial, anti-oxidizing, anti-microbial, anti septic, and anti-inflammatory properties, which makes it a holistic marvel for ear infections.</item>
+        <item>Cuts and Wounds Hack:\n\n
+Colloidal silver is used to help heal cuts, burns, sores, and abrasions by killing infection and promoting new skin growth.</item>
+        <item>Congestion or Cough Hack:\n\n
+Cajeput Oil :\n
+Be sure to reach for this Holy Grail oil the next time you catch a cold, as it is quite literally “Vick’s on steroids.” Created from the distillation of fresh leaves and twigs from the Cajeput Tree, cajeput oil strong and refreshing scent is guaranteed to assist in aiding even the worst congestion or coughing fit. If you don’t have this oil on hand, reach for your eucalyptus essential oil for a similar relieving effect.</item>
+        <item>Hangover Hack:\n\n
+Activated charcoal absorbs impurities, toxins, heavy metals, and just about anything that is not meant to be in the body. This makes it perfect for curing a gnarly hangover as well as easing the symptoms of food poisoning.</item>
+        <item>Stress and Anxiety Hack:\n\n
+Bach Flower Rescue Remedy:\n
+Created by a mix of five Bach Flower remedies: Impatiens, Star of Bethlehem, Cherry Plum, Rock Rose, and Clematis, Rescue Remedy can be used to help you get through even the most stressful of situations.</item>
+        <item>Energy Boost Hack:\n\n
+Green Tea:\n
+The naturally occurring, pure caffeine found in green tea will leave you feeling more awake and energized without the crash. Believed to be the healthiest drink on the planet, green tea is good for much more than just a natural energy boost. Bonus points for matcha green tea!</item>
+        <item>Better Digestion Hack:\n\n
+Dandelion Tea:\n
+Feeling a little irregular? Dandelion tea is a mild diuretic which targets the liver and can help cleanse toxins or impurities from your digestive tract, regulating digestion and bowel movements. It gently stimulates bile production and cleanses both the liver and kidneys.</item>
+        <item>Bloating Hack:\n\n
+
+Peppermint Tea:\n
+Whether achy from the stomach bug or in pain because you overindulged at dinner, try brewing up a cup of peppermint tea and sipping it down slowly. The healing power of the mint can quickly come to the rescue and help soothe even the most upset of tummies.</item>
+        <item>Sunburn Hack:\n\n
+
+Black Tea:\n
+For those extremely painful, bright red, my-skin-will-definitely-peel-off-next-week sunburns. Black tea is packed with antioxidants, polyphenols, tannins and anti-inflammatory properties – helping the skin heal more quickly and reducing pain and redness.</item>
+        <item>Get Rid of Cellulite Hack:\n\n
+
+Dry Brushing:\n
+Cellulite or no cellulite, dry brushing offers an array of benefits including exfoliation, a boosted immune system, improved circulation, skin detoxification, and cleaner pores – all by simply improving the lymph flows in our body.</item>
+        <item>Sore Throat Hack:\n\n
+Lemon, Honey, &amp; Organic Apple Cider Vinegar:\n
+An all-time favorite when it comes to healing: apple cider vinegar . . . but by adding some lemon juice and honey to it, it becomes an immediate super soother for your throat, plus an immune system booster!</item>
+        <item> Migraine Hack:\n\n
+
+Burn Sage:\n
+For hundreds of years, many have found migraine relief in the burning of dried sage leaves. White sage has many medicinal properties including reducing tension, easing inflammation, and relaxing the senses.</item>
+        <item>Better Sleep Hack:\n\n
+Himalayan salt lamps make for pretty night stand décor and it helps you sleep – can’t get much better than that! With its vast array of health benefits and great life force energy, Himalayan salt lamps can improve your breathing patterns and also boost your serotonin levels (plus even more!), paving the way for a better night’s rest.</item>
+        <item>Better Everything Hack:\n\n
+Yoga had to make the list, right?! It’s one of the greatest things you can do for your body! By creating better flexibility, posture, balance, breathing, muscle strength, a more peaceful mind and all sorts of other benefits, it’s no wonder why practicing yoga is truly a healthy holistic hack. As mentioned earlier, holistic health is all about gaining proper balance in your life, and hopping on a mat and stretching it out just may help you get there.</item>
+    </string-array>
+
+    <string-array name="Money">
+        <item>Plan meals around sales:\n\n
+You don’t have to spend hours going through sale papers to find the best deals on everything.\n Just make your meal plan, but leave the specifics open.\n For example, one of your meals could be a stir-fry, so you need meat, veggies and a grain. \nWhen you get to the store, buy the best-priced meat and veggies. \nThen look for a grain, like rice or quinoa and buy whatever is the most cost-effective, weighing the price and health benefits.</item>
+        <item>Drink more water: \n\n
+This may seem obvious but the statistics show that it isn’t. \nYou’ll save a lot of money if you stop buying the 24 packs of soda and bottles of juice.\n Bottled water is cheap – tap water is cheaper.\n There are many great options for filtering if you’re not a fan of the tap taste. \nWeigh the cost and see whether you prefer bottled or tap. \nWhen you’re eating out, a family of six can easily save $12-$20 per meal just by drinking water instead of soft drinks. </item>
+        <item>Set an automatic budget:\n\n
+There are plenty of free services like Mint and Personal Capital that allow you to link your accounts and automatically track your budget.\n If you’re not one for spreadsheets and inputting numbers, this is for you. \nYou are able to view it and oversee the budget, but once you set your categories everything is automatically sorted for you. \nOccasionally something will go into the wrong category, but it’s easy to switch it and change the category for all future transactions.</item>
+        <item>Set a plan to pay off debt:\n\n
+If you want to get out of debt, you need a plan. There are a few options, but the two most common are the debt snowball and the debt avalanche. How do they work? For the debt snowball you simply write down all your debts from the smallest balance to the largest, then you use any extra money to pay off the smallest balance first. Once that’s paid off, take that payment plus any extra money, and put it on the next smallest balance until you’re debt free. With the debt avalanche it’s the same idea, except you sort by interest rate (highest to lowest) instead of by balance.  The debt avalanche will save you more money in interest, but you may prefer the small wins that the debt snowball provides in the beginning.</item>
+        <item>Get a second job:\n\n
+If you’re trying to reach a goal that seems to be taking longer than you’d like, you may want a second a job. It’s not forever; just a temporary job to get past whatever situation you’re in. If you’re in debt a second job is a great way to pay it off faster. If you’re building an emergency fund: get a second job to get it knocked out. The service industry is great for this, such as waiting tables or delivering pizzas. Service jobs are great for maximizing your extra working hours, since you’ll be getting tips and likely making more than you would at a regular hourly job.  If you aren’t able to get a second job then don’t worry!  There are plenty of other ways below to save money without working more.</item>
+        <item>Challenge everything:\n\n
+Challenge every single expense you have. Do you really need cable? What about those magazine subscriptions that you don’t read? Both of them cost money on their own and the ads could possibly persuade you to spend even more. Odds are you can cut something out. Perhaps you’ve been paying for a service so long that it’s second nature? It’s time for a challenge and here’s how to do it:\n
+
+ 1.Write down every single expense you have.\n
+   2.Look for expenses you can fully cut out.\n
+    3.Find ways to save money on the remaining expenses.\n
+</item>
+        <item>Compare insurance rates:\n\n
+When was the last time you checked insurance rates? This is something you should be doing annually. The cheapest isn’t always the best, but usually you’ll find that you can get the same coverage for less money if you shop around. Once a year take a look at all your insurance policies. Call around or go online and see if you can find better rates. Most of the time you can! </item>
+        <item>Use coupons wisely:\n\n
+There are primarily two crowds when it comes to coupons: the first crowd says coupons aren’t worth the time you spend cutting them; the second crowd says coupons are always worth it because they save you money. However, there exists another crowd: the savvy couponers. Be discerning with coupons. It may not be practical for you to spend hours each week cutting them, but you should be on the lookout for coupons that save you a lot of money. Check out popular services like Groupon or Living Social to look for a coupon every time you’re about to spend money. It takes seconds and could save you a lot, especially on services like an oil change or a massage.</item>
+        <item>Review your card statements:\n\n
+Whether you use a credit card or a debit card, review your statements each month. It’s not uncommon for random or bogus charges to appear on your account. It’s easy to overlook these charges when you’re not checking your statement each month. If you have multiple cards, use a service like Personal Capital to link all your accounts. This way you can see all your transactions in one place for an easy review.</item>
+        <item>Start an emergency fund:\n\n
+Emergency funds are something you should set in place to avoid using a credit card in an emergency. When a crisis hits you don’t want to turn to a credit card and pile on the debt.  Debt can turn a crisis into a catastrophe. Dave Ramsey popularized the idea of having an emergency fund instead of a credit card. Dave recommends getting it to $1,000 quickly; however anything is better than nothing. Even if you can just put $50 or $100 in your emergency fund each month, you’re still making progress.</item>
+        <item>Use the 30-day rule:\n\n
+When you’re considering making a large purchase, use the 30-day rule. If you still want it just as much after 30 days, consider making the purchase. Often you’ll find that you no longer care about whatever it is you wanted. This eliminates spontaneous purchases made out of excitement or emotion.</item>
+        <item>Take it down a notch:\n\n
+Set your thermostat one degree cooler or warmer depending on the season you’re in. You will barely notice the difference and a month later you can do it again since you’ll be fully adjusted to the new temperature. According to the U.S. Department of Energy, you can save as much as 1% on your yearly heating bill for each degree. </item>
+        <item>Don’t replace, repaint:\n\n
+If you’re planning to replace an item in your home, such as an appliance, cabinets or bathroom components; consider painting before replacing. If you’re only replacing it because of the appearance, painting may be your best bet. Anything from appliances and cabinets to sinks and bathtubs can be painted. You just have to buy the right paint. Always make this consideration before buying something new.</item>
+        <item>Know your options:\n\n
+Home Depot and Lowes aren’t the only places to buy home items, just like Best Buy isn’t the only place to buy electronics. Know your local and online options. We almost all know to look online before deciding on a purchase, but you may also be surprised at your local options. Overstock, wholesale and liquidation stores are a few of the places you should check out. Sure they’re hit or miss, but when you find some deals that save you hundreds or thousands it will all be worth it. We were able to buy ceramic tile for less than half the price we previously found, just by walking into a wholesale store that we passed by every day.</item>
+        <item>Keep up with maintenance:\n\n
+Maintaining your home and your vehicle can save you thousands down the road. Regular oil changes, replacing air filters and checking tire pressure will all lead to savings in the future. Likewise, replacing your home filters, being aware of issues and quickly making needed repairs will save you some serious cash. Be mindful and pay attention to general maintenance. Staying on top of maintenance will stop other problems before they happen.</item>
+        <item>Reduce your interest rate:\n\n
+If you have credit card debt, you know interest can be a killer. Call your credit card company and ask for a lower rate. You don’t need some amazing reason to convince them. Many companies will simply lower it because you asked. It’s easier than you may think to negotiate with credit card companies. Often times, they are just happy you’re paying instead of filing for bankruptcy.</item>
+        <item>Give up the expensive habits:\n\n
+If you’re trying to save money, your habits may be working against you. For example, the cost of cigarettes and alcohol can be insane. If you don’t want to completely cut it out, try cutting back. Smoking one less pack of cigarettes each week can save you as much as $40/month depending on the state you live in. When you count the costs of your habits, it may open your eyes to another benefit of quitting. </item>
+        <item>Get paid to spend:\n\n
+Maximize your credit card rewards by using the right card for your purchase. Some cards offer 5% cash back on gas, while others offer 6% cash back on groceries. Credit card rewards are a great way to earn while you spend, which in return, saves you money. It’s like putting a certain percentage of every purchase into a savings account.\n\n
+That was quick! Now you’ve got 20 ways to save money so start saving today. Some of these require you to take action, while others mean you’ve got to stop doing something. Whether you’re adding or subtracting something from your life, stay mindful of your spending. You should always know where your money is going, since you should be the one telling it where to go. Stick to your budget, follow these tips and save some money!</item>
+
+    </string-array>
+
+    <string-array name="Ridiculous">
+        <item>Dont throw out old doll heads.\nYou can turn them into handy night lights for your kids.</item>
+        <item>Tired Of Boiling Water Every Time You Make Pasta? Boil A Few Gallons At The Beginning Of The Week And Freeze It For Later.</item>
+        <item>If You Sleep Till Noon You Only Have To Pay For 2 Meals Instead Of 3</item>
+        <item>Batteries Dead In Your Smoke Alarm? Just Use Popcorn As A Smoke Alarm.\n\nWhen You Hear Crackling, Grab Your Popcorn And Get The Hell Out</item>
+        <item>Use A Snake To Hold Your Pasta Easily</item>
+        <item>If Your Car Is Making An Unsettling Noise, Just Turn Your Radio Up Until It Disappears</item>
+        <item>When Cutting Bagels In Half, Put Your Finger Through The Stabilization Hole To Keep It Steady</item>
+        <item>Fill Your Arms With Puppies So No One Can Ask You For Help</item>
+        <item>Pro Tip: If You Stir Coconut Oil Into Your Kale It Makes It Easier To Scrape Into The Trash</item>
+        <item>Fill A Rubber Glove With Warm Water And Put It On Your Hand When You Feel Lonely</item>
+        <item>Want To Get Rid Of Wrinkles Fast? Just Get Bit By A Rattlesnake</item>
+        <item>Want To Turn Your Drink Into Diet? No Problem! Just Push This Button</item>
+        <item>Add A Touch Of Magic To Your Cold By Putting Glitter In Your Mouth Before You Sneeze</item>
+        <item>If Your Phone Screen Is Too Small, Put It In Water. It Will Magnify The Screen Up To 200%</item>
+        <item>A Slice Of Red Onion In Your Dvd Drive Is An All-Natural Way Of Protecting Your Computer Against Viruses</item>
+        <item>To Maximize Horsepower On The Highway Shift From 5th Gear To "R" For Racing</item>
+        <item>If You Put Your Wipers Up Parking Inspectors Are Unable To Give You A Ticket</item>
+        <item>Retread Tires Easily With A Sharpie</item>
+        <item>Use Cello Tape As Hands Free Selfie Stick</item>
+        <item>Dress For The Weight You Want, Not The Weight You Have</item>
+        <item>Having Trouble Finding A Parking Spot? Turn On Your Hazard Lights To Make Yourself Immune To Traffic Laws, Then Park Wherever You Want</item>
+        <item>In An Awkward/Uncomfortable Situation? Just Moon-Walk Away. People Will Think You Are Walking Towards That, But You Are In Fact Leaving</item>
+        <item>Plant Your Hot Dog Seeds Now To Guarantee A Healthy Bounty For Your Backyard BBQ</item>
+        <item>Tear A Strip Off Of Plastic Cups To Make A Convenient Handle</item>
+        <item>Use Condoms As Homemade Waterproof Socks</item>
+        <item>When Painting The Outside Of Your House, Use A Fine Detail Brush. Larger Brushes Are Often Lower Quality And Use Far More Paint</item>
+        <item>Get A Whole Extra Glass Of Juice By Slightly Tilting The Carton</item>
+        <item>Having Trouble Opening A Soda Bottle? Hold It Upside-Down Whilst You Open It.\n\n
+           This Will Force All The Gases Away From The Neck Of The Bottle And Make It Much Easier To Open</item>
+
+    </string-array>
+
+    <string-array name="Life">
+        <item>“Be nice to people… maybe it will be unappreciated, unreciprocated, or ignored, but spread the love anyway. We rise by lifting others.”</item>
+        <item>“Disappointment is a blessing. If you were never disappointed, you had never know what was important to you.” </item>
+        <item>“The more we surrender to what cannot be, the better we control what can be.” </item>
+        <item>“Enlightenment lacks any form of judgment.” </item>
+        <item>“The best way to vanquish your enemies on the Internet? Ignore them. ” </item>
+        <item>“We learn precisely enough to keep us from wanting to know any more” </item>
+        <item>“I was not concerned about the dancing—I was confident that I could draw on my experience from preparing for martial arts competitions, with the supplementary advantage of an optimum intake of alcohol, which for martial arts is not permitted.” </item>
+        <item>“When I work, I work with discipline. But when I play, I play hard and rough!” </item>
+        <item>“Once you
+stop chasing
+the wrong things,
+The right ones
+catch you.” </item>
+        <item>“It sounds honourable to talk like you have your entire life mapped out with each day planned. There’s no problem with making plans and having goals; however, as followers of Jesus we have to keep in mind that God is free to change the course or destination as he so chooses. That’s why we are followers of Jesus, not followers of our own plans." </item>
+        <item>“What is important to you may mean nothing to me and what is important to me may mean nothing to you. And that is okay.” </item>
+        <item>“You realise power of money and love when you lose them. You realise power of money more when you lose love along with it!” </item>
+        <item>“A great quote can illuminate the infrastructure of life.” </item>
+        <item>“Just let it go, Please don not come back.
+Who?
+Devils of Mind!” </item>
+        <item> “Wisdom is disguised inside the face of ‪failure”‬” </item>
+        <item>“Everything has a decorum and a protocol.
+
+You cannot construct your house in the jungle without good relations with the wolf, the tiger, the lion.”</item>
+
+
+    </string-array>
+
+    <string-array name="Party">
+        <item>Use cupcake liners to keep popsicles from dripping.</item>
+        <item>Or make dessert ahead of time by scooping ice cream into cupcake liners and storing them in the freezer.</item>
+        <item>Use frozen fruit to chill wine without diluting it.</item>
+        <item> Put cloves in a halved lemon to keep bugs away.</item>
+        <item> Or chill warm wine almost instantly with a wet dish towel.</item>
+        <item>Use double skewers when making kebabs to keep food secure on the grill.</item>
+        <item>Use a muffin tin as a portable drink tray.</item>
+        <item>Or use a muffin tin to organize condiments for a DIY burger bar.</item>
+        <item>Keep a grilling cheat sheet on hand to make sure all your food is cooked to perfection.</item>
+        <item>Turn a watermelon into a giant boozy cocktail.</item>
+        <item>Clean your grill using aluminum foil.</item>
+        <item>Or use half an onion to remove stubborn grease.</item>
+        <item>Use leftover wine bottles to make adorable candle holders.</item>
+        <item>Or use wine or beer bottles as flower vases.</item>
+        <item>Make easy (and nostalgic) margaritas with Capri Sun.</item>
+        <item>Or make your own DIY, portable booze packets with just three ingredients.</item>
+        <item>Slice a pint of ice cream to make the perfect ice cream sandwich.</item>
+        <item>And prevent ice cream cones from dripping with a mini marshmallow.</item>
+        <item>And use your ice cube tray to make Jell-O shots</item>
+        <item>Do as much prep as you can at home, and plan your meals ahead of time.</item>
+        <item>Store chopped veggies, and marinate meat with regular Ziplocs. Use freezer Ziplocs to reheat frozen food, from soups to rice and more – just freeze, and reheat the bag in boiling water at the campsite. You can also freeze water in Ziplocs to use for your cooler. </item>
+        <item>You can use tin foil over your grate grill for less greasy grilling, or make endless, easy tinfoil packet meals. </item>
+        <item>Let your cooler chill with ice in it for 30 minutes before you pack it up, and your food will stay cool longer. Remember to pack the items you plan to eat first at the top, to minimize digging around the cooler for what you need.</item>
+        <item>Freeze water bottles and juice boxes to save space in your cooler.</item>
+        <item>If you dont want to pack a cooler, pack freeze-dried meals instead.</item>
+        <item>Dont want to bring the whole spice cabinet? Use a lighter to seal the end of a drinking straw, and fill with your desired spice. Seal the other end of the straw, label it, and snip it open when youre ready to get cooking.</item>
+        <item>If you have dryer lint, wax, and an egg carton, you can make this happen. </item>
+        <item>Remember to always pour water over hot coals once youre finished with your fire. No one wants a forest fire, and this will protect the feet of pups/kids who might be wandering around the campsite.</item>
+        <item>If youre building a fire pit, avoid waterlogged rocks, slate, and shale, so there are no explosions.</item>
+        <item>Whoever said you can not start a fire in the rain was wrong. Build your fire up off the wet ground, and put bits of candle wax beneath the firewood. The wax will act as fuel, and keep things hot enough to dry out the wet wood until it catches. This could take a while depending on how wet the wood is – be sure to have plenty of wax on hand, and dry tinder to keep things going. And get your firewood from up off the ground if you can, it will be drier.</item>
+        <item>Get the right cast-iron cookware, because cast-iron and campfires go together so well, they are relationship goals.</item>
+        <item>Use that cast-iron skillet for a one-pan breakfast thats so good, youll want to eat it twice.</item>
+
+    </string-array>
+
+    <string-array name="Survivial">
+        <item>Managing your attitude is key. Stay calm and take stock of your resources and immediate survival needs. Its okay to be a little afraid, but dont allow yourself to succumb to it. Determination is survival.</item>
+        <item>Ideally, youve brought a tarp or other item that can be used as shelter. If not, youll need to build something from your available resources. A lean-to is insufficient on its own, so add sides and insulation by filling gaps between logs and sticks with smaller twigs, pine needles, and leaves.</item>
+        <item>Finding water is your second highest survival priority. Be wary of standing water such as lakes or puddles, as these can be full of pathogens and bacteria. A running stream or river is best, but even this water should be purified before drinking. Boil the water over a fire, or make a water filter</item>
+        <item>Start your fire with a small tinder bundle made of leaves, grass, small twigs, or pine needles. With luck, youve brought along a flint and steel or a lighter. If not, improvise a magnifying glass with water and a clear plastic bag to amplify the suns rays and start a fire.</item>
+        <item>Once your fire is started, make sure the oxygen can flow. To this end, stack your fuel in a cone shape around your burning tinder. Add smaller branches and logs first and get them burning well before you add thicker, longer-burning logs.</item>
+        <item>Learning to navigate is important. A compass is handy, but there are other tricks you can use to find your way. Remember that the sun rises in the east and sets in the west. Find the North Star using the Big Dipper constellation — the North Star is at the end of the Dippers handle.</item>
+        <item>If rescuers are flying to find you, use two mirrors to catch their attention. One signal mirror isn\'t always reliable because of the varying angles of the sun. Use the second mirror to reflect light off the first to ensure you are seen from above.</item>
+        <item>It takes too much energy to hunt large animals, so focus on rabbits, squirrels, and fish for meat. Learn to make a snare to catch them, or make a spear out of sharpened sticks. Bonus tip: use the bones and skin of the animal to make tools and small pouches, and be sure to discard the entrails far from your location to avoid attracting predator animals.</item>
+        <item>As you learned in the tip about how to make a water filter, charcoal is useful to purify water. It has absorptive properties that can remove contaminants from lake or river water. Simply save a few chunks from your fire and youll always have some charcoal on hand.</item>
+        <item>The smoke from your campfire is not enough to attract rescuers attention. Make a smoke signal with material such as pine and spruce leaves to create thick, heavy smoke. Camp on high ground to be more easily seen.</item>
+        <item>Much of the water in the wild must be filtered to remove dirt, debris, and other contaminants. Use an empty bottle or container and poke small holes into it with your knife or a sharpened stick. Then fill the bottle up to two inches with a layer of coarse gravel, a layer of coarse sand, some ground charcoal from your fire, and a layer of fine sand. Pour the water in, and as it travels through each layer, impurities will be filtered out.</item>
+        <item>Take any small piece of cloth and place it inside a metal container with a cover. Place the container in a fire for a couple minutes. When the cloth is dark from having been burned but is still intact, you have successfully made a char cloth. Char cloth is an ideal fire starter because it catches with a small spark, saving you time and energy gathering tinder.</item>
+        <item>The uses of aluminum foil are endless in a survival situation. Use it to fashion dishes and cooking utensils, or to shield your shelter from heat. You can use it as a dry surface to start a fire. To save space, dont bring a whole roll. Simply fold up a few large sheets and tuck them into your pack.</item>
+        <item>In addition to keeping your feet warm and dry, socks can be used for a number of other purposes. A clean sock can make a water filter in a pinch, or you can use them on your hands for extra warmth.</item>
+        <item>Blisters can be painful and can slow you down as you travel. Prevent blisters by covering your toes in duct tape, reducing friction as you walk. If you already have a blister, puncture it with a sanitized pin or needle on either side to drain the fluid and then cover it.</item>
+        <item>Waterproofing spray is good to have, but if you don’t have any, make sure your sleeping area and fire are elevated. Use a hammock or logs to raise your body from the ground. Cover your shelter with pine branches to allow rain to run off the shelter.</item>
+        <item>If you run across a wolf or coyote, dont run or play dead. Look the animal in the eye and slowly back away.</item>
+        <item>Know what plants are edible and which can make you sick or kill you. This requires study and practice to familiarize yourself with edible plants. Even when you learn about these plants, never eat a plant if youre in doubt. Common edible plants include cattail, wild grass, dandelion, and acorns.</item>
+        <item>Any time your skin is broken, you are at risk for infection. An infection can worsen and become a serious problem, so its important to treat cuts as soon as possible. Never wash a wound with dirty water. Use only filtered and purified water to wash the wound thoroughly, and bind it with a bandage from your first aid kit.</item>
+        <item>There are some hygiene practices that can be largely ignored in a long term survival situation, but others should not be shirked. Keeping your teeth clean will prevent painful tooth infections. Fashion a toothbrush from birch bark, or simply scrub your teeth clean with a cloth. Try to also keep areas where skin touches skin (such as armpits, groin, and between toes) clean and dry to prevent bacteria and fungus buildup.</item>
+        <item>If you never learn another knot, learn the bowline knot. The bowline is the kind of knot that gets tighter the harder you pull — a true multi-purpose knot. After you make a loop, remember this: the rabbit comes out of the hole, in front of the tree, goes behind the tree, and back down its original hole.</item>
+        <item>When you catch a small animal for food, be sure to skin and gut the animal quite far from your fire and shelter and discard the remains even further still. This will prevent any predatory animals from catching the scent of the kill and paying your campsite a visit for some dinner of their own.</item>
+        <item>Rain is the most obvious way to collect water, but what if it doesn\'t rain? You can also collect water from trees, which “sweat” water throughout the day. Tie a plastic bag around tree branches and leave it there. When you return to it, you will have collected water that has condensed inside the bag.</item>
+        <item>Traveling through the wilderness in the dark is dangerous. ​Most predatory animals are nocturnal, which means they will see you long before you see them. There are dangers in the terrain that you may not see at night, too. You can fall off a cliff or into a pit if you cant see where you are going.</item>
+        <item>Sleeping above the ground will keep you warmer and drier than sleeping on the ground itself. Make a hammock out of a tarp or sturdy poncho, or raise your sleeping area off the ground using logs. Construct this bed similarly to the way you build your shelter — thick logs first, then fill in the gaps with smaller sticks and leaves.</item>
+        <item>You never know when a supply item might fail, so always carry several options for emergency use. Have two or three options for fire starting and waterproofing, a backup knife or saw, several ponchos or garbage bags, and extra water pouches on hand at all times.</item>
+        <item>Hand sanitizer has a variety of uses in a survival situation. It can be used to treat small wounds, and because its so high in alcohol content, its very flammable. Put a few drops on your tinder bundle or a small cloth and light it, and your fire will be burning in no time.</item>
+        <item>Youve heard that “duct tape fixes everything,” and its never more true than in an emergency. You can use duct tape to reinforce your waterproofing efforts, strengthen your supply pack, prevent blisters, treat injuries, repair items, and to help you make tools.</item>
+
+    </string-array>
+
+    <string-array name="Brainy">
+        <item>There are only two great tragedies in life: one is not getting what you want and the other is getting it.”</item>
+        <item>“Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things arent. Im not surprised some people prefer books.”</item>
+        <item>“Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.” </item>
+        <item>"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."</item>
+        <item>“Love takes off the masks that we fear we cannot live without and know we cannot live within.”</item>
+        <item>“Sometimes the questions are complicated, and the answers are simple.”</item>
+        <item>“What gets us into trouble is not what we dont know. Its what we know for sure that just aint so.”</item>
+        <item>"Anyone who has never made a mistake has never tried anything new." </item>
+        <item>"Knowing what must be done does away with fear.”</item>
+        <item>"Holding onto your anger is like drinking poison and expecting the other person to die.”</item>
+        <item>“Life can only be understood backwards; but it must be lived forwards.”</item>
+        <item>“Its not that Im so smart. Its just that I stay with problems longer.”</item>
+        <item>“Life is really simple, but we insist on making it complicated.”</item>
+        <item>"The two most important days of your life are the day that youre born and the day that you find out why.”</item>
+        <item>"Education is not the learning of the facts, but the training of the mind to think."</item>
+        <item>“In three words I can sum up everything Ive learned about life: it goes on.” </item>
+        <item>“The present moment is filled with joy and happiness. If you are attentive, you will see it.”</item>
+        <item>“A bird doesn\'t sing because it has an answer, it sings because it has a song.”</item>
+        <item>“We learn from experience that men never learn anything from experience.”</item>
+        <item>“Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.”</item>
+        <item>“If you surrender to the wind, you can ride it.”</item>
+        <item>“We dont see things the way they are. We see them the way we are.” </item>
+        <item>“A journey of a thousand miles begins with a single step.”</item>
+        <item>“All life is an experiment. The more experiments you make, the better.” </item>
+        <item>“Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.”</item>
+        <item>“I write because I dont know what I think until I read what I say.”</item>
+        <item>“Learn from the mistakes of others. You can\t live long enough to make them all yourself.”</item>
+        <item>“Many receive advice, only the wise profit from it.”</item>
+        <item>“Destiny is a name often given in retrospect to choices that had dramatic consequences.”</item>
+        <item>“The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.”</item>
+
+    </string-array>
+
+    <string-array name="Daily">
+        <item>Plan your day based on your bodys energy cycles</item>
+        <item>Take power naps daily</item>
+        <item>Wake up at the same time every day</item>
+        <item>Drink lots of water</item>
+        <item>Avoid energy drinks</item>
+        <item>Dont smoke / quit smoking</item>
+        <item>Organize your life</item>
+        <item>Have a protein-packed breakfast</item>
+        <item>Dress up with vibrant colors</item>
+        <item>Exercise for 20 minutes after you wake up</item>
+        <item>Get enough sleep</item>
+        <item>Define your top three most important tasks for the day</item>
+        <item>Meditate and express gratitude</item>
+        <item>Have accountability partners</item>
+        <item>Dont compare yourself to others</item>
+        <item>Cut out people who drag you down</item>
+        <item>Introduce music or white noise to improve focus</item>
+        <item>Do the hardest or most unappealing tasks first</item>
+        <item>Write things down and capture every idea</item>
+        <item>Put loose change in a jar</item>
+        <item>Write down yesterdays expenses</item>
+        <item>Unsubscribe from junk email and catalogs</item>
+        <item>Pack a meal, coffee, or snack</item>
+        <item>Speak words of affirmation</item>
+        <item>Listen to your favorite song</item>
+        <item>Read 10% of a non-fiction book every day</item>
+        <item>Learn a new word every day</item>
+    </string-array>
+
+    <string-array name="Extras">
+        <item>Chill Wine With Frozen Grapes:\n\n
+If you want your wine chilled,\nbut don\’t want to dilute the flavor,\ntry sticking some frozen grapes in your glass instead of ice cubes.</item>
+        <item>Wine Ice Cubes:\n\n
+Cooking with wine is about to get so much easier.\nSimply reach into your freezer and defrost just the right amount of wine to make a killer pasta sauce.</item>
+        <item>Pen Spring Protection:\n\n
+Adding a pen spring around your cords will keep the ends from fraying.\nJust what you need to protect all of those phone and laptop cords!</item>
+        <item>Post-It Note On A Keyboard:\n\n
+Running the sticky part of a Post-It note along your keyboard will help remove bits of food, pieces of grime, etc.</item>
+        <item>Rubber Band Around A Paint Can:\n\n
+Remove excess paint from your brush by placing a rubber band around the open paint can. Just genius!</item>
+        <item>Check Your Cell Phone While House-Hunting:\n\n
+Make sure you\’ve got cell service while you’re house-hunting. You wouldn\’t want to move into a place where you couldn\’t take calls.</item>
+        <item>Fix Flip-Flops:\n\n
+If you\’ve ever had a flip-flop pop out of place while you were walking, you\’re going to greatly enjoy this simple hack. But, you\’ll probably be a little peeved you didn\’t think of it sooner.</item>
+        <item>Cut Perfect Cinnamon Rolls With Floss:\n\n
+Believe it or not, dental floss will help you slice through dough with ease, giving you perfectly shaped cinnamon rolls, cookies and more.</item>
+        <item>Apply Eyeliner With A Spoon:\n\n
+Placing a spoon on the top of your lid will help guide you so that you get a perfect line each and every time.</item>
+        <item>Keep Up With Bobby Pins:\n\n
+Placing bobby pins in a Tic Tac container means they\’re easy to throw in your bag and easy to keep up with. Bobby pins have a way of disappearing, but not with this nifty trick.</item>
+        <item>Easily Pour Dressings:\n\n
+Instead of removing the foil from dressing or oil, poke holes in it, instead.\nThat way you\’ll never have dressing come rushing out of the bottle too quickly again.\nJust think of all the caloies you\’ll save!\n
+This is also a great tip for things like vegetable oil (shown in the picture), rubbing alcohol, and mineral oil.</item>
+        <item>Easily Dispensable Snacks:\n\n
+Placing cheerios, trail mix and more in empty coffee creamer bottles allows you to easily pour just the right amount out to keep your toddler entertained (and full).\nThey\’re not only great for in-house storage but at the park, in the pocket of your car, or on a boat, as it keeps the snacks from getting smushed.</item>
+        <item>Aloe Vera Ice Cubes:\n\n
+Aloe vera makes sunburned skin feel so much better already, but imagine if it were cold to boot.\nThat\’s the ultimate relief, right there.</item>
+        <item>Mark The End Of Tape With A Paper Clip:\n\n
+Your days of hunting to find the edge of the tape are over if you use this simple trick.\nIt marks the spot, every time.</item>
+        <item>Use Tabs To Create Extra Hanging Space:\n\n
+Adding soda tabs to your hangers will give you even more space to hang things.\nThis is a tiny closet owner\’s dream come true!</item>
+        <item>Fill A Large Bucket With A Dustpan:\n\n
+The only word I can think of to describe this hack right now is, “brilliant.”</item>
+
+    </string-array>
+
+    <string-array name="Nature">
+        <item>Unplug:\n\n
+If there may be flooding, unplug all of your electrical devices and move them to the highest floor of your home.</item>
+        <item>Save your memories:\n\n
+Gather all your favorite photos, scan them  if they\'re not already digital and save them on a memory card you can take with you if you evacuate.
+            \nMake a copy of your memory card and mail it to an out-of-state friend or relative, just in case the original gets lost or damaged.</item>
+        <item>Email photos:\n\n
+Another good idea just in case is to email yourself your favorite photos.\nThis way, they will be safe and dry, no matter what.
+            \nConsider a folder in a Gmail account where you can save photos that you\'ve taken or photos family and friends send you over the years.</item>
+        <item>Save your phone battery:\n\n
+When your phone is your only lifeline, you need to make sure it will last as long as possible.\nTo save the battery, turn off Bluetooth, Wi-Fi, GPS and location services.</item>
+        <item>Take portable phone chargers, too:\n\n
+It\'s always good to have a couple portable phone chargers ready in case you need to flee.
+            \nThe Zagg ($50) is my charger of choice because it\'s reliable, but a charger that you can recharge using the sun,
+            like the Portable Solar Power Bank ($25) or the Anker Solar Charger ($52) are smart choices, too.</item>
+        <item>Make a go bag:\n\n
+Go bags are bags that you have ready in case of any type of emergency when you just need to, well, go.</item>
+        <item>Save your important documents:\n\n
+Get all of your important documents, like birth certificates, marriage certificates, passports,
+            bonds, Social Security cards and other items and put them in a waterproof storage bag.
+            \nA zippered gallon freezer bag will work. Keep the bag somewhere where you can grab it and pack it at a moment\'s notice.</item>
+        <item>Take water makers:\n\n
+As many people find out in evacuation circumstances, drinking water becomes a scarcity quickly.
+            \nYou can make sure you have water no matter what by packing devices that can purify rain, river or puddle water for drinking.
+            \nLifeStraw Go Water Bottle ($45) or the Icon LifeSaver ($150) are good choices.</item>
+        <item>Save drinking water:\n\n
+If you\'re going to ride out the storm (please, evacuate if you are ordered to!) store drinking water in gallon freezer bags.
+            \nJust fill with filtered tap water from your sink before hand and store them in a safe place.</item>
+        <item>Save water for the toilet:\n\n
+You\'re also going to need water to operate your toilet if water services fail.\nDon\'t use your drinking water, though.\nFill up your tub with water beforehand.
+            \nCut the bottom off of a gallon milk jug and use it to scoop water into the toilet tank to flush. </item>
+        <item>Top off your gas tank:\n\n
+If you suspect that evacuation may be in your future, keep your car\'s gas tank topped off at all times.
+            \nDuring an emergency, fuel can become scarce and you may not have time to fill up anyway.</item>
+        <item>Don\'t forget your pets:\n\n
+Remember, shelters do not take animals during emergency situations.\nYour pets will need to evacuate with you, so don\'t forget to make a plan for them, too.
+\nKeep freeze-dried pet food and a collapsible water bowl in the trunk of your car, for example, so you can have it ready to go.</item>
+        <item>ASPCA pet disaster preparedness tips:\n\n
+You can download a brochure from the ASPCA on how to prepare your pet for a disaster here.
+            \nOne excellent tip they provide is to have a backup.\nBe sure a friend, family member or neighbor can evacuate with your pet if you are unable.</item>
+        <item>Be prepared to swim:\n\n
+If massive flooding is a possibility, keep inflatable life jackets with you.\nMake sure each member of the family has one, as well as each of your pets.
+\nThey are small, light, easy to carry and will keep you afloat in an emergency until rescuers come.
+            \nThe Onyx Outdoor Inflatable Life Jacket or the X-Lounger Inflatable Life Jacket are good choices.
+            \nJust make sure you choose bright colors so you are easily seen.</item>
+        <item>Keep perishables cool:\n\n
+Stow a couple of gallon freezer bags full of water in your freezer, too.
+            \nThey\'ll keep your perishables cool during a blackout and you can drink the water when the ice melts.\nWin-win!</item>
+        <item>Use your washer, too:\n\n
+You can also fill your washing machine tub with ice, then bury your perishables in the ice.
+\nThis is a great option during a short-term power outage (or parties!) and you can just drain your washing machine when the ice melts.
+            \nBe sure you only try this with upright washers. Front-loading washers will make a mess when you open the door.</item>
+        <item>Stock up on baby wipes:\n\n
+When there\'s no electricity and no water, baby wipes are a lifesaver for wiping faces, taking quick sponge baths and a million other things.</item>
+        <item>Pack hand sanitizer:\n\n
+Whether you are evacuating or staying, you need to put a travel-size bottle of hand sanitizer in everyone\'s pocket.
+            \nPlaces to wash your hands are far and few during a disaster, but bacteria is aplenty.</item>
+
+    </string-array>
+
+    <string-array name="Self">
+        <item>The Right Way to Break from a Wrist Grab:\n\n
+If you\’re being mugged, the attacker may grab your wrist in an attempt to prevent you from running.
+            \nYour first reaction to break from this type of wrist grab is probably to pull away from your shoulder. Unfortunately,
+            this doesn\’t usually work the way you hope.
+\nIf you\’re being held by the wrist, instead turn your wrist in the attacker\’s hand so that the attacker\’s thumb is below your thumb.
+            \nThen, instead of pulling away from your shoulder, quickly bend your elbow to jerk your arm from the attacker\’s grip.</item>
+        <item>Break Their Noise – Without a Punch:\n\n
+According to Pacific Wave Jiu Jitsu, the “Straight Strike” is the best way to induce pain on the attacker while also potentially breaking the nose.
+            \nTo complete the Straight Strike, you\’ll want to hit your attacker with an open palm, pushing up on the nose with the bottom of your hand.
+\nTo break the nose, you\’ll want to put a lot of force behind the hit.\nYou can also use this move to just induce pain by pressing the nose into the face.</item>
+        <item>Feel Like a Spy by Learning How to Escape Zip Ties:\n\n
+Rarely do we like to think of the chance that we would be bound with zip ties,
+            but knowing how to break free of them can be lifesaving if you\’re ever in that situation.
+            \nBecause there are various ways that your hands may be restrained, there are a few ways that you can break free of your zip ties.
+\nIf your wrists are being zip tied, try to keep your hands in fists with your palms facing down.
+            \nIf you are zip tied in this position, you can easily twist your wrist to slip out of the tie</item>
+        <item>Reach for the Ear:\n\n
+Your attacker\’s ear may not be the first thing you think of when you\’re looking for a way to defend yourself, but it can be a great way to break the attack.
+\nThe ears are sensitive and because they\’re attached to the head, your attacker will have trouble seeing if you\’re pulling them by the ear.
+\nIf you can, latch on to their ear. Chances are, they will jerk away and you\’ll have an opportunity to run.</item>
+        <item>Know the Major Pressure Points:\n\n
+Pressure points can be a great way to fight off an attacker without needing extra strength or intense moves.
+            \nKnowing all of the pressure points you should reach for can help you fight regardless of the position you are in.
+\nPopular pressure points include the knee cap, the back of the knee, the groin, the ears, the eyes, the nose, and the throat.
+            \nIf you have access to any of these areas, give it a good punch or kick.</item>
+        <item>Keep Your Keys On Hand:\n\n
+When you\’re walking to your car or to another destination late at night, keep your keys between your ring and middle finger in your dominant hand.
+            \nKeeping the key accessible means it can be used as a weapon if you are attacked.</item>
+        <item>Remain Calm and Collected:\n\n
+Staying calm while you\’re being attacked is definitely a difficult task,
+            but it is necessary if you want to stay level headed and make calculated decisions.
+            \nWhen you are being attacked, don\’t allow your panic to take over.
+\nRemember that you are capable of fighting off your attacker and don\’t allow yourself to get too scared.
+            \nWhen you maintain your composure, you will have a better chance to think through your actions.</item>
+        <item>If You Can, Attack Them First:\n\n
+Don\’t wait for them to attack you before you land your first hit.
+            \nIf they\’re closing in on you, attempt to grab you, or otherwise threaten you, don\’t be afraid to land the first hit.
+\nHitting your attacker first puts you at the advantage and will leave them feeling frazzled.
+            \nNot only will they need to recover from the hit before attempting to attack you again, you will have time to flee.</item>
+        <item>Poke Them in The Eye:\n\n
+Sometimes the simplest moves can give you the most benefit.
+            \nSomething as basic as poking your attacker in the eye could be all you need to get free and return to safety or at least call the police.
+\nIf you\’re being attacked, don\’t be afraid to do some damage.
+            \nWe all know how badly being poked in the eye accidentally can hurt, so just imagine the kind of pain you can cause if you purposefully go for the eyeballs.</item>
+        <item>Never Stop Moving:\n\n
+If you\’re being attacked, the worst thing you can do is stand still – even if you\’re not trained in self-defense.
+            \nUnless they have a weapon to you, you should always attempt to fight back.
+\nDon\’t believe that standing still will make the process over faster.
+            \nIt usually only puts you in even more danger.
+            \nShow that you\’re not going to allow them to attack you by fighting back and going for any available pressure points.</item>
+        <item>You Can Fight with More Than Just Your Fists:\n\n
+If you\’re not a big fighter, you may forget that just about any body part can do some serious damage at injuring another individual.
+            \nWhile you may feel most comfortable hitting with your fists or hands, it doesn\’t necessary mean that they are the best option for fighting off an attacker.
+\nKnow how to use your head, elbows, and knees to injure your attacker.
+            \nThis video below can teach you various ways to hit an attacker with your elbow.</item>
+        <item>Avoid an Attack by Keeping Hair Down:\n\n
+While this technique doesn\’t necessary help you fight off an attack, it can prevent you from being attacked in the first place.
+            \nBecause attackers will typically look for women who make “easy victims,” you\’ll want to do everything you can to break free of that part.
+\nKeep your hair out of ponytails or braids if you\’re walking alone.
+            \nAttackers like women with ponytails or braids because it is easy for them to grab on to.
+            \nWait until you get to your destination to put your hair up.
+\n\nIf you are grabbed by the ponytail, Real Self Defense says that you should immediately squat down to protect your head and back.</item>
+        <item>Know Your Surroundings:\n\n
+To avoid getting mugged and ensuring you\’re prepared if you\’re attacked, you should know your surroundings.
+            \nSafeBee says this means that you will want to leave your headphones out and keep your phone in your pocket or purse.
+\n\nIf you feel safer having your phone in hand, be sure you aren\’t texting or playing games as you\’re walking.
+\n\nBy keeping your eyes open to what is around you, you can better see an attack coming and know what to do if you are mugged.
+            \nYou\’ll know who is there, what shops are open, and where you should run if someone where to come after you.</item>
+        <item>Get Loud:\n\n
+Finally, the last tip for fighting off an attacker is to get loud.
+            \nLifehaker suggests yelling “Back off!” if you are being attacked.
+\n\nYelling can alert individuals in the area that there is a problem while also telling the attacker that you’re willing to put up a fight.
+            \nWhile this may not cause the attacker to immediately back down, someone may come to help you.</item>
+
+    </string-array>
+
+    <string-array name="Travel">
+        <item>#1 Create a Travel Journal Before Your Trip</item>
+        <item>#2 Read a History Book</item>
+        <item>#3 Try Local Food</item>
+        <item>#4 Find a Cheap Local Restaurant Away From the Tourist Places</item>
+        <item>#5 Plan Your Trip Together</item>
+        <item>#6 Let Someone at Home Know Your Plans</item>
+        <item>#7 Notify Your Bank About Your Upcoming Travel</item>
+        <item>#8 Travel With More Than Just One Credit Card</item>
+        <item>#9 Keep Emergency Cash</item>
+        <item>#10 Learn Common Phrases of the Local Language</item>
+        <item>#11 Always Buy Travel Insurance</item>
+        <item>#12 Make Photocopies of Important Documents</item>
+        <item>#13 Share Your Travel Tips and Travel Knowledge</item>
+        <item>#14 Use TripAdvisor (Smartly)</item>
+        <item>#15 Bring a Camera</item>
+        <item>#16 Keep Your Devices Charged</item>
+        <item>#17 Bring Spare Camera Battery (or Three)</item>
+        <item>#18 Backup Your Photos</item>
+        <item>#19 Beware of Free Public Wi-Fi</item>
+        <item>#20 Use Offline Maps for Navigation</item>
+        <item>#21 Use Google Translate</item>
+        <item>#22 Decide What Types of Places Will You Visit</item>
+        <item>#23 Visit the Touristy Stuff</item>
+        <item>#24 Visit Non-Touristy Stuff</item>
+        <item>#25 Travel in a Shoulder Months or Off-Season</item>
+        <item>#26 Get Up Early</item>
+        <item>#27 Be Flexible</item>
+        <item>#28 Get Lost On Purpose</item>
+        <item>#29 Leave Your Comfort Zone</item>
+        <item>#30 You Won\’t Be Able to See Everything, And That\'s Fine!</item>
+        <item>#31 Be Spontaneous</item>
+        <item>#32 Slow Down</item>
+        <item>#33 Use Public Transport</item>
+        <item>#34 Book Early for Cheap Flights</item>
+        <item>#35 Travel Responsibly</item>
+        <item>#36 Cheapest Doesn\'t Always Mean the Best</item>
+        <item>#37 Try Work and Travel Visa</item>
+        <item>#38 Don\'t Joke at the Borders</item>
+        <item>#39 Pack Light and Smart</item>
+        <item>#40 Bring Sarong</item>
+        <item>#41 Use Passport Protector</item>
+        <item>#42 Pack Your Stuff in Plastic Bags or Drybags</item>
+        <item>#43 Pack a Flashlight</item>
+        <item>#44 Travel With a Toilet Roll</item>
+        <item>#45 Beat the Jet Lag</item>
+        <item>#46 Get Vaccinated</item>
+        <item>#47 Stay Hydrated</item>
+        <item>#48 Carry a Travel First-Aid Kit</item>
+        <item>#49 Stay Healthy</item>
+        <item>#50 Travel More</item>
+
+    </string-array>
+
+    <string-array name="Study">
+        <item>1. Learn the same information in a variety of ways.</item>
+        <item>2. Study multiple subjects each day, rather than focusing on just one or two subjects.</item>
+        <item>3. Review the information periodically, instead of cramming.</item>
+        <item>4. Sit at the front of the class.</item>
+        <item>5. Don\’t multitask.</item>
+        <item>6. Simplify, summarize, and compress the information.</item>
+        <item>7. Take notes by hand, instead of using your laptop.</item>
+        <item>8. Write down your worries.</item>
+        <item>9. Test yourself frequently.</item>
+        <item>10. Connect what you\’re learning with something you already know.</item>
+        <item>11. Read key information out loud.</item>
+        <item>12. Take regular study breaks.</item>
+        <item>13. Reward yourself at the end of each study session.</item>
+        <item>14. Focus on the process, not the outcome.</item>
+        <item>15. Drink at least eight glasses of water a day.</item>
+        <item>16. Exercise at least three times a week.</item>
+        <item>17. Sleep at least eight hours a night, and don\’t pull all-nighters.</item>
+        <item>18. Eat blueberries.</item>
+        <item>19. Eat chicken and eggs.</item>
+        <item>20. Eat omega-3 fatty acids.</item>
+
+    </string-array>
+
+    <string-array name="Flirt">
+        <item>1. Be confident.\n\n
+            Trust me, there\'s nothing sexier than confidence.
+            Your crush (and everyone else) will take notice if you\'re strutting down the halls like you own them.
+            Your crush will want to get to know the girl who knows she\'s something special. </item>
+        <item>2. Show you\'re interested in their life.\n\n
+            Everyone loves a compliment, and most people love to talk about themselves.
+            If you get a chance to talk to your crush, don\'t let it go to waste.
+            Ask them lots of questions about their life and show that you truly are interested.
+            They\'ll appreciate how curious you were about them and they\'ll def be looking forward to another conversation. </item>
+        <item>3. Draw attention to your lips.\n\n
+            It sounds ridiculous but it actually works.
+            Get pouty and keep chapstick or lip gloss in your bag.
+            When you see your crush coming your way, swipe on a layer.
+            They\'ll be dreaming about those lips all day long. </item>
+        <item>4. Smile and say hi when you pass them in the halls.\n\n
+            I know, when you\'re walking down the hall and you see your crush approaching,
+            it can be the scariest feeling in the world.
+            Your gut reaction will probably be to look down at your phone and pretend like you\'re in a furious text conversation,
+            but ignore those instincts, look up, and smile at them.
+            No need to get into a big conversation (unless you want to!).
+            Just take a half-second to wave, say hi, then keep moving. Boom—you\'ll be on your crush\'s radar.</item>
+        <item>5. Ignore your crush ,but not for long.\n\n
+            It sounds counterintuitive, doesn\'t it?
+            But imagine running into your crush and a group of their friends at McDonald\'s.
+            Say hi to their friends first and strike up a convo.
+            Your crush will feel the tiniest bit left out, until you turn to include them (and make their day).</item>
+        <item>6. Master the bump-and-flatter.\n\n
+            "Accidentally" run into a hottie at a crowded party.\n
+            You can laugh and say, "Oh, sorry. I become a total klutz around cute people."
+            They\'ll be immediately flattered and want to know more about you.
+            That\'s when you introduce yourself and start a convo. </item>
+        <item>7. Let them catch you looking at them.\n\n
+            I know, this seems so scary.\n
+            Usually, when someone catches you staring you look away quickly so they don\'t realize you were literally drooling while watching them eat a hamburger.
+            But, next time, try this instead. Gather up all the confidence you can.
+            Then when your crush catches you staring, smile back at them, maybe even wink.
+            It will prove that you\'re confident AF and will give them the excuse to come talk to you. </item>
+        <item>8. Check out their clothes.\n\n
+            If they\'re wearing a band shirt or sport jersey, ask them about it.
+            It will make you seem sincere and interested in their life, and it will start a nice conversation where you can learn more about each other. </item>
+        <item>9. Be obvious sometimes.\n\n
+            Maybe you\'re playing frisbee in the park and you "accidentally" throw it toward the cuties near you.
+            An exaggerated apology lets them know you\'re flirting on purpose (and in on the joke) and could lead to a conversation. </item>
+        <item>10. Introduce your friend.\n\n
+            If you\'re too scared to start a convo alone, bring your friend with you and introduce her to your crush.
+            This may seem weird, but sometimes it\'s easier to approach a person for someone else. </item>
+        <item>11. Flirt before you see them.\n\n
+            Text, "You should wear that blue shirt tonight—it makes your eyes look amazing :)
+            \nA flirty text lets your crush know you\’re thinking of them and will get them excited to see you later.
+            Plus, seeing if they took your advice is a low-key way to gauge if they\’re interested in you.</item>
+        <item>12. Start off with something cheesy to break the ice.\n\n
+            If you\'re thinking of pick-up lines, the only ones that are coming to you are probably super lame recycled ones.
+            "Did it hurt , when you fell from heaven?" Or:
+            "How much does an elephant weight? Just enough to break the ice!"
+            If you\'re trying to play it smooth but you\'re coming up short, embrace the awkwardness and just be cute as hell.
+            You know Jughead Jones would appreciate it. </item>
+
+    </string-array>
+
+    <string-array name="General">
+        <item>Memorize something everyday.</item>
+        <item>Constantly try to reduce your attachment to possessions.</item>
+        <item>Develop an endless curiosity about this world.</item>
+        <item>Remember people\’s names</item>
+        <item>Get fit!</item>
+        <item>Learn to focus only on the present.</item>
+        <item>Even more specifically, live in THIS moment.</item>
+        <item>Smile more often.</item>
+        <item>Drink water.</item>
+        <item>Don\’t take life so seriously!</item>
+        <item>Think positive thoughts.</item>
+        <item>Read books.</item>
+        <item>Get in the sun.</item>
+        <item>Help others.</item>
+        <item>Set aside a specific time to worry each day.</item>
+        <item>Be honest at all times.</item>
+        <item>Sleep less.</item>
+        <item>Read “Bringers of Light” and “Conversations with God” by Neale Donald Walsch.</item>
+        <item>Figure out what your goals and dreams are.</item>
+        <item>Start your day off right.</item>
+        <item>Utilize "The Burning Method".</item>
+        <item>Travel.</item>
+        <item>Learn to be unaffected by the words of others.</item>
+        <item>Read “Zen and the Art of Happiness” by Chris Prentiss.</item>
+        <item>Develop the ability to forgive.</item>
+        <item>Be the person that makes others feel special.</item>
+        <item>Learn to lucid dream</item>
+        <item>Visualize daily.</item>
+        <item>Meditate everyday for at least 20 minutes.</item>
+        <item>Learn to control your mind.</item>
+        <item>Learn to control your emotions.</item>
+        <item>Take a class in speed reading.</item>
+        <item>Relax!</item>
+        <item>Work on making good first impressions.</item>
+        <item>Learn to use your eyes to their full potential:</item>
+        <item>Be mysterious.</item>
+        <item>Come up with a life mantra.</item>
+        <item>Get good at something.</item>
+        <item>Work out those abs.</item>
+        <item>Keep your brain sharp.</item>
+        <item>Read something inspirational right before bed and after waking.</item>
+        <item>Do what you love.</item>
+        <item>Choose your friends wisely.</item>
+        <item>Don\’t burn bridges.</item>
+        <item>Keep a journal/diary.</item>
+        <item>Read “New Pyscho-Cybernetics” by Dr. Maxwell Maltz.</item>
+        <item>Learn to use and trust your subconscious/intuition.</item>
+        <item>Develop a charismatic personality.</item>
+        <item>Love is all there is.</item>
+        <item>Computer</item>
+        <item>phone</item>
+        <item>Computer</item>
+        <item>phone</item>
+        <item>Computer</item>
+    </string-array>
+
+    <string-array name="Relationship">
+        <item>1. Listen:\n\n
+It might sound obvious, but when you really allow yourself to listen—and ask questions about—what your partner says, it not only leads to better conversations, but also better communication.</item>
+        <item>2. Take a Few Days Apart:\n\n
+Missing each other is a great way to reconnect. Have a weekend getaway with your friends every few months.</item>
+        <item>3. Find a Support Team:\n\n
+Have a handful of great friends or family members you can call so your significant other doesn\’t have to hear every small grievance going on your life.</item>
+        <item>4. Put Away Your Phones:\n\n
+One of the biggest relationship tips is to give your undivided attention when your partner is speaking. It\’s is one of the most important things you can do.</item>
+        <item>5. Volunteer Together:\n\n
+Giving back is a great way to keep perspective of how great your relationship is—and how lucky you both are.</item>
+        <item>6. Create a Checklist:\n\n
+Jot down new and fun things you want to accomplish for a day as a duo.</item>
+        <item>7. Talk to Couples Over 65 Years Old:\n\n
+Get relationship tips from them, and see what you can take away to apply to your relationship.</item>
+        <item>8. Stop and Appreciate All That Your Relationship Is This Very Second:\n\n
+Stop living for what it can be. This person is choosing to be in your life every day, not every day in the future.</item>
+        <item>9. Revisit the Questions You Asked in the Beginning:\n\n
+What are you hoping to accomplish in the next year? What are you scared of? These answers change, so we need to keep asking these questions.</item>
+        <item>10. Find 10 Things You Really Love About Them and Tell Them:\n\n
+Everyone needs a confidence booster now and again.</item>
+        <item>11. Stop Nagging:\n\n
+Seriously, stop. Take a step back and figure out the big things about your partner that truly bother you, and approach him/her from a place of concern and support, instead of nitpicking for sport. That\’ll get you nowhere.</item>
+        <item>12. Get Over Needing to Be Right:\n\n
+Learning to say “I was wrong” is a skill worth learning.</item>
+        <item>13. Take Care of Yourself:\n\n
+No relationship can be successful if you don\’t feel good about yourself, both inside and out.</item>
+        <item>14. Know What You Need and Then Ask for It:\n\n
+You\’re dating a human, not a magical psychic.</item>
+        <item>15. Take a Class:\n\n
+Couples who learn together connect on a deeper level. Find some common ground (cooking? art? science?), and go from there.</item>
+        <item>16. Stop Complicating Things That Aren\’t Complicated Enough:\n\n
+Don\’t pull a Carrie Bradshaw during the Aiden years: If you bemoan the fact that your relationship is going too well, you might need to revisit why you\’re constantly seeking out drama.</item>
+        <item>17. Assume That If Something Was Said That Hurt Your Feelings, It Wasn\’t Intended That Way:\n\n
+Why would they want to upset you or hurt you? Give your partner the benefit of the doubt, but if it\’s really bothering you, don\’t be afraid to bring it up.</item>
+        <item>18. Write Notes:\n\n
+Whether you have study hall together or live together, handwritten notes are personal touches in today\’s highly digital world.</item>
+        <item>19. Pitch In:\n\n
+Help each other with chores and other necessary, if banal, activities—cooking, cleaning, re-organizing, etc. Not doing them if you live together can create tension, and always doing them can create unfair expectations. Act as a team of equals.</item>
+        <item>20. Disconnect:\n\n
+Step away from the laptop during quality time. Everything on the Internet will still be there later.</item>
+        <item>21. Allow Things to Be What They Are:\n\n
+Sometimes bad days and bad moods happen. Don\’t go crazy trying to make everything better. Just be supportive and loving, because just being there at the end of a bad day can make it better for both of you.</item>
+        <item>22. Create Mini-Traditions:\n\n
+Creating small rituals can really help hold up a couple because they become “your thing.” Whether it\’s a fancy night out during the holiday season, or watching a certain show every week, these are things that\’ll give you both something to look forward to—and it\’ll bring you closer together.</item>
+        <item>23. Be an Open Book:\n\n
+They can either deal with it or they can\’t, but if you can\’t be your most honest self with this person, it\’ll come out eventually.</item>
+        <item>24. Compliment, and Often:\n\n
+You\’re there to make each other feel like your best selves, so let the genuine praise flow freely. Like their outfit? Say it! Like their hair today? Let them know!</item>
+        <item>25. Make Promises That You Really Can Keep:\n\n
+Say things that you want to follow through with out loud. It\’ll make you work harder to make them happen. Having—and setting—levels of reasonable expectations for your relationship is a healthy way to keep it strong.</item>
+        <item>26. Acknowledge Positive Actions:\n\n
+When you and your partner see positive actions, solutions, or behavior in one another, acknowledge it and remind each other to keep it up.</item>
+        <item>27. Establish Genuine Connections with the Other\’s Friends and Family:\n\n
+Hang out together with both of your friends and family. This is the stuff that makes the world go \’round, people!</item>
+        <item>28. Pay Attention to the Tiny Things That Bother Your Partner:\n\n
+We\’re not talking changing your laugh or your style, but if you know that your partner really hates it when you leave the kitchen counter cluttered, try to make a point of clearing it off before he/she gets home. It\’s an easy enough thing to do and it makes their day better, so why not?</item>
+        <item>29. Never, Never Forget to Ask About the Other Person\’s Day:\n\n
+It\’s such an easy slight to avoid!</item>
+        <item>30. Be Considerate:\n\n
+If your partner\’s day sucked and yours was just “eh,” let them have the pity (and the control of the remote, and the choice of take-out). If it\’s you, announce it early and let them know you need the support. If it\’s a toss-up, trade stories about why your days were so awful, and you\’ll end up laughing while trying to figure out who wins.</item>
+        <item>31. Small Gifts Go a Long Way:\n\n
+Bringing home a pack of their favorite candy/magazine/book by a favorite author never gets old.</item>
+        <item>32. Graham Parsons Has a Song Lyric That Says “I Just Want to Hold You/I Don\’t Want to Hold You Down”:\n\n
+Let that be your motto when you\’re giving your partner advice.</item>
+        <item>33. Log onto Instagram and like All Their Photos</item>
+        <item>34. Plan a Date Where You Revisit the Spot You Went on Your First Date:\n\n
+Remember all the amazing things that brought you from then to now.</item>
+        <item>35. Go on a Walk Together Somewhere Beautiful:\n\n
+And don\’t forget to turn off your cell phones.</item>
+        <item>36. Surprise Them with Dinner:\n\n
+One unexpected night, surprise your partner with a home-cooked meal and a nicely-set table.</item>
+        <item>37. Review Your Top Five Favorite Funny Things Your Partner Has Done:\n\n
+Because your partner is funny! That\’s part of why you like them.</item>
+        <item>38. Go to a Yoga Class Together:\n\n
+Or other exercise class together. Your body and relationship will thank you!</item>
+        <item>39. Go on a Road Trip, Even If You\’re Not Going Anywhere Far:\n\n
+It\’s nice to get out of town sometimes.</item>
+        <item>40. Pick up a Six-Pack of Toilet Paper or (Even Better) a Six-Pack of Beer:\n\n
+Without even being asked.</item>
+        <item>41. Keep the Surprises Coming:\n\n
+Think of your relationship as a creative challenge. To keep the romance fresh, come up with new date ideas, new sex positions, and new ways to demonstrate your love.</item>
+        <item>42. Plan Small Outings:\n\n
+Whether its brunch this weekend or a trip to a new neighborhood.</item>
+        <item>43. Make Out:\n\n
+Kissing is something that is often set to the side the longer a couple has been together. Out of blue one day, initiate a high-school style make-out session.</item>
+        <item>44. Let It Go:\n\n
+Don\’t hold onto that thing your S.O. said or did six months ago and bring it up each time you get mad at him. Do both of you a favor, and let it go.</item>
+        <item>45. Don\’t Interrupt:\n\n
+Even if what you think your significant other is saying is uninteresting, don\’t bulldoze over his or her words. Being able to listen to each other—even when the details are mundane—is important.</item>
+        <item>46. Say “Thanks”:\n\n
+Let him or her know that you notice the little things he or she does by saying “thank you” for routine tasks like walking the dog or picking up groceries.</item>
+        <item>47. Cook a Meal Together:\n\n
+Come up with a menu, shop, and prepare the food together.</item>
+        <item>48. Have Fun with Hypotheticals:\n\n
+Conversation can become routine. Break from the ordinary and have a silly dinner conversation made entirely of imaginary situations—for example, ask, “If you were on an island and could only bring five movies, which movies would you bring?”</item>
+        <item>49. Keep a Couple\’s Journal:\n\n
+Write down your desires and fantasies, and leave them out for your significant other to find—then encourage him/her to write back.</item>
+        <item>50. Agree to Disagree:\n\n
+This is one of the most important relationship tips, as you both have strong opinions and therefore some issues will never be resolved. Respect each other\’s point of view and agree not to argue about the same issue, unless it\’s something that could get in the way of your future, like politics, religion, or values.</item>
+        <item>51. Set Goals:\n\n
+In addition to setting life goals, set relationship goals.\nFor example: We aim to spend more time together outside rather than in front of the TV.</item>
+        <item>52. Take Responsibility for Your Own Happiness:\n\n
+Love is grand, but at the end of the day, the only person we can hold accountable for our happiness is ourselves. Do volunteer work, exercise, host dinner parties—find what satisfies you, and go from there.</item>
+        <item>53. Learn Each Other\’s Conflict Habits:\n\n
+Make an effort to understand you and your partner\’s conflict habits, so you can break bad patterns and find a middle ground that\’s productive and respectful.</item>
+        <item>54. Define Love:\n\n
+While “I love you” is an extraordinary thing to say—and an equally wonderful thing to hear—it means something different to each person. Tell each other what you\’re saying when you declare these magic words. It could be a list of many sentiments such as, “I would do anything for you,” and “I trust you completely.”</item>
+
+    </string-array>
+
+    <string-array name="StudyBoosters">
+        <item>1. Walk Before An Exam:\n\n
+It\’s been proven that exercise can boost your memory and brain power. Research conducted by Dr. Chuck Hillman of the University of Illinois provides evidence that about 20 minutes exercise before an exam can improve performance.</item>
+        <item>2. Speak Out Loud Instead of Simply Reading:\n\n
+Although this may make you look a little crazy, give it a go! You will be surprised how much more you can remember when you\’ve said it out loud. Warning: Don\’t try this in a crowded library!</item>
+        <item>3. Reward Yourself With A Treat:\n\n
+There are many ways to integrate a reward system into your habits so you learn how to study for exams more efficiently. Here\’s a simple way to motivate yourself to study with Gummy Bears:</item>
+        <item>4. Teach What You Have Learned:\n\n
+The best way to test if you really understand something is to try to teach it to someone else. If you can\’t get anyone to listen to you explain the Pythagorean Theorem, why not teach a class of stuffed animals!</item>
+        <item>5. Create Mental Associations:\n\n
+The ability to make connections is not only an easier way to remember information, but it\’s the fuel of creativity and intelligence. Steve Jobs famously said “Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn\’t really do it, they just saw something”.</item>
+        <item>6. Draw Diagrams:\n\n
+Drawing diagrams will help you to visualise information which would be hard to describe. This creates a visual memory in your mind which can be recalled in an exam. You may even be asked to draw or label diagrams such as the human heart in your exam so get practicing!</item>
+        <item>Times New Roman is the Fastest Font to Read:\n\n
+Simply put – there\’s a reason why Times New Roman is the default font on most applications!</item>
+        <item>8. Use Apps to Block Distracting Sites:\n\n
+The SelfControl app helps you to avoid distractions by blocking websites for a certain amount of time. </item>
+        <item>9. Watch a Documentary on the Topic:\n\n
+Documentaries are an entertaining way of compacting an entire story into a short timeframe. This will help you remember key details from a story plus you may even get extra credit for mentioning that you took the initiative and watched a film about the topic!</item>
+        <item>10. Search Google Like a Pro:\n\n
+Save time when researching sources online by mastering the biggest search engine in the world; Google. Follow the tips in this image to find what you need at your fingertips:</item>
+        <item>11. Create Flashcards for Quick Memory Buzz:\n\n
+Quickly test your knowledge of key concepts, definitions, quotes and formulas with flashcards. Sign up to GoConqr now to create your first Flashcard deck like the one below now!</item>
+        <item>12. Take Regular Study Breaks:\n\n
+When your brain is working, you need to take regular study breaks to help your brain absorb more information but also to keep you motivated and focused when you are working. Take a short break after 45-50 minutes study as your focus and concentration will become impaired after this period, anything new after 1 hour 30 minutes does not get assimilated.</item>
+        <item>13. Listen to the Correct Type of Music:\n\n
+In our blog post “Music for Studying: 10 Tips to Pick the Best Study Music” we looked into the area of how the correct types of music can lead to more productive studying by elevating your mood. Have you made your Mozart Spotify playlist yet?</item>
+        <item>14. Make Your Study Space Portable:\n\n
+We may be creatures of habit with favourite seats in the library but information retention actually improves when you vary the places where you study. Check out this Buzzfeed video for more study hacks for exams:</item>
+        <item>15. Practice, Practice, Practice…:\n\n
+Practicing sample answers to past exam questions can help train your brain to retrieve information. The same applies to Reading Tests. </item>
+        <item>16. Don\’t Stay Up All Night Before an Exam:\n\n
+Make sure to get adequate rest the nights leading up to your exams. When you sleep, your brain assimilates the information you have learned when studying so getting a good night\’s sleep will help you remember those pesky maths formulas you need for your exam!</item>
+        <item>17. Discover News Ways to Learn:\n\n
+Trying new study methods can help you find what really works for you. Use technology to your advantage by watching educational TED Talks or downloading useful dictionary apps for example.</item>
+        <item>18. Use Scents or Gum to Jog Your Memory:\n\n
+This may seem a bit random but spraying an unfamiliar scent while you\’re studying is one of the study methods that can help jog your memory when you spray it again just before an exam. Chewing a strange kind of gum will work the same way.</item>
+        <item>19. Study in a Group:\n\n
+Studying in a group can help you collect new insights to enhance your learning experience.</item>
+        <item>20. Meditate:\n\n
+Meditation is one of the study methods that can help students stay focused when studying. Not only will meditation help you concentrate when studying but it will help reduce pre-exam stress as it improves both mental and physical health.</item>
+
+    </string-array>
+
+    <string-array name="Parenting">
+        <item>Spend time alone with your child giving them your undivided attention</item>
+        <item>Plan fun activities that the entire family can participate and enjoy</item>
+        <item>Take them to different places outside of your neighborhood to expand their horizons such as museums, parks, beaches, camping trips, mountains, etc.</item>
+        <item>Encourage your child on a daily basis which will help them to prosper in their daily lives</item>
+        <item>Share a real interest in the things that matters to your child</item>
+        <item>Talk “with” your child instead talking “at” them</item>
+        <item>Take the time to listen to what your child has to say and value the shared information</item>
+        <item>Urge your child to open up about discussing large and small problems with you</item>
+        <item>Don\’t put your child down while they discuss any concerns or problems they are dealing with</item>
+        <item>Plan some time each day to have a conversation with your child to discuss about how their day went, and any possible difficulties they may have encountered</item>
+        <item>Show your love and support for your child daily as this will let your child know that you love and care for them</item>
+        <item>Frequently give them hugs on good and bad days</item>
+        <item>Continuous show your interest in your child\’s life</item>
+        <item>Teach your child that it\’s good to feel positive about themselves</item>
+        <item>Take out the time to speak and show your child that you know they are special</item>
+        <item>Recognize and find the positive confidence in them</item>
+        <item>Teach your children at an early age how to care and respect themselves along with others around them</item>
+        <item>Instruct them on the right and wrong things</item>
+        <item>Try to minimize negative comments and give more positive comments</item>
+        <item>Encourage good work habits in their academia and employment</item>
+
+    </string-array>
+
+    <string-array name="MoneyMaking">
+        <item>Use cash.\n\n
+            Instead of charging things to credit cards or debit cards, use cash for non-bill spending such as eating out, gas, groceries. Spending cash makes the spending more real, and there\’s an added advantage of knowing when you\’re out of cash, instead of spending more than you</item>
+        <item>Small weekly savings transfers.\n\n
+            I got this idea from my friend Trent at The Simple Dollar, who automatically deducts $20 a week from his check to savings. I decided that I could live with $40/week without really feeling it — it\’s a relatively small transfer that I barely notice, and I save about $2,000 a year on top of my larger bi-weekly savings transfers.</item>
+        <item>Stay home.\n\n
+            Going out makes you more likely to spend unnecessarily. You eat at restaurants, go to the mall, stop at the gas station for snacks. It\’s hard to avoid spending when you\’re on the road. Instead, stay home, and find free entertainment. It\’s also a great way to bond with your family.</item>
+        <item>Don\’t get catalogs.\n\n
+            Or emailed announcements from companies trying to sell you stuff. Their announcements of sales or cool new products make it very tempting to buy something you don\’t need. Instead, stop the catalogs and emails from ever getting to you in the first place, and you\’ll spend less.</item>
+        <item>Keep a 30-day list.\n\n
+            If you have an impulse to buy something you don\’t absolutely need, put it on a 30-day list.
+            You can\’t buy anything but necessities — everything else goes on the list, with the date that it\’s added to the list.
+            When the 30 days are up, you can buy it — but most likely, the strong urge to buy it will be gone, and you can evaluate it more calmly.</item>
+        <item>Cook at home.\n\n
+            I know, it seems more difficult than eating out. But it doesn\’t have to be hard.
+            Throw together a quick stir-fry with frozen veggies and either boneless chicken or (my favorite) tofu with soy sauce or tamari.
+            Make home-made pizza with a ready-made crust, some sauce, cheese and veggies.
+            Put some spices on something and throw it in the oven while you cook some brown rice. Not only is this much cheaper than eating out, but it\’s healthier.</item>
+        <item>Exercise.\n\n
+            Staying healthy is the best way to avoid costly medical bills later.</item>
+        <item>Use the envelope system.\n\n
+            It\’s the same idea as using cash for spending, but in addition you use envelopes to split your spending cash into categories. My non-bills categories are groceries, gas and miscellaneous spending. Three envelopes, and when they\’re empty, I\’ve spent my allotment.</item>
+        <item>Talk with your SO weekly.\n\n
+            It\’s important that you and your significant other be on the same page.
+            You should have the same financial goals, and from there you should agree on a general spending plan and a policy for impulse buying that won\’t have either of you wanting to choke the other.
+            Make sure you both know what bills have been paid, what your balances are, etc. A weekly meeting of just 20 minutes accomplishes that. Communication is key.</item>
+        <item>The spreadsheet tracker hack.\n\n
+            There are expensive programs like MS Money, Quicken, and the like that will do amazing things with your financial information.
+            There are even free ones, on your desktop or online, that can do all kinds of things.
+            Trouble is, I don\’t need all that. All I want is a way to track my money easily, with no other bells and whistles,
+            and a way to access that online so that I can view it from anywhere. The best way I found to do that is through Google Docs and Spreadsheets.
+            I created a simple spreadsheet to track my bank accounts, that does everything I used to do with MS Money.
+            It has the date of each transaction, the title and amount, a little field for memos, and a running balance. What more do I need? Keep it simple.</item>
+        <item>Pay savings and debt first.\n\n
+            When you sit down to pay your bills (I do them all online), make the first bills you pay be your savings transfer and your debt payments.
+            If not, if you pay them last … you\’ll often end up shortchanging them.
+            But if you pay them first, you\’ll make sure you still pay your rent or mortgage, utilities, groceries and gas … so you\’ll just cut back on other spending.</item>
+        <item>Exercise at home.\n\n
+            Some of you will disagree with me on this, which is OK — everyone should do what works for them.
+            But I\’ve saved a lot of money that I used to spend on gyms by just running at the local track or on the roads in my neighborhood,
+            and buying some simple weights and a chin-up bar.
+            I do a lot of body-weight exercises (pushups, Hindu squats, lunges, pullups, dips, etc.) and I don\’t need a gym for those things.</item>
+        <item>Cut out cable TV.\n\n
+            I\’m not saying I don\’t watch TV — I watch DVDs, so that I\’m sure that what I\’m watching is something great,
+            rather than the useless stuff you find on TV most of the time.
+            And there\’s a lot of it online for free if you look. Not a huge savings, but it adds up.</item>
+        <item>Declutter.\n\n
+            By getting rid of all the excess stuff in your home, you not only make your life much simpler and more peaceful,
+            but you make it harder to buy stuff that will just clutter things up again. Once you\’ve simplified your home, you won\’t want to go back.</item>
+        <item>Lend and borrow.\n\n
+            Give books and clothes and toys you don\’t need anymore to your friends and family.
+            If you need something, send out an email asking if anyone has it. Chances are, they\’ll give it to you for free if they don’t use it anymore.</item>
+        <item>Barter.\n\n
+            It\’s a lost art, but lots of people will take your services or goods instead of money, especially if you\’re friends or at least know each other.
+            Get into the habit of offering to barter,
+            and you\’ll find yourself saving a lot of money. My website design was done through the barter system, so I saved well over $1,000 there, for example.</item>
+        <item>Use online savings.\n\n
+            I use Emigrant Direct, but ING Direct is also popular, as are a bunch of other online banks.
+            Not only do you earn like twice the interest of a normal bank savings account,
+            but if you don\’t get the ATM account it\’s not as easy to withdraw money … making it less likely that you\’ll get money out on an impulse.</item>
+        <item>Try frugal gift-giving.\n\n
+            Giving people gifts is one of the most wonderful traditions, as it shows generosity and caring.
+            Until it becomes commercialized. Then it\’s just really really expensive. Instead, try giving the gift of spending time with someone.
+            Try giving them something you baked or made yourself. Try giving them services they\’d appreciate. It doesn\’t have to cost a lot to be generous.</item>
+        <item>Teach your kids about advertising, saving, earning, and gift-giving.\n\n
+            If you have kids, educating them about money will save you a lot of money in the long run.
+            If they know about how advertising influences them in tricky ways, they\’ll be less likely to demand (OK, beg and plead for) the latest fad toys.
+            If they know about saving and earning money, they\’ll respect the money that you earn, and that you are trying to save.
+            If they know that gift-giving doesn\’t have to be about spending a lot of money (see above), they won\’t necessarily want expensive stuff.</item>
+        <item>Find happiness in life, not spending.\n\n
+            Many times people buy stuff because they think (subconsciously perhaps) that it will bring them happiness.
+            They just HAVE to have the latest gadget or shoes or cars. It\’s so fun! And yet, you buy that stuff, and you\’re only happy for a day or two at most.
+            Then you just need to buy more. It\’s a never-ending cycle. Instead, learn to love life. Find joy in nature!
+            In the people around you! In doing something you love! In exercise and meditation! There\’s so much in life to make us happy, there\’s no need to find it in spending.</item>
+
+    </string-array>
+
+    <string-array name="Home">
+        <item>1. Create a recessed pantry wall.\n\n
+            This Australian home features a nifty way to bring extra storage and display space to a kitchen.
+            A system of shelves fills a recessed portion of what would otherwise be a blank wall.
+            This gets the homeowners enough inches for glasses, jars, bottles and other necessities.
+If it\’s an interior wall you\’re dealing with, and there\’s no electrical or plumbing interference,
+            and you don\’t need the insulation, you could create this setup between exposed wall studs.</item>
+        <item>2. Avoid glass cabinetry next to your range.\n\n
+            Designer Barbra Bright put together several great designer tips for kitchens this week.
+            She suggests that if you\’re considering glass-fronted cabinets in your kitchen,
+            it\’s best to avoid placing them next to your range hood. Otherwise you\’ll likely be spending a good deal of time wiping grease and grime off those glass panels.</item>
+        <item>3. Make outlets the same color as your backsplash.\n\n
+            Bright also suggests coordinating your outlet color with the color of your backsplash.
+            That way those white outlets won\’t disrupt the visual look of, say, your gorgeous minty green tile.
+            Installing outlets sideways and closer to the countertop also makes for a less distracting profile than the more common vertical installation.</item>
+        <item>4. Consider a wet room.\n\n
+            Curbless showers are all the rage, but if you have space,
+            think about going with a wet-room concept in which all or most of the bathroom components sit within a tiled space.
+            This allows water to be splashed around without impacting surrounding areas.
+            In some homes, the sink, shower and toilet are all housed within the same tiled space, often with a drain in the center.
+            This allows the space to be hosed down and cleaned with relative ease.</item>
+        <item>5. Try custom or hand-carved doors.\n\n
+            Interior doors often get overlooked when it comes to remodeling a home.
+            But they can be a great outlet for expression and personality (black interior doors anyone?).</item>
+        <item>6. Introduce a feature ceiling.\n\n
+            Last week, designer Jennifer Ott made the case that accent walls are here to stay.
+            But if doing that isn\’t enough of a visual statement for you, consider looking up toward the “fifth wall.”\n\n
+Here, in the same home that features the hand-carved doors, the homeowner applied a tomato hue to the ceiling to bring interest without taking away from the artwork featured throughout the room.</item>
+        <item>7. Install wall sconces for bedroom lighting.\n\n
+            If nightstand space is at a premium, consider installing wall sconces instead of going with table lamps. You\’ll get adequate reading light while freeing up surface area.</item>
+        <item>8. Get a multipurpose coffee table.\n\n
+            The apartment of interior decorator Whitney Jones features several great small-space ideas.
+            One is this multipurpose ottoman that functions not only as a place to put up your feet,
+            but also as a coffee table, thanks to a large tray, and as extra seating during parties.</item>
+        <item>9. Reupholster a chair.\n\n
+            Most of us have an old piece of furniture or find one on the side of the road that we think has potential if only it could get a little love.
+            A couple of homes featured on Houzz this week included reupholstery that breathed new life into the furniture piece itself, as well as into the room it inhabits.</item>
+        <item>10. Bring in a bar cart.\n\n
+            Here\’s a great addition for summertime. Even if you don\’t drink alcohol,
+            having a stocked beverage cart in your home brings function and lots of opportunity for a styled vignette.
+Keep bottles of bubbly water, liquor and mixers on hand for impromptu get-togethers. Add a lamp, a plant and some knick-knacks, and you have a fun micro design.</item>
+        <item>11. Thermaform a solid-surface countertop.\n\n
+            If you have a particular design idea in mind for you kitchen island or countertops, consider looking into thermaforming.
+            This technique can be applied to solid-surface materials like Corian to create curvaceous, one-of-a-kind pieces, as evident in the New York kitchen</item>
+        <item>12. Don\’t need your fireplace? Get rid of it.\n\n
+            If you\’re the kind of person who never plans on using a fireplace, there\’s no shame in swapping it for something more useful.</item>
+        <item>13. Use paint for creative wall features.\n\n
+            Most designers will praise paint as a budget-friendly way to add color, style and wow factor. Several spaces featured this week are proof of that.</item>
+        <item>14. Customize a headboard.\n\n
+            If you can spend on a little more than just paint, consider splurging on a custom upholstered headboard.</item>
+        <item>15. DIY your own shiplap siding.\n\n
+            If you\’re trying to keep remodeling costs down and are handy with tools, you can save money on shiplap siding by making it yourself.</item>
+        <item>16. Display your travel mementos.\n\n
+            This is a great little detail from a stunning London home inside a former courthouse.
+            Designer Ebba Thott found this vintage display case for her clients small decorative pieces.</item>
+        <item>17. Succumb to satin brass.\n\n
+            We predicted we\’d be seeing a lot of satin brass fixtures this year, and that seems to be the case.
+            We found five kitchens recently uploaded to Houzz that combine dark cabinets with white countertops and walls and shiny brass fixtures to create a sultry,
+            irresistible style.</item>
+        <item>18. Mount a sconce to a mirror.\n\n
+            You know you\’ve found a great design element when something so small and subtle can stop you in your tracks.
+            This sconce mounted on a full-length bathroom mirror does just that.</item>
+        <item>19. Get exposed to an outdoor bathtub.\n\n
+            Most outdoor showers seem practical for rinsing off before entering your home after a beach or lake dip,
+            but there\’s something, er, cheeky about a bathtub out in the elements.</item>
+        <item>20. Use a pingpong table for your dining room.\n\n
+            Homeowners Darren and Sam Sidney embraced this genius idea of using a pingpong table to double as a dining room table. “You can seat 10 people there,” Sam says. Game on!</item>
+
+    </string-array>
+
+    <string-array name="Hacks">
+        <item>1- Ditch the Blow Dryer:\n\n
+Let the hair air dry because its too hot to blow warm air over your face and neck. Channel your beach-worthy waves with a texturing product. Wet hair, don\’t care!</item>
+        <item>2- Keep the Back Open:\n\n
+Enjoy the breeze on your bare skin while open backs are in. Dress to impress and beat the heat at the same time.</item>
+        <item>3- Rock The Sheer
+A gorgeous, sheer maxi dress will keep you cool and stylish all summer long. Look sweet with sheer!</item>
+        <item>4- Tie Your Hair Up:\n\n
+The perfect summer do is a ponytail or a bun. Dress up the simple style with headbands and barrettes!</item>
+        <item>5- Handheld Fans:\n\n
+These fans are not just a relic of the Victorian era, they can cool you in a flash and they fit easily in your purse.</item>
+        <item>6- Wear Less Jewelry:\n\n
+Wear as little jewelry as possible. Rings, necklaces, and bracelets are often more trouble when the temperature rises.
+            Wear jewelry that doesn\’t touch much of your skin like giant breathable jewelry.
+            Bracelets and metal chains stick to your skin and block the major cooling points on your body.</item>
+        <item>7- Wear Light Colors:\n\n
+Stick to wearing lighter colors because darker colors absorb light and heat, making you feel much hotter whereas light colors help you keep cool by reflecting the light.</item>
+        <item>8- Protect Your Skin From the Sun:\n\n
+To keep cool and protect your skin from the sun, cover up! Not only does the direct sunlight damage your skin but it also raises the temperature of your body.</item>
+        <item>9- Wrap a Scarf Around Your Neck:\n\n
+Use a scarf to keep hair off of your neck. Whether you use it to wear it around your neck with your hair down or use it to tie your hair up, a cotton scarf is great for absorbing heat. To add an extra cooling kick, spray on it some cold water before putting it on.</item>
+        <item>10- Wear Socks:\n\n
+You read that right – wear socks. The most logical way to stay cool might be sandals but open shoes mean dirty feet which equal to hot feet. Socks absorb your sweat and keep your feet feeling cooler and cleaner. Socks prevent your shoes from absorbing your foot sweat keeping your feet stay cool longer.</item>
+        <item>11- Leave Your Backpack At Home:\n\n
+Leave your backpack at home in favor of a small tote or cross body. The huge backpack stuck to your back is the last thing you want on a hot day, making you sweat.
+            Get back to the basics, take this opportunity to clean out your bag since the lesser stuff you\’ll carry around, the lesser you\’ll exert yourself which means you will be less sweaty as a result.</item>
+        <item>12- Lined is Hot, Unlined is Cool:\n\n
+Only wear unlined dresses, skirts and jackets.
+            The extra layer is not only a lining between your skin and air but it is often synthetic which means it will make you feel like you\’re walking around your own personal sauna and it won\’t breathe well.</item>
+        <item>13- Wide Brim Straw Hat and Cotton Scarf:\n\n
+Wherever you go, bring shade with you carrying a lightweight woven scarf in your bag or a wide brimmed hat to beat the heat.
+            Whenever you feel like you\’re getting a bit too much sun, drape the scarf over your head or shoulder. It\’s so light in weight, it\’ll be hardly noticeable!</item>
+        <item>14- Best Make Up for Hot Humid Weather:\n\n
+Heat and humidity are a huge challenge when it comes to making your makeup, especially foundation to last for longer.
+            Invest in a good quality primer and makeup setting spray to prevent your makeup from melting off of your face.</item>
+        <item>15- Don\’t Re-wear It, Just Wash It:\n\n
+Make sure your clothes are as clean and fresh as you are.
+            Re-wearing your clothes might lessen the load of your laundry but even the lighter fabrics trap skin cells,
+            dirt and cosmetics which makes you hotter because the clothes become less breathable.
+            Re-wearing clothes between washes might be a great way to beat the chores but definitely not the heat!</item>
+        <item>16- Hot Showers Lower Your Body Temperature:\n\n
+To lower your body temperature, take a nice and hot shower, wash off any dead skin cells and dirt that could be making you feel hotter.
+            Your body reacts by raising your internal temperature, even though a cold shower might feel more satisfying at the moment a hot shower will cool you down internally.
+            A cold shower will make you sweat even before you\’ve left your house!</item>
+        <item>17- Synthetic Fibers Trap Heat – Natural Fibers Breathe:\n\n
+Choose clothes in natural fabrics. For instance compared to polyester and rayon, cotton is more breathable. Cotton absorbs sweat better and dries faster.
+            You won\’t feel as sweaty with natural fibers as long as you would with clothes that are made of synthetic fibers.</item>
+        <item>18- Open Weave Knits For Catching a Breeze:\n\n
+Open weave knits for laying are the perfect option to beat the heat. The open weave knits will keep you feeling the cool breeze and stylish at the same time.</item>
+        <item>19- Say No To Flimsy Fabrics:\n\n
+If you don\’t want your clothes to stick to your body, avoid flimsy fabrics. Lightweight fabrics are perfect for the scorching summer heat. However,
+            if you don\’t want them to cling to your body the second you start to sweat, they need to have a little structure.</item>
+        <item>20- Wear Loose Clothing:\n\n
+Keep your clothes loose. The less fabric you have actually touching your body, the cooler you will feel.
+            It might seem unbelievable but a flowing and loose maxi dress will keep you cooler than a clingy tank top and a pair of shorts.</item>
+
+    </string-array>
+
+    <string-array name="Grand">
+        <item>1. Babysit your grandchildren from time to time.\n\n
+If you want to activate the longevity benefit of being a grandparent, then you need more time with your grandkids.
+            To make this possible, offer to babysit them once in a while whenever their parents need to be away.
+            Aside from helping their mom and dad save from getting a babysitter, you also get to bond more with the children.</item>
+        <item>2. Respect the parenting styles of their parents.\n\n
+Yes, you can give advice and suggestions to their parents, but remember that every parenting style is different.
+            Thus, don\’t override their decisions on how they want to raise their children. Be there to guide them, but never impose your ways on them.</item>
+        <item>3. Visit them often.\n\n
+To let your grandkids know how much you value them, make time to visit them regularly.
+            If you live nearby, you could visit them more often. Don\’t forget to bring them some treats to make them miss you more whenever you are away.</item>
+        <item>4. Have them come over for the weekends or school breaks.\n\n
+Another way to bond with the kids is by inviting them to your home every weekend or during long vacations, like the summer break.
+            Since you are more comfortable at home, you can do more for them without any hesitation, like baking them some cookies or introducing gardening to them.</item>
+        <item>5. Play with them.\n\n
+No one is too old for a good game. One way to bond with your grandchildren is by playing with them.
+            It may be a board game, their favorite sport, or anything they love playing—as long as your knees permit. You would want them to think of you as a cool grandpa or grandma.</item>
+        <item>6. Spoil them only a little.\n\n
+Grandparents are usually accused of spoiling their grandkids. Well,
+            I guess it is not really that bad as long as you don\’t overdo it.
+            Indulging them with their favorite ice cream or treating them to a shopping spree sometimes won\’t hurt.</item>
+        <item>7. Don\’t tolerate their mistakes.\n\n
+No matter how much you adore your grandkids, never cover their wrongs to save them from being grounded by their parents.
+            You may think you are doing them a favor now—and you would love them thinking you are a hero—but actually you are bringing them closer to dangers.
+            If you truly love your grandchildren, help them to be disciplined while they are young.</item>
+        <item>8. Have hearty talks with them.\n\n
+Be the right kind of best friend your grandkids would need whenever they are not okay.
+            Allow them to be open with you by asking how they are, listening without scolding, and sharing your own story.
+            Be available whenever they need someone to talk to.</item>
+        <item>9. Don\’t nag.\n\n
+Children don\’t like it when their parents nag them—how much more if it is their grandparents?
+            If you want your grandkids to love having you around, then avoid nagging them about anything. Remember, it is the job of their parents to discipline them.
+            If you want to correct them for something they have done, then talk to them without sounding like you are the parent.</item>
+        <item>10. Respect the generation gap.\n\n
+You may not like how your grandkids wear their clothes or hair or how they love taking selfies and posting them on social media, but that is their generation now.
+            Reprimanding them for not following the old ways would only keep them distant from you.
+            Accept the fact that children these days have a culture of their own, which is different from your time.</item>
+        <item>11. No playing favorites.\n\n
+Treat all your grandkids all the same to avoid jealousy and rivalry among them. Never buy a toy for only one child.
+            See to it that whenever you give to one of them, all the others receive the same. Also, give the same amount of time and attention to every one of them.</item>
+        <item>12. Be silly with them.\n\n
+Every grandchild loves a grandparent who cracks jokes and laughs with them. Get rid of that stiff and strict image that is usually associated with being old.
+            This will help them be closer to you and melt down that generation gap barrier.</item>
+        <item>13. Don\’t be too strict.\n\n
+In connection to no. 12, get rid of that super strict image if you want to be the coolest grandpa or grandma in the sight of your grandkids.
+            Talk gently with them, join them in silly conversations, and do not force your own styles and principles on them.</item>
+        <item>14. Give timeless nuggets of wisdom.\n\n
+The best legacy you can leave behind to your grandchildren is wisdom. Share with them the lessons you have learned from your experiences.
+            Moreover, you can give them advice and practical tips on how to deal with life issues as they grow up.</item>
+
+    </string-array>
+
+    <string-array name="Clothing">
+        <item>Stale bread crust is great for removing dirt stains from suede. Rub gently and watch it magically disappear. </item>
+        <item>Make your own leather stain remover by mixing cold water and vinegar. </item>
+        <item>A glue gun is a quicker and easier solution to getting your clothes hemmed or sewing them yourself. </item>
+        <item>Spray your tights with hairspray to avoid ladders appearing.</item>
+        <item>Spray lemon juice in the armpit area of shirts to remove sweat stains and odors.</item>
+        <item>To remove oil stains, apply talcum powder to the area and leave it overnight.</item>
+        <item>Clean patent leather with a window cleaning spray.</item>
+        <item>White wine will remove red wine stains from clothes. </item>
+        <item>If you can\’t be bothered to try on a pair of jeans in a shop then a good trick to tell if they will fit is to put the waistline around your neck. </item>
+        <item>If your underwire is poking out of your bra then patch it up with pieces of moleskin. </item>
+        <item>Baking soda is great to use for cleaning. Try it mixed with detergent to brighten up a pair of shoes. Apply it with a toothbrush to scrub stubborn areas. </item>
+        <item>Wear your new leather jacket in the rain to achieve the worn-in effect quicker. </item>
+        <item>Always let freshly ironed clothes cool down before you wear them. This will prevent new wrinkles occurring. </item>
+        <item>Here\’s a great tip for clothes made from angora or mohair. Place it in a ziplock bag and freeze for 3 hours to prevent the material from shedding. </item>
+        <item>To get as much excess water out of hand washed clothes, whizz them in a salad spinner! </item>
+        <item>Jeans will smell less if you put them inside the freezer for several hours. </item>
+        <item>Prevent a run in your tights getting worse by painting the edges with clear nail polish. </item>
+        <item>Loosen new shoes by placing them in the freezer overnight with a bag of water in each shoe. </item>
+        <item>Add some distilled vinegar to your washing machine to stop your dark jeans from fading when you wash them. </item>
+        <item>If you\’re prone to losing your string from clothing then attach a safety pin to the end. It will be easier to feed it back around and out the other side. </item>
+        <item>Shaving foam will remove make up stains from collars or other areas on clothing. </item>
+        <item>To hang shirts quickly, feed them all onto one arm and use the other to attach the hanger.</item>
+
+    </string-array>
+
+    <string-array name="Summer">
+        <item>Freeze Your Pillow:\n\n
+When sky-high temperatures don\’t abate at night, the heat can interfere with sleep. One quick remedy is to bunch up your pillow,
+            put it in a plastic bag, and stick it in the freezer for 10 minutes. If your freezer\’s already full of ice cream, save space by freezing just your pillowcase.
+            The quick freeze creates a temporary cooling effect that may help you doze off.
+            For back up, keep an extra pillowcase in the freezer so you can make a quick switch if you wake up in the middle of the sweltering night.
+            Another pillow pointer: Consider swapping your foam version for one filled with buckwheat hulls.
+            The buckwheat stuffing allows air to circulate throughout the pillow, which means it holds less body heat than foam pillows, keeping you cooler. </item>
+        <item>Make Your Own Air Conditioner:\n\n
+A Styrofoam cooler is good for more than keeping brewskies cold.
+            Transform it into a real cooler by adding two dryer vents and small fan, essentially creating a DIY AC for less than 10 bucks.
+            Carefully trace the circumference of the fan on the center of the cooler\'s cover, then trace the dryer vent openings on either side.
+            Cut along the lines, vacuum up any stray bits of foam, and insert the vents and fan (blower side down) into the openings.
+            Next, fill plastic bottles with water, freeze them until solid, then place them in the cooler.
+            Finally, replace the cover, plug in the fan, and enjoy the breeze.</item>
+        <item>Dip Your Sheets:\n\n
+The so-called Egyptian method promises to keep you cool on hot summer nights.
+            Wet a sheet or large bath towel with cool water and wring or run it through your washer\’s spin cycle until it\'s damp but not dripping.
+            This will be your new beat-the-heat blanket.
+            Keep a spray bottle filled with water and a small amount of rubbing alcohol at your bedside:
+            If you wake up warm, give the sheet an additional spritz.
+            Another idea in the same vein is to wet and wring out a sheet,
+            then hang it in front of the open window nearest your bed to make any breeze even more delightful. </item>
+        <item>Chill Beverages in a Snap:\n\n
+Talk about tragic! That six-pack warmed up by the time you got it home.
+            Quick, run a paper towel under the cold tap, wrap it around a can or bottle, and place it in the freezer.
+            In 15 minutes or less, your drink will be chilled to perfection.
+            Why? Numerous scientists have weighed in, but one easy explanation is that the water on the towel evaporates, d
+            rawing heat from the bottle and making it cool faster. For loads of more technical explanations, get your geek on online! </item>
+        <item>Run a Fan with the AC On:\n\n
+Using a ceiling fan while running the AC can double the cooling effect.
+            The AC lowers the air temperature, and the fan circulates the cool air throughout the room.
+            The boost in air circulation creates a wind chill that allows you to run the AC at a higher temperature while still keeping cool.</item>
+        <item>Break the Ice:\n\n
+Set a bowl full of ice in front of a table fan. As the ice melts, the fan will blow cooler air toward you. Of course, you\’ve got to be fairly close by to enjoy the benefits.
+            Your best bet is to try this hack while you\'re working at your desk, or place the fan-bowl combo near the stove on your kitchen counter while you\'re cooking.</item>
+        <item>Scale Back on Appliance Use:\n\n
+Home appliances, electronics, and even standard light bulbs heat up your house, so turn them on as little as possible.
+            Run the washing machine only when you have a full load, and hang your wash on the line.
+            Also, skip the dishwasher if it\’s not at capacity. Instead, wash dishes in the sink and let them air-dry.
+            Steer clear of the oven and stovetop, and opt for the microwave or grill instead.
+            Keep even more heat out of the house by dining alfresco and taking your laptop onto the patio. </item>
+        <item>Learn How to Cross Ventilate:\n\n
+Cross ventilation is all about regulating airflow. You may have no control over the location of the doors and windows in your home,
+            but you can practice smart fan placement to propel air to your advantage.
+            Place one large box fan in front of a window, blower side in, and another fan at the window on the opposite side of the space,
+            blowing outward, to push away warm interior air. Set table fans in between, if necessary, to keep the cool air flowing.</item>
+        <item>Keep Closed to Keep Cool:\n\n
+Nearly 30 percent of unwanted heat enters your house through windows (especially south- and west-facing ones), so keep them closed when you\’re not home.
+            Putting shades, curtains, blinds, and shutters to work can reduce indoor room temperatures by as much as 20 degrees.
+            In rooms with a window unit or portable air conditioner, keep the door closed when the AC is running,
+            and use doorstops to keep four-legged family members from poking their heads into closed-off territories.</item>
+        <item>Run Your Ceiling Fan Counterclockwise:\n\n
+For optimal cooling during the summer, air should blow straight down rather than up toward the ceiling.
+            Running your ceiling fan in a counterclockwise direction will do the trick.
+            The airflow produced creates a wind-chill effect that makes you feel cooler.
+            Be sure to adjust the fan speed as the weather heats up: the warmer the weather,
+            the higher the speed. And remember that you can set your AC thermostat a little higher when you\'re running ceiling fans.</item>
+        <item>Harness the Power of Double-Hung Windows:\n\n
+Double-hung windows were designed to help direct airflow through the home.
+            If you open the bottom section of windows on the upwind side of your house (where air pressure is higher)
+            and the upper section on the downwind side (where air pressure is lower),
+            the low pressure will suck the air through your house, creating a pleasant—and cooling—breeze.</item>
+        <item>Circulate Cooler Basement Air:\n\n
+You can enjoy cool basement air in the upper stories of your house with the smart placement of fans.
+            Get started by shutting all windows except for one window on the top floor in the farthest possible south-facing corner.
+            Position a box fan in the opened window, facing out. Next, open a basement window in the farthest north-facing corner.
+            The open basement window allows cooler air in while the upper open window pulls warm air out.
+            Don\'t forget to keep the interior door to your basement open.
+            To boost the effect, consider installing a ceiling fan near your basement entrance to promote circulation of basement air into the rest of the house.</item>
+
+    </string-array>
+
+    <string-array name="Winter">
+        <item>1. Make a space heater out of tea lights &amp; flower pots:\n\n
+You can stay toasty warm (and make a dent in your heating bill) using materials easily found around the house.
+            Simply make your own space heater out of tea lights and flower pots.</item>
+        <item>2. Use razors to remove sweater pills:\n\n
+Pilly sweaters are a winter wardrobe nemesis. Get rid of them by rubbing a razor over well-worn areas, and your knitwear will be looking as good as new in no time.</item>
+        <item>3. Add wool insoles to your boots:\n\n
+Nothing\’s worse than freezing toes. Make your boots instantly cozier by adding insoles made out of half-inch-thick felt or even an old felt sweater.</item>
+        <item>4. Insulate windows with bubble wrap:\n\n
+Bubble wrap is an excellent window insulator, and it\’s easy to apply. Simply spray the window with water and adhere the wrap with the bubble side facing the glass.</item>
+        <item>5. Properly prep your snow shovel:\n\n
+Make the always-dreaded task of snow shoveling a bit easier by rubbing vegetable oil, paraffin wax, or cooking spray onto your shovel.
+            This will allow you to work more quickly by preventing the snow from clumping and sticking.</item>
+        <item>6. Cover side mirrors with plastic bags:\n\n
+A little planning ahead will save you stress the next morning.
+            The night before a big storm, cover your car\’s side mirrors with plastic bags, securing them with clothespins or a rubber band, to prevent ice from forming.</item>
+        <item>7. Use Vicks Vapor Rub in the shower:\n\n
+You can make shower tablets out of Vicks Vapor Rub with a few simple ingredients and an ice cube tray.
+            The combination of vapors and a steamy shower is sure to alleviate cold symptoms. You could even add glitter and give them away as a gift.</item>
+        <item>8. Cover windshield wipers with socks:\n\n
+Save yourself the hassle of de-icing windshield wipers by covering them with knee-high socks the night before a snowfall.
+            Let\’s face it —you weren\’t going to wear them again, anyway!</item>
+        <item>9. Light an upside-down fire:\n\n
+Forget your traditional paper-on-the-bottom method of lighting a fire and try this technique for a longer burning, less smoky fireplace fire.
+            Stack logs large to small, then top off with paper.</item>
+        <item>10. Use screws to create traction in running shoes:\n\n
+You don\’t need fancy kicks to survive winter slip-free. Screws inserted into the bottom of running shoes create traction for runs or walks in icy weather.</item>
+        <item>11. Warm up your bed with a hot water bottle:\n\n
+They\’re not just for soothing sore bellies. Slide a hot water bottle between your sheets before you hop into bed so it\’ll be warm before you hit the hay.</item>
+        <item>12. Make your own sidewalk de-icers:\n\n
+You don\’t want to be that house on the block with a slippery sidewalk. Everything from salt to soy sauce and baking soda can be used to de-ice pavement.</item>
+        <item>13. Dry wet shoes with newspaper:\n\n
+After a day of mucking through wet weather, you can dry out shoes by placing crinkled up newspaper inside them. It\’s better for your shoes than sticking them in the dryer.</item>
+        <item>14. Give bike tires some extra traction:\n\n
+Don\’t let icy weather keep you off your bike. Give wheels some extra traction by securing zip ties around them every few inches.</item>
+        <item>15. Place foil behind your radiator:\n\n
+The last thing you want is for all that radiated heat to get absorbed by the wall. Slide a piece of tin foil behind your radiator to reflect warm air back into the room.</item>
+        <item>16. Make some hand warmers:\n\n
+All you need for warm fingers is some sidewalk salt, water, and two plastic bags.
+            Place a water-filled bag into a salt-filled bag.
+            When ready to use, squeeze to rupture the inner water bag, then shake to activate the heat.</item>
+        <item>17. Sprinkle kitty litter on tires:\n\n
+Stuck in the snow? Sprinkle kitty litter on tires to get better traction and roll your way out.</item>
+        <item>18. Get nostalgic:\n\n
+Turns out you can trick your body into thinking it\’s not cold.
+            Studies show that reminiscing about fond memories makes you feel warmer, so kick back with a favorite photo album to beat the chills.</item>
+        <item>19. Reverse your ceiling fan:\n\n
+Yes, you should use a fan in the winter, but reverse the direction so it spins clockwise to push heated air back down into the room.</item>
+        <item>20. Make hot cocoa with Nutella:\n\n
+Don\’t just survive this winter, enjoy it. All you need for a killer mug of cocoa is milk and Nutella — and a shot of whiskey if you like!</item>
+
+    </string-array>
+
+    <string-array name="Gardening">
+        <item>Plant-in-a-Pot Landscaping Design:\n\n
+Ever wish you could reorganize your garden after seeing how the mature plants look?
+            Here\’s a clever way to do it. You\’ll need a bunch of pots of the same size, so they\’ll nest in each other.
+            Put your plants in doubled pots, and then bury them at ground level.
+            Whenever you want a change, lift out the top pot and put in a different one.
+            This method is also really slick for bringing plants indoors over the winter.
+            This method is great for quickly changing out seasonal plants, and allows for easy experimentation with color and placement of plants and flowers.</item>
+        <item>Saving Soil with Old Cans:\n\n
+For deep planters, fill the bottom with old cans and plant pots. The cans and pots improve drainage and create air pockets for better aeration and healthier soil.</item>
+        <item>Simple Lawn Edging:\n\n
+To edge your lawn, garden, or flowerbed, lay down a 2×6. While holding the board with your foot, drive a flat spade along the board\’s edge.
+            Move the board as needed to create a clean, straight line.</item>
+        <item>Micro Greenhouse:\n\n
+Do you have a hard time starting seeds or cuttings? Try soda bottle greenhouses.
+            Cut the bottom off 2-liter soda bottles and remove the labels.
+            Each seed gets its own micro greenhouse! Remove the greenhouses once the seeds have germinated and cuttings are rooted.</item>
+        <item>Cardboard Seed Tubes:\n\n
+For an easy and green way to start seeds, save your toilet paper and paper towel tubes.
+            Cut the tubes into 2 in. lengths and set them in a waterproof tray.
+            Fill the tubes with potting soil and plant your seeds.
+            When the seedlings are ready to move to the garden, plant them right in their cardboard tube.
+            The cardboard will decompose. Be sure to keep the tube below the soil surface, so it doesn\’t wick moisture away from the roots.</item>
+        <item>Fertilize Dense Plants:\n\n
+Fertilizing bushes or other dense plants requires getting the fertilizer to the base of the plant, so I use a length of 2″ PVC.
+            Slide one end down to the plant base and pour the fertilizer into the pipe.
+            Cut the top of the pipe at 45 degrees to give yourself a larger opening to pour in the fertilizer. \n\n– Gordon R. Watson</item>
+        <item>Healthy Plant Hydration:\n\n
+Water settling at the bottom of pots can lead to root rot. To combat this problem, cut up old sponges and put them in the bottom of the pot.
+            The sponges retain moisture and create necessary air space. They also help prevent water from flushing out the bottom.
+            The sponge acts as a water reserve and keeps soil moist longer.</item>
+        <item>Easy Mulch Spreading:\n\n
+Getting mulch up close to flowers and bushes is easier if the mulch is in a small container.
+            So I place buckets and pails in my wheelbarrow and fill them up with mulch.
+            It doesn\’t matter much if the mulch misses the bucket and lands in the wheelbarrow.
+            Once you\’re done dumping the buckets, dump what\’s left in the wheelbarrow in an open area and spread it out. \n\n— Eric Swartz</item>
+        <item>Greenhouse from the Salad Bar:\n\n
+The next time you hit up a salad bar for lunch, save the plastic clamshell container.
+            It can be reused as a mini greenhouse for starting seeds in the spring.
+            When you\’re finished with your lunch, wash the container thoroughly.
+            Use an awl and hammer to punch a few small holes in the top part of the container for airflow.
+            Then fill the bottom half with potting mix or your own special seed-starting soil.
+            Plant your seeds, spreading them out in the container as suggested on the seed packet.
+            Give the seeds a small drink of water and close the lid.
+            Place the container in a sunny spot, and patiently wait for your seeds to sprout!
+The clear plastic container acts like a greenhouse, allowing the sun and warmth to reach the plants while holding in moisture.</item>
+        <item>To-Go Coffee Cup to Water Plants:\n\n
+A clean to-go coffee cup with a lid makes an excellent watering can.
+            The hole in the lid is the perfect size for pouring the water slowly, so you don\’t overwater your plants. T
+            his quick watering can is especially useful for plants such as aloe vera and cacti that don\’t require much water.
+            Or for office plants, as clean to-go coffee cups with lids are usually readily available.
+            Be sure to wash the cup and lid thoroughly before reusing it as a watering can.</item>
+        <item>Coffee Filter Dirt Stopper:\n\n
+Every spring, I spend a lot of time adorning my deck with flowers.
+            I love every part of it: potting the seedlings, daily watering and relaxing in my lounge chair relishing their beauty.
+            But there\’s one thing that drove me nuts.
+            I used to have trouble keeping the dirt from flowing out the bottom of my potted plants when I watered them.
+            I tried using larger stones in the bottoms of the pots, but that didn\’t completely solve the problem.
+The solution was to place a coffee filter at the bottom of the pot before filling with dirt.
+            The coffee filter stops the dirt while still allowing the water to flow through and not waterlog the plant.
+            Now I have solved one of my tiny pet peeves and can move on with my life! \n\n— Kevin Daniel</item>
+        <item>How to Turn an Empty Milk Jug Into a Watering Can:\n\n
+I only own one watering can, so I need to refill it four or five times to water all of the plants on my patio.
+            Instead of buying more overpriced watering cans, I use old milk jugs.
+            I drill a few holes in the caps, fill up the jugs with water and I\’m good to go. \n\n— Harrison Berg</item>
+        <item>Epsom Salt Fertilizer Trick:\n\n
+Epsom salt (hydrated magnesium sulfate) is known for its home remedy uses, but the garden might be the place that it shines the most.
+            Like store-bought fertilizers, Epsom salt contains magnesium, which aids in seed germination,
+            chlorophyll production and absorption of vital nutrients like nitrogen and phosphorus.
+Most plants grow better with a ratio of two teaspoons to one gallon of water per month.
+            You can also dilute the Epsom salt with water in a bottle and apply as a foliar spray.
+            Misting the plant greatly increases its growth.
+            This works especially well on vegetables and roses. \n\n— Taylor Peterson</item>
+        <item>New Use for Old Backyard Game Pieces:\n\n
+We spend a ton of time planting, fertilizing and watering our flowers. Once, while dragging the hose across the yard,
+            I inadvertently raked it across the garden and destroyed a bunch of flowers.
+            My solution was to make a path for the hose using the wickets from my croquet set.
+            As I\’m watering, I feed the hose through the wickets, keeping my flowers safe. \n\n— Ryne Rover</item>
+        <item>Control Your Climbing Plants with Zip Ties:\n\n
+Getting my vines to run up just how I want tricky.
+            To direct the vines, I fasten zip-ties around the stalks, strapping them to anything stable.
+            Don\’t strap the vines too tightly.
+            They need to be able to move and grow. \n\n— Craig Sullivan</item>
+        <item>Chimney Flue Planters:\n\n
+To make these terra-cotta planters, go to a brick supplier and buy 3-ft.
+            lengths of clay chimney flue liner ($15 each). Cut them to different heights using a circular saw fitted with an abrasive cutting wheel.
+            You can put them on a deck or patio, or accent your yard wherever you like—just pick your spots and bury the ends in the soil a little.  
+            Fill the liners with gravel for drainage, leaving 8 in. at the top for potting soil.
+            Since the water can drain, the liners won\’t crack if they freeze.
+            Or just set pots on top of the gravel and bring in the plants for the winter.  \n\n— Nancy Belmont</item>
+        <item>Invest in a Heavy-Duty Tarp:\n\n
+Nothing is quite so useful in landscaping projects as a durable tarp.
+            It\’s excellent for moving leaves, weeds, soil, and small rocks (among other materials) quickly and safely when working in the yard.
+            You can also use it to cover plants or landscaping materials on a truck bed when transporting them or to protect projects from a fierce storm.
+            Just don\’t leave a tarp laying out on the lawn for too long, or it will kill your grass</item>
+        <item>Garden Tool Hideaway:\n\n
+A mailbox hidden behind shrubs near your garden provides a convenient home for tools.
+            A small mailbox like this one costs less than $20 at hardware stores and home centers. King-size models cost about $35. \n\n— Lynn Samples</item>
+        <item>Easier Vegetable Planting:\n\n
+We have a really big vegetable garden and I\’m getting older, so the less time I have to spend hunched over on my hands and knees, the better.
+            When I\’m ready to plant new vegetables, I set aside my trowel and grab my posthole digger.
+            Just one or two plunges into the soil for each plant and I\’ve got perfectly sized holes for all my crops! \n\n— Barbara McGrew</item>
+        <item>Truck-Bed Caddy:\n\n
+Pickup trucks are great for hauling big stuff, but small stuff has a way of sliding all over the place.
+            To solve the problem, I made a simple caddy from 2x4s and fastened with deck screws.
+            The compartments help small items like nursery plants stay put. \n\n— Tom Rawson</item>
+        <item>A Better Way to Replant:\n\n
+When I bring home new flowers or shrubs for my garden, I avoid yanking them out of their plastic pots by the stems because it can hurt the plants.
+            Instead, I use a sharp knife to cut down two or more sides of each pot to free the plant,
+            being careful not to tear the roots when separating the soil from the container. \n\n— Leslie Poehler</item>
+        <item>Use Mineral Oil and a Pot of Sand for Your Tools:\n\n
+This hack ensures your tools are always ready and clean. Find a pot or small bucket and fill it with clean sand.
+            Take several of your most-used landscaping tools and stick them into the sand –
+            they will stay upright and easy to grab this way.
+            When finished for the day, spray your tools with a quick coat of mineral oil and put them back in the sand.
+            Over time, the combination of mineral oil and sand will help clean your tools and keep them from going dull as fast.</item>
+        <item>Citrus-Rind Seed Starters:\n\n
+Grapefruit, orange and other citrus rinds are just the right sizes for starting new seedlings.
+            I make a hole in the bottom of each one for drainage and add some damp seed-starting mix and seeds.
+            Then, when it\’s time to move them outside, I plant the whole works in the ground— peels and all.
+            The citrus rinds make the soil more acidic, however, so I only do this with acid-loving plants like radishes, peppers and the like.\n\n — Judy Wilder</item>
+        <item>Tool Bucket:\n\n
+A 5-gallon bucket comes in handy out in the garden—and not just for collecting weeds.
+            You can load it up with all your gardening tools and carry them easily from place to place.
+            If it starts to rain, protect the tools with the lid. But here\’s the best part—it doubles as a portable stool when you need to rest or do some pruning.
+            The only problem is that the lid can be hard to pry off. Solve that by cutting off all but two of the plastic tabs.
+            The lid will go on and off in a snap. \n\n— Julie Abbott</item>
+
+    </string-array>
+
+    <string-array name="Communication">
+        <item>Curate.\n\n
+            Yep, less is more. You are your own brand — and this extends to the content that you share with others.
+            In our communication rich world, we are essentially vying for the attention of others.
+            Are you worth their time? We communicate frequently, but with little forethought concerning purpose and outcome.
+            Have a plan. Edit what you bring to the table.</item>
+        <item>Learn to handle difficult conversations.\n\n
+            Let\’s face it, the topic we\’d most like to avoid, often has the potential to make the greatest impact.
+            Research shows that we spend a significant amount of time handling conflict in our work lives (debate, disagreements, handling egos).
+            So, learn how to openly address underlying tension before it affects your productivity.</item>
+        <item>Tell a great story.\n\n
+            Great stories not only capture our attention — they help a message endure.
+            The best thing? There are great tools to help you develop and explain the power behind your next great idea.
+            Give RooJoom or Prezi a try. You can never have enough of an edge.</item>
+        <item>Get real.\n\n
+            How are your communication skills playing out in real life?
+            There is only one way to find out — see a video of yourself.
+            Start with a short interview on Skype and work your way up to capturing an entire presentation.
+            (There may be”cringe-worthy” moments. However, you cannot fix what you are not aware of.)</item>
+        <item>Study.\n\n
+            Communication skills simply do not emerge spontaneously — as this is a skill set that requires focused practice to develop.
+            Firstly, what are your “communication” strengths and weaknesses? Devote needed time and energy, by securing the training you need.
+            By the way, you don\’t have to wait for your organization to offer — check out some great ideas at Udemy. (I\’d say it\’s worth $49.00).</item>
+        <item>Create a “Vine”.\n\n
+            A message is a message. A message that\’s communicated powerfully and succinctly, can start a movement. Don\’t rule out the newest methods to communicate.
+            It\’s always wise to fully stock your arsenal of techniques.</item>
+        <item>Study your own body.\n\n
+            Sit in a lot of meetings? (I know that I do).
+            What does your body language communicate? Boredom? Check yourself before you wreck yourself. Body language matters.</item>
+        <item>Create a powerful presentation deck.\n\n
+            Want your next big idea implemented? There isn\’t a more critical moment, than a start-up team in front of venture capitalists
+            — so take a page out of their playbook.
+            Can you communicate the strength of your next big project in 10 slides or less? I dare you to try.</item>
+        <item>Match it.\n\n
+            Take the time to match the message with the communication vehicle.
+            Will an e-mail suffice? Will your chosen method actually deliver your message effectively? The options should be weighed with the message in mind.</item>
+        <item>Meet face-to-face.\n\n
+            The “mother lode” of communication tools is to meet in person, if at all possible.
+            It\’s the simplest and most brilliant “hack” of all — and of course, don\’t forget to really listen.</item>
+
+    </string-array>
+
+    <string-array name="Productivity">
+        <item>#1: Stop multitasking:\n\n
+       Sadly, multitasking is a false efficiency that ends up costing you more time than it saves.
+            And, to make matters worse, studies have shown that multitasking has a wide range of negative impacts on the human mind. </item>
+        <item>#2: Set a single goal for each day:\n\n
+       We use a productivity app called Serene to organise our workflow and keep us focused on the task at hand.
+            The tools encourage you to set a single goal for each working day, which constantly reinforces the idea of focusing on individual tasks.
+            You can break daily goals into multiple tasks or work sessions, where you\’ll only work on that specific task (and nothing else) for the allocated time.
+There\’s no time left for multitasking. </item>
+        <item>#3: Work in short bursts:\n\n
+            The human mind can only concentrate on the same task for so long although scientific studies haven\’t been able to provide a conclusive number.
+            Some studies have suggested people start to lose focus after 10-20 minutes while others are slightly more generous.
+            Certain, more recent, studies point towards much shorter attention spans in the digital age.</item>
+        <item>#4:Take regular breaks:\n\n
+            If you follow the Pomodoro Technique or a similar approach to working in short bursts, you\’ll naturally find yourself taking regular breaks.
+            This gives your mind a chance to recover from intense focus but you have to smart about how you spend your downtime.</item>
+        <item>#5: Block distracting apps/websites:\n\n
+       According to research carried out by RescueTime, the average digital worker can\’t go more than 6 minutes without checking their email or instant messaging.
+            The digital nature of our work and social lives leaves us constantly checking for notifications and
+            this constant distraction hampers our ability to focus on tasks for even short periods of time. </item>
+        <item>#6: Create a dedicated workspace:\n\n
+       If you\’re working from home, take advantage of the space you have to create a home office dedicated for work and nothing else. </item>
+        <item>#7: Choose the right project/task management tools:\n\n
+        Trello, Monday and Asana are great options for project management platforms and there are dozens of task management tools like to-do list makers.</item>
+        <item>#8: Create shared goals within teams:\n\n
+        The answer here lies in creating a strong team spirit based around shared goals, achievements and rewards.
+            To make this happen, you need the right project management platform that allows you to create shared goals, as well as collaborative and individual tasks.</item>
+        <item>#9: Choose the right collaboration tools:\n\n
+       Slack is as good as any team communication tool on the market, turning instant messaging into a genuine productivity tool. For basic document sharing and collaboration,
+            Google Drive may offer everything you need. While InVision is a powerful collaboration tool for design teams and Spark makes collaborative email a reality. </item>
+        <item>#10: Know when to work alone:\n\n
+        We know there are times when we\’re better off working alone.
+The key thing for teams is to know when collaboration is beneficial and when it\’s time to work alone.
+            Team managers also need to understand that some people respond better to working alone more than others – like more, for example.
+This is one reason why I\’m not a big fan of co-working spaces.
+            It doesn\’t mean they\’re not beneficial to me in certain ways and I understand they\’re more beneficial to many other people.
+We\’re all different and team managers need to strive to get the best out of individuals, as well as the collective.</item>
+        <item>#11: Know when to say “no”:\n\n
+       This problem is solved by simply changing my way of thinking and this is actually the key step with most productivity hacks.
+            The tools and techniques will help but you really have to change yourself and your way of thinking to break old habits and achieve a higher level of productivity. </item>
+        <item>#12: Prevent interruptions:\n\n
+       The answer is pretty simple: block the notifications during work sessions and use availability statuses
+            in tools like Slack or Status Hero so everyone can see who is busy and avoid interruptions.</item>
+        <item>#13: Track tasks but let people crack on:\n\n
+       This means everyone on the team can see what people are currently working on and understand why certain tasks may not have been completed yet.
+            This context, along with availability statuses,
+            not only helps prevent unnecessary interruptions but also saves a bunch of time on pointless messages like “are you busy,” “have you done [task] yet?” etc. </item>
+        <item>#14: Tame your email inbox:\n\n
+        You can also snooze specific emails for later, assign emails to team members,
+            chat with team members, share drafts, set reminders for follow-ups and schedule emails to send them later.</item>
+        <item>#15: Use a scheduling app for meetings:\n\n
+       The good news is there are scheduling apps that can take out the endless email back-and-forths.
+            Doodle is one of these apps but it\’s by no means the only option you\’ve got for this task. </item>
+        <item>#16: Make meetings productive:\n\n
+        The meetings I\’ve found to be most productive are the ones where we\’ve used the time to discuss and solve problems that are getting in the way of progress.
+            This is where group ideas can really shine.</item>
+        <item>#17: Schedule notifications:\n\n
+        Every time I allow a notification to interrupt my workflow, in letting it interrupt the work I\’m doing for another client.
+            The best thing for everyone (myself included) is that I focus on the task at hand, do it to my best ability and address other things when the time comes.
+So now I block communications apps during my Serene sessions and address notifications during the two hour-long breaks
+            I take (20 minutes for admin tasks and 40 minutes for actual break time).</item>
+        <item>#18: Switch off after work:\n\n
+        The easy answer for me was to schedule notifications so I don\’t see them outside of working hours.
+            I make it clear to each client when I\’m available and Tool blocks notifications until 8am, Monday-Friday.
+I do this with a tool called Daywise.</item>
+        <item>#19: Don\’t get bogged down in too much tech:\n\n
+       Use the tools you need but make sure they are actually improving your productivity.
+            You don\’t want to spend five hours every week looking at analytics on your productivity performance if the tools are only saving you three hours, for example. </item>
+
+    </string-array>
+
+    <string-array name="Motivation">
+        <item>#1. Set goals.\n\n
+            When you set a goal, you make a decision to act in a way that will help you achieve what you want.
+            Goals give you a direction to focus on – one that\’s measurable and has an endpoint. This can help you to stay motivated. </item>
+        <item>#2. Choose goals that interest you.\n\n
+            You\’re much more likely to stay motivated if you\’re working towards something that you genuinely want to do or achieve, rather than what other people want for you. </item>
+        <item>#3. Find things that interest you within goals that don\’t.\n\n
+            Sometimes other people set goals or tasks for us that we don\’t find interesting or want to do.
+            So, try and find something within that task that does motivate you.
+            For example: \'I hate maths, but it\'s going to help me become a builder, which I want more than anything.\’ </item>
+        <item>#4. Make your goal public.\n\n
+            If you tell someone – or write down – your goal, you\'ve essentially made a promise to keep your word. </item>
+        <item>#5. Plot your progress.\n\n
+            When you\’re working towards something, it can be really motivating if you can see evidence that you\’re making progress.
+            Draw or create a visual representation of how you\’re coming closer to achieving the goal you\’ve set yourself. </item>
+        <item>#6. Break up your goal.\n\n
+            Start with easier tasks and work your way up to bigger challenges. Breaking up a task in your mind into achievable chunks helps build confidence. </item>
+        <item>#7. Use rewards.\n\n
+            Promise yourself some sort of reward each time you complete a step/task. </item>
+        <item>#8. Don\’t do it alone.\n\n
+            Join a class, or find a teacher or someone you can share the experience with.
+            Other people\’s encouragement to keep going can be a big boost to your motivation, particularly when you\’re doing it tough.</item>
+    </string-array>
+
+    <string-array name="Office">
+        <item>#1. Streamline your space.\n\n
+Before you do anything else, take a few moments at the start of each day to organize and declutter your workspace.
+            Having a clutter-free environment helps you think more clearly and produce better results, said Kristoph Matthews, founder of on-demand storage company Boxbee.
+            By cleaning up and organizing your space, you can greatly increase your productivity and limit the time you spend searching for items.</item>
+        <item>#2. Add pops of color or live plants.\n\n
+Color can have a major effect on your mood and productivity throughout the day, said Jenny Gauld, an interior designer for office furniture and accessory retailer Turnstone.
+            Blue can impart a calming feeling and can help you focus, while red may be great for work that requires accuracy and attention to detail.
+            Plants can also help people focus:
+            A study from Washington State University found that workers who were exposed to plants in a windowless workspace
+            reported feeling less stressed and more productive.</item>
+        <item>#3. Decorate your workspace.\n\n
+In addition to adding some color and plants to your workspace, decorating your desk or cubicle with a few personal knickknacks can help you feel more relaxed,
+            which can boost your productivity.
+            Gauld suggested adding meaningful career memorabilia, such as diplomas, awards and other decorative items that help you feel appreciated,
+            and serve to motivate you.</item>
+        <item>#4. Get your most-dreaded task out of the way.\n\n
+Everyone has at least one task on the to-do list that keeps getting pushed back because the thought of doing it seems awful.
+            That task is actually the one you should complete first, Matthews told Business News Daily.
+            Instead of waiting until the last minute to finish it, get it off your plate as soon as possible.
+            Your other tasks will seem less daunting by comparison, and you\'ll stop stressing about that one task all day, making you more productive overall.</item>
+        <item>#5. Prioritize and delegate your other tasks.\n\n
+Your focus should go to the most important tasks first, so think about everything that you do and just how pivotal or trivial each thing is.
+            If you can, set aside the low-priority items, and come up with a plan to delegate or
+            outsource them so you can spend more time on the things that add more value to your position and the company,
+            advised Kathleen Kobel, a productivity business coach and founder of Smart Business Mom.</item>
+        <item>#6. Turn off your email notifications.\n\n
+Instead of reading every email as it lands in your inbox, try turning off your notifications and check messages only at set intervals.
+            Why? Constant email alerts popping up on your phone or desktop can break your focus.
+            It takes 64 seconds for a person to recover from being interrupted by an email notification, according to Alex Moore,
+            CEO of email productivity solution Boomerang.</item>
+        <item>#7. Take short breaks.\n\n
+Whether it\'s a walk around the block, a run to the nearby coffee shop, reading a magazine or visiting with a colleague,
+            taking short breaks that are unrelated to your work can make a huge difference in your performance.
+            Your productivity diminishes the longer you go without a break, Kobel told Business News Daily.
+            Kobel explained that this is why it\'s recommended that people don\'t work more than eight to 10 hours per day
+            – at a certain point, your body and mind simply cannot produce anymore, she said.</item>
+        <item>#8. Move around.\n\n
+Exercise isn\'t just good for your body, it can have a positive impact on your work performance too.
+            Physical exercise has been shown to affect mental health and focus, McIntire said.
+            A great way to feel sharper and more productive? Try going for a run in the morning or starting your day with a workout, McIntire said.
+            It doesn\'t hurt to sneak in some exercise on your breaks either.</item>
+        <item>#9. Listen to music.\n\n
+Wearing headphones doesn\'t always mean you\'re antisocial.
+            When working, listening to your favorite tunes can help you get into the zone and knock out your to-do list, Gauld said. Be careful, however:
+            While music can help people enter "flow states," it can also serve as a distraction.</item>
+        <item>#10. Switch locations.\n\n
+If your employer allows it, take some time during the week to work in a different environment.
+            Meghan Khaitan, founder of seat belt device MyBuckleMate said that a change of scenery can be a big help in boosting productivity.
+            Head to the library or a local park (weather permitting), or find a place that\'s quiet and full of natural light.
+            This can help spur new ideas or shed new light on an old problem, Khaitan said.</item>
+        <item>#11. Write down your daily goals.\n\n
+It\'s not always easy to keep track of everything you need to do, so start each morning by writing down your goals for the day.
+            When your focus is broken or you find yourself procrastinating, you can use the list to keep you on track, said Sam McIntire, founder of Deskbright,
+            an online learning platform dedicated to helping entrepreneurs and employees.
+            Write your list down on a Post-it or something that\'s visible from your desk, then return to it when you need a reminder of what you should be working on,
+            McIntire said.</item>
+        <item>#12. Stop trying to multitask.\n\n
+Doing more than one thing at a time may seem like the best way to get all of your tasks done,
+            but it can hurt your productivity more than it helps. Multitasking simply doesn\'t work, and when you do, you end up wasting time, Kobel said.</item>
+        <item>#13. Follow the two-minute rule.\n\n
+David Allen coined the two-minute rule in his bestselling book Getting Things Done (Random House, 2002).
+            If you see a task or action that you know can be completed in two minutes or less, do it immediately.
+            The principle is that completing the task right away takes less time than finishing it later.
+If it\'ll take longer than that, schedule it and get it into your productivity system so you can tackle it when you\'re ready.</item>
+        <item>#14. Take back control of your schedule.\n\n
+Staying productive, clear-headed and calm is really about feeling in control. Whether you\'re delegating tasks to others or setting time limits for interruption,
+            you are taking back room in your schedule to tackle the things you\'ve deemed important.
+Avoiding burnout and fatigue is essential to boosting your productivity and memory retention.
+            You can do all of that by simply influencing the direction of your day rather than being resigned to letting the direction of your day control your actions.</item>
+        <item>#15. Eat healthy.\n\n
+What you put in your body matters. If you load up on junk food, you can end up with that 4 o\'clock slump.
+            To avoid feeling sluggish, prioritize healthy eating and nutritious snacks.
+            No one works well on an empty stomach, but that means that afternoon snacking is an opportunity to give yourself a good, clean energy boost.</item>
+        <item>#16. Practice presence and meditation.\n\n
+Multitasking, using social media and engaging in other distractions can prevent you from accomplishing what you need to in a reasonable amount of time.
+Stay focused and engaged at your current task to get things done more effectively. One way to make this easier is to meditate each day.
+            This provides you with time and space to focus on one task – breathing – and this energy can be carried throughout the rest of your day.</item>
+    </string-array>
+
+    <string-array name="Pet">
+        <item>#1. PROVIDE A PROTECTED AND CLEAN LIVING ENVIRONMENT FOR YOUR DOG.\n\n
+            Shelter from the elements and hazards, as well as good hygiene, are basic to a quality life.</item>
+        <item>#2. ALWAYS KEEP FRESH WATER AVAILABLE.\n\n
+            Maintaining optimal hydration is important for health and energy.</item>
+        <item>#3. FEED A QUALITY DIET AND PREVENT OBESITY.\n\n
+            Overweight humans and animals can adversely affect health in many ways.
+            Follow the dietary recommendations that your veterinarian will make according to the nutritional needs of your dog,
+            based on size, age, level of activity and breed. Remember to provide healthy treats rather than table scraps, as rewards.</item>
+        <item>#4. HAVE YOUR PET EXAMINED BY A VETERINARIAN ON A REGULAR BASIS.\n\n
+            Your veterinarian will provide you with the information on vaccination schedules, deworming and external parasite control.
+            Keep a copy of your pet\’s vaccination records in your home or with you when you travel.
+            Contact your veterinarian if you believe that your pet may be ill,
+            injured, or if something just doesn\’t seem right. Your veterinarian is the expert on keeping your dog healthy.  Work as a team with him or her.</item>
+        <item>#5. PROVIDE AMPLE OPPORTUNITIES TO EXERCISE.\n\n
+            Make sure your dog gets the regular exercise needed to enable it to be fit.
+            By being in shape, your dog will be more capable of participating in the activities that it enjoys.</item>
+        <item>#6. COMMUNICATE WITH YOUR DOG AND DEVELOP A RELATIONSHIP.\n\n
+            Dogs are social creatures and they need to interact with their owner.
+            Quality time will help you get to know your dog and understand  particular needs that it might have,
+            as well enhance your ability to recognize early signs of an illness that could be developing.
+            In addition, time spent in developing a relationship will help prevent many undesirable behavioral patterns. </item>
+        <item>#7. TRAIN YOUR DOG TO FOLLOW THE SIMPLE COMMANDS.\n\n
+            Puppy and dog training classes can be very helpful.
+            The better your dog is at following basic and necessary commands, the greater the chances are that your dog will live a safe and long life.</item>
+        <item>#8. PRACTICE REPRODUCTIVE CONTROL.\n\n
+            If you do not intend to create puppies, spaying or neutering is a certain option.
+            If you plan to breed your dog or are opposed to spaying and neutering for other reasons,
+            take appropriate measures to prevent mismatings. Consult with your veterinarian in regard to other options that are available.</item>
+        <item>#9. DENTAL CARE IS VERY IMPORTANT.\n\n
+            Many breeds are prone to gum disease, which can have serious implications.
+            Infection resulting from this condition leads to premature tooth loss, and can commonly cause infections in major organs, including the heart valves.</item>
+        <item>#10. DON\’T OVERLOOK GROOMING AND NAIL TRIMMING.\n\n
+            Long coated dogs are prone to developing matts and ice balls in their hair.
+            Overgrown nails are common in elderly dogs and can make it more difficult for them to walk.
+            In addition, such nails are much more prone to breaking, which can be quite painful.</item>
+    </string-array>
+
+    <string-array name="Car">
+        <item>#1. USE TOOTHPASTE TO CLEAN THOSE HEADLIGHTS:\n\n
+This one is really easy but requires a little arm strength. Use some toothpaste and rub it all over the plastic cover over your headlights.
+            Let it sit for a bit then rinse with clean water and dry.
+            This will remove the foggy glaze that covers them. If you want to keep them that way, try using some furniture polish or car wax to keep them clean.</item>
+        <item>#2. USE A SHOE FOR A CUP HOLDER:\n\n
+Pretty much all cars come with cup holders but not all cup holders are good.
+            Sometimes you need something a little more secure to hold that 32oz
+            drink than a flimsy piece of plastic or a cup holder that isn\’t deep enough to hold it properly.
+            The answer is a shoe! Use a tennis show to put your drink in. since the opening is adjustable it fits nearly every cup.
+            It\’s also deeper than many cup holders and the shoe itself is bottom-heavy to help prevent spills.
+            This is also a great trick when you\’re in the great outdoors and need a cup holder.</item>
+        <item>#3. USE A STAPLE REMOVER TO ADD KEYS TO THE KEY RING:\n\n
+Getting keys onto a king ring can be a real pain in the rear end. If you don\’t have nails it can be even worse.
+            New key rings are also really stiff from not being used and some are just huge and cumbersome.
+            Don\’t break a nail or hurt yourself anymore! Use a staple remover to open the key ring to put keys on!</item>
+        <item>#4. USE YOUR SEAT WARMER TO KEEP FOOD WARM:\n\n
+Not all cars come with seat warmers but the ones that do can be used for a really useful function.
+            When you pick up food, turn on your seat warmer and put the food on the seat.
+            It won\’t keep food piping hot but it\’ll definitely help slow the process of cooling so your food stays warmer longer.</item>
+        <item>#5. USE NAIL POLISH TO FIX PAINT CHIPS AND SCRAPES:\n\n
+Getting your car dinged sucks and it can also be an unreasonably expensive repair for how little damage is actually being fixed.
+            If you don\’t want to fork out the dough but still want it at least sort of fixed then you can always try some nail polish.
+            Just head to the local drug store and find the color that matches your car as closely as possible.
+            Then just paint it on. Up close it won\’t look all that amazing but it\’ll definitely make your car look better from afar.</item>
+        <item>#6. USE A PLASTIC CEREAL CONTAINER AS A TRASH CAN:\n\n
+Those little trash receptacles on the driver and passenger side doors are a joke.
+            You can never fit anything of substance in there and cleaning them out is a pain.
+            Fix both problems at one by picking up a plastic cereal container.
+            If you get one with a big enough hole you can stuff anything in there and you can even put a trash can liner in there so you can empty it out easier.
+            They only cost a couple of bucks and can make your car look less like a dumpster.</item>
+        <item>#7. USE TINTED PLASTIC SHEETS FOR SHADE ANYWHERE:\n\n
+A fun little trick that pilots use is to attach plastic sheets to their windshields to avoid glare from the sun.
+            By using that same trick with some plastic sheets like these, you can achieve much the same effect.
+            The sheets stick on your window using static from the windshield so there is no messy stickers or anything to clean up.
+            When you need relief from sunlight to your face and the visor isn\’t doing it\’s job, you can always try this instead.</item>
+        <item>#8. MESH BUNGIE NET CAN ADD EXTRA STORAGE:\n\n
+Where do you toss your coat when you get into the car? There really isn\’t a designated coat storage thing in a car anywhere so why not make one yourself?
+            If you pick up a mesh bungie net you can attach them to the ceiling handles on your car.
+            You can then use this space to stash practically anything from clothing accessories to children\’s coloring books.
+            That stuff doesn\’t need to be on the floor of your car anyway and the nets are surprisingly cheap.</item>
+        <item>#9. PARK FACING EAST:\n\n
+This one can be a little tricky but it\’s so awesome when you do it. When you park your car, make sure you park facing east.
+            Since the sun rises in the east, it will be radiating its warm goodness all over the windshield of your car long before you need to get in it to go to work.
+            This can dramatically decrease the defrosting time and it may even help you avoid getting back out to scrape it off manually.</item>
+        <item>#10. USE A PLUNGER TO FIX DENTS:\n\n
+This oldie is still a goodie. If you don\’t feel like paying a mechanic to do essentially this exact same thing you can do it yourself.
+            Do note that this won\’t work for heavy damage and only for smaller dents.
+            It\’s also worth mentioning that this also works with other things like washers and dryers.
+            It\’s really easy to do because all you\’re doing is taking a plunger to your car door!</item>
+        <item>#11. USE HAND SANITIZER TO DE-ICE KEY HOLES:\n\n
+The title pretty much says it all. The alcohol in hand sanitizer will melt ice very well and getting a bottle lets you spray it directly into the keyhole for the lock.
+            Many people carry this stuff around anyway and really you should too.
+            It doesn\’t just clean your hands in a jiff but it also de-ices keyholes.
+            Two birds, one stone.</item>
+        <item>#12. BOOST THE RANGE OF YOUR REMOTE ALARM BY HOLDING IT AGAINST YOUR CHIN:\n\n
+Yes, this really works. The science behind it is actually quite simple. Your head is filled with fluids and fluids make for a good conductor.
+            So when you put your key fob against your skull you turn your head into an antenna that can extend the range of your alarm.
+            It won\’t be very far and you won\’t get more than 20ft of range out of it but it does actually work. </item>
+        <item>#13. RUB OUT SCUFFS WITH TOOTHPASTE:\n\n
+Not only can tooth paste rub out the fog of your headlights but it can also remove scuffs from your car.
+            It\’s simple to do. Just rub the tooth paste where the scuffs are and wipe clean.
+            Your car should be monumentally less scuffed or if the scuff wasn\’t bad, possibly gone altogether!</item>
+        <item>#14. USE A LAUNDRY BASKET TO ORGANIZE YOUR THINGS:\n\n
+The trunk of your car is probably a mess. I know mine is. If you pick up a laundry basket you have a place to put all of your stuff so it does\’t go flying everywhere.
+            You can pick up one of these at the dollar store for a couple of bucks and you don\’t have to worry about stuff being loose and rolling around your trunk!</item>
+        <item>#15. CREATE A BACKSEAT ORGANIZER WITH A SHOE ORGANIZER:\n\n
+Our last one is a well known car hack but it\’s still amazingly effective.
+            If you pick up a shoe organizer and some shoe ties, you can fasten the shoe organizer to the back of your front seats.
+            You can then put stuff like maps, coloring supplies for the kids, and even stuff like gloves.</item>
+    </string-array>
+
+    <string name="PrivacyPolicy">
+
+            Nikhil Soni built the Life Hacks app as a Free app.\n\nThis SERVICE is provided by Nikhil Soni at no cost and is intended for use as is.\n\n
+                    This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.\n\n
+                    If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.\n\n
+                    The Personal Information that I collect is used for providing and improving the Service.\n\n
+                    I will not use or share your information with anyone except as described in this Privacy Policy.\n\n
+            The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Life Hacks unless otherwise defined in this Privacy Policy.\n\n
+            Information Collection and Use\n\n
+                    For a better experience, while using our Service,\n\n
+                    I may require you to provide us with certain personally identifiable information, including but not limited to Nothing.\n\n
+                    The information that I request will be retained on your device and is not collected by me in any way.\n\n
+            The app does use third party services that may collect information used to identify you.\n\n
+            Link to privacy policy of third party service providers used by the app\n\n
+                    Google Play Services\n
+                AdMob\n
+                Google Analytics for Firebase\n
+                Facebook\n
+                    Log Data\n\n
+                    I want to inform you that whenever you use my Service,
+                    in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data.\n\n
+                    This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version,
+                    the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.\n\n
+                    Cookies\n\n
+            Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers.\n\n
+                    These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory.\n\n
+            This Service does not use these “cookies” explicitly.\n\n
+                    However, the app may use third party code and libraries that use “cookies” to collect information and improve their services.\n\n
+                    You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.\n\n
+                    If you choose to refuse our cookies, you may not be able to use some portions of this Service.\n\n
+            Service Providers\n\n
+            I may employ third-party companies and individuals due to the following reasons:\n\n
+                To facilitate our Service;\n
+                To provide the Service on our behalf;\n
+                To perform Service-related services; or\n
+                To assist us in analyzing how our Service is used.\n
+            I want to inform users of this Service that these third parties have access to your Personal Information.\n\n
+                    The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.\n\n
+            Security\n\n
+            I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.\n\n
+                    But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable,
+                    and I cannot guarantee its absolute security.\n\n
+            Links to Other Sites\n\n
+            This Service may contain links to other sites.\n\n
+                    If you click on a third-party link, you will be directed to that site.\n\nNote that these external sites are not operated by me.\n\n
+                    Therefore, I strongly advise you to review the Privacy Policy of these websites.\n\n
+                    I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n\n
+
+            Children’s Privacy\n\n
+
+            These Services do not address anyone under the age of 13.\n\n
+                    I do not knowingly collect personally identifiable information from children under 13.\n\n
+                    In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers.\n\n
+                    If you are a parent or guardian and you are aware that your child has provided us with personal information,
+                    please contact me so that I will be able to do necessary actions.\n\n
+
+            Changes to This Privacy Policy\n\n
+
+            I may update our Privacy Policy from time to time.\n\n
+                    Thus, you are advised to review this page periodically for any changes.\n\n
+                    I will notify you of any changes by posting the new Privacy Policy on this page.\n\n
+
+            This policy is effective as of 2020-06-11\n\n
+
+            Contact Us\n\n
+
+            If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at nsoni316@gmail.com.\n\n
+
+            This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator\n\n</string>
+
+</resources>
