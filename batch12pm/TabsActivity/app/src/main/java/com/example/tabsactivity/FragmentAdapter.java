@@ -9,6 +9,7 @@ import com.example.tabsactivity.fragments.Chat;
 import com.example.tabsactivity.fragments.Home;
 import com.example.tabsactivity.fragments.User;
 
+
 @SuppressWarnings("deprecation")
 public class FragmentAdapter extends FragmentPagerAdapter {
 

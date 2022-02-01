@@ -14,6 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.example.navigationdrawyer.fragments.Home;
@@ -50,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     private String[] activityTitles;
 
 
-    private Handler mHandler;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -58,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
         toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        mHandler = new Handler();
+       // mHandler = new Handler();
         drawer =  findViewById(R.id.drawyer_layout);
         navigationView =  findViewById(R.id.nav_view);
 
@@ -69,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
         imgProfile =  navHeader.findViewById(R.id.img_profile);
         activityTitles = getResources().getStringArray(R.array.nav_item_activity_titles);
         loadNavHeader();
+
 
 
 
@@ -83,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void loadHomeFragment() {
 
-        selectNavMenu();
+
 
         // set toolbar title
         setToolbarTitle();
@@ -95,23 +97,12 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
-        Runnable mPendingRunnable = new Runnable() {
-            @Override
-            public void run() {
-                // update the main content by replacing fragments
-                Fragment fragment = getHomeFragment();
-                FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
-//                fragmentTransaction.setCustomAnimations(android.R.anim.fade_in,
-//                        android.R.anim.fade_out);
 
-                fragmentTransaction.replace(R.id.frame, fragment, CURRENT_TAG);
-                fragmentTransaction.commitAllowingStateLoss();
-            }
-        };
+        Fragment fragment = getHomeFragment();
+        FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+        fragmentTransaction.replace(R.id.frame, fragment, CURRENT_TAG);
+        fragmentTransaction.commitAllowingStateLoss();
 
-        if (mPendingRunnable != null) {
-            mHandler.post(mPendingRunnable);
-        }
 
 
 
@@ -151,9 +142,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setTitle(activityTitles[navItemIndex]);
     }
 
-    private void selectNavMenu() {
-        navigationView.getMenu().getItem(navItemIndex).setChecked(true);
-    }
+
 
     private void setUpNavigationView() {
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
@@ -181,7 +170,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 loadHomeFragment();
-                return false;
+                return true;
             }
         });
         ActionBarDrawerToggle actionBarDrawerToggle = new ActionBarDrawerToggle(this,drawer,toolbar,R.string.openDrawer,R.string.closeDrawer)
@@ -189,11 +178,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onDrawerClosed(View drawerView) {
                 super.onDrawerClosed(drawerView);
+                Toast.makeText(getApplicationContext(), "drwyer closed", Toast.LENGTH_SHORT).show();
             }
 
             @Override
             public void onDrawerOpened(View drawerView) {
                 super.onDrawerOpened(drawerView);
+                Toast.makeText(getApplicationContext(), "drwyer open", Toast.LENGTH_SHORT).show();
             }
         };
 

@@ -1,11 +1,15 @@
 package com.example.braodcastersexamples12pm;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 import android.net.wifi.WifiManager;
 import android.os.Build;
 import android.os.Bundle;
@@ -24,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         wifiswitch = findViewById(R.id.wifiswitch);
      myBroadCaster = new MyBroadCaster();
+     if(!isOnline(getApplicationContext()))
+     {
+         showwifidialog("Internet Error","You are not connected with network");
+     }
         wifiManager =(WifiManager)   getApplicationContext().getSystemService(Context.WIFI_SERVICE);
 
         wifiswitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
@@ -69,15 +77,42 @@ public class MainActivity extends AppCompatActivity {
                 case WifiManager.WIFI_STATE_ENABLED:
                     wifiswitch.setChecked(true);
                     wifiswitch.setText("Wifi Is On");
+
                     break;
                 case WifiManager.WIFI_STATE_DISABLED:
                     wifiswitch.setChecked(false);
                     wifiswitch.setText("Wifi Is Off");
+                   // showwifidialog("Internet Error","Your are not connected with interenet");
                     break;
             }
+
         }
     };
+public void showwifidialog(String title,String message)
+{
+    AlertDialog.Builder alerdialog= new AlertDialog.Builder(this);
+    alerdialog.setMessage(message);
+    alerdialog.setTitle(title);
+    alerdialog.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+        @Override
+        public void onClick(DialogInterface dialog, int which) {
 
+        }
+    });
+    alerdialog.setNegativeButton("No", new DialogInterface.OnClickListener() {
+        @Override
+        public void onClick(DialogInterface dialog, int which) {
+            
+        }
+    });
+    alerdialog.setNeutralButton("Cancel", new DialogInterface.OnClickListener() {
+        @Override
+        public void onClick(DialogInterface dialog, int which) {
+
+        }
+    });
+    alerdialog.show();
+}
     @Override
     protected void onStart() {
         super.onStart();
@@ -88,6 +123,13 @@ public class MainActivity extends AppCompatActivity {
 
         registerReceiver(myBroadCaster,intentFilter1);
         registerReceiver(broadcastReceiver,intentFilter);
+    }
+    public boolean isOnline(Context context) {
+
+        ConnectivityManager cm = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo netInfo = cm.getActiveNetworkInfo();
+        //should check null because in airplane mode it will be null
+        return (netInfo != null && netInfo.isConnected());
     }
 
     @Override

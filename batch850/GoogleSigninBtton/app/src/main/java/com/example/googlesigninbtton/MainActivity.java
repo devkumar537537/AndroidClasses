@@ -131,25 +131,25 @@ disconnextbtn.setOnClickListener(new View.OnClickListener() {
     }
 
     private void firebaseAuthWithGoogle(String idToken) {
-        AuthCredential googleauthcreditial = GoogleAuthProvider.getCredential(idToken,null);
+            AuthCredential googleauthcreditial = GoogleAuthProvider.getCredential(idToken,null);
 
-        firebaseAuth.signInWithCredential(googleauthcreditial).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
-            @Override
-            public void onComplete( Task<AuthResult> task) {
-                if(task.isSuccessful())
-                {
-                    Toast.makeText(MainActivity.this, "LogIn Success full", Toast.LENGTH_SHORT).show();
-                    FirebaseUser user = firebaseAuth.getCurrentUser();
-                    updateUI(user);
+            firebaseAuth.signInWithCredential(googleauthcreditial).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+                @Override
+                public void onComplete( Task<AuthResult> task) {
+                    if(task.isSuccessful())
+                    {
+                        Toast.makeText(MainActivity.this, "LogIn Success full", Toast.LENGTH_SHORT).show();
+                        FirebaseUser user = firebaseAuth.getCurrentUser();
+                        updateUI(user);
 
-                }else
-                {
-                    Toast.makeText(MainActivity.this, "error "+task.getException(), Toast.LENGTH_SHORT).show();
-                    Toast.makeText(MainActivity.this, "error"+task.getException(), Toast.LENGTH_SHORT).show();
-                    updateUI(null);
+                    }else
+                    {
+                        Toast.makeText(MainActivity.this, "error "+task.getException(), Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "error"+task.getException(), Toast.LENGTH_SHORT).show();
+                        updateUI(null);
+                    }
                 }
-            }
-        });
+            });
     }
 
     private void updateUI(FirebaseUser user) {

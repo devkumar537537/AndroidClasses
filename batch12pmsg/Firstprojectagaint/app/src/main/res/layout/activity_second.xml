@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/firstextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="First Text"
+        android:textColor="#0938DF"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/thirdextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Third Text"
+        android:textColor="#0938DF"
+        android:layout_marginTop="40dp"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/secdextview"
+        android:text="Second Text"
+        android:textSize="23sp"
+        android:layout_centerVertical="true"
+        android:textColor="#0938DF"
+        android:textStyle="bold"
+      />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@+id/firstextview"
+        android:weightSum="20"
+        >
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="6"
+            android:layout_height="wrap_content"
+            android:text="Email"
+
+            android:layout_marginTop="15dp"
+            android:textAlignment="center"
+            android:id="@+id/emailtextview"/>
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="14"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="20dp"
+            android:inputType="number"
+            android:id="@+id/ageeditt"
+            android:hint="Enter your age"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/movetofirst"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/firstextview"
+        android:layout_centerHorizontal="true"
+        android:text="MovetoMain" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/imageview"
+        android:src="@drawable/universthree"
+        android:layout_toEndOf="@+id/movetofirst"
+        android:layout_above="@+id/firstextview"
+        android:scaleType="fitXY"
+        />
+</RelativeLayout>

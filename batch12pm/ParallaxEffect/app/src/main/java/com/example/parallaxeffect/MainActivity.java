@@ -33,8 +33,7 @@ public class MainActivity extends AppCompatActivity {
                  BottomSheetDialog bottomSheet = new BottomSheetDialog();
 
 
-                 bottomSheet.show(getSupportFragmentManager(),
-                         "ModalBottomSheet");
+                 bottomSheet.show(getSupportFragmentManager(), "ModalBottomSheet");
              }
          });
 

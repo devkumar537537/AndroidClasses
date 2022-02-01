@@ -27,7 +27,7 @@
 
         <action android:name="android.intent.action.AIRPLANE_MODE"/>
         <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
-
+        <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
     </intent-filter>
 
 

@@ -14,7 +14,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 @SuppressLint("ClickableViewAccessibility")
-@SuppressWarnings("deprecation")
+
 public class MainActivity extends AppCompatActivity implements
         GestureDetector.OnGestureListener,
         GestureDetector.OnDoubleTapListener

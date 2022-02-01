@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/whatweboption"
+        android:title="WhatsWeb"/>
+    <item android:id="@+id/updatebtn"
+        android:title="Update"/>
+    <item android:id="@+id/settingbtn"
+        android:title="Setting"/>
+</menu>

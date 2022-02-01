@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/firsttext"
+        android:text="FirstText" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:id="@+id/sectext"
+        android:text="Secnd Text"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/emailtext"
+        android:text="Email"
+        android:layout_below="@+id/firsttext"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter email"
+        android:id="@+id/editemail"
+        android:layout_toRightOf="@+id/emailtext"
+        android:layout_below="@+id/firsttext"/>
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="movetoanother"
+    android:id="@+id/movetoanother"
+    android:layout_below="@+id/linearlayout"
+    android:layout_margin="10dp"
+    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editemail"
+        android:id="@+id/linearlayout"
+        android:weightSum="20"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="6"
+            android:layout_height="wrap_content"
+            android:id="@+id/passtext"
+            android:text="Email"
+
+            />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="14"
+            android:layout_height="wrap_content"
+            android:hint="Enter Password"
+          />
+
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="third text"
+        android:id="@+id/thirdtext"
+       android:layout_centerInParent="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="fourth text"
+        android:id="@+id/fourthtext"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="fifttext"
+        android:id="@+id/fttext"
+      android:layout_toRightOf="@+id/thirdtext"
+        android:layout_centerVertical="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seve Texttext"
+        android:id="@+id/seventext"
+        android:layout_above="@+id/thirdtext"
+        android:layout_centerHorizontal="true"
+
+        />
+</RelativeLayout>

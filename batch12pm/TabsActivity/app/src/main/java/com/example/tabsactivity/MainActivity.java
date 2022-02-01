@@ -1,32 +1,46 @@
 package com.example.tabsactivity;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
+import androidx.viewpager2.widget.ViewPager2;
 
 import android.os.Bundle;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.google.android.material.tabs.TabLayout;
+import com.google.android.material.tabs.TabLayoutMediator;
 
 public class MainActivity extends AppCompatActivity {
-TabLayout tabLayout;
-ViewPager viewPager;
+    TabLayout tabLayout;
+    ViewPager2 viewPager;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        tabLayout =findViewById(R.id.tabs);
+        tabLayout = findViewById(R.id.tabs);
         viewPager = findViewById(R.id.viewpager);
+        viewPager.setAdapter(new NewAdapter(this));
 
-        FragmentAdapter fragmentAdapter = new FragmentAdapter(getSupportFragmentManager());
+//        new TabLayoutMediator(tabLayout, viewPager,
+//                new TabLayoutMediator.TabConfigurationStrategy() {
+//                    @Override public void onConfigureTab(@NonNull TabLayout.Tab tab, int position) {
+//                        tab.setText("Tab " + (position + 1));
+//                    }
+//                }).attach();
 
-        viewPager.setAdapter(fragmentAdapter);
 
-        tabLayout.setupWithViewPager(viewPager);
         seticon();
     }
+//        FragmentAdapter fragmentAdapter = new FragmentAdapter(getSupportFragmentManager());
+//
+//        viewPager.setAdapter(fragmentAdapter);
+//
+
+
+
 
     private void seticon() {
         TextView textView = (TextView) LinearLayout.inflate(this,R.layout.tabs,null);

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12dp"
+    android:layout_margin="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/realativelayout">
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imageview"
+            android:src="@drawable/none"
+            android:scaleType="fitXY"/>
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Username"
+    android:layout_toRightOf="@+id/imageview"
+    android:textSize="18sp"
+    android:textColor="#000"
+    android:layout_margin="5dp"
+    android:id="@+id/userview"/>
+
+        <EditText
+            android:id="@+id/edititext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/userview"
+            android:layout_toRightOf="@+id/imageview"
+            android:hint="Enter number" />
+
+
+       <androidx.cardview.widget.CardView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentEnd="true"
+           android:layout_centerVertical="true"
+           android:layout_margin="10dp"
+           android:id="@+id/myclickbtn"
+           app:cardCornerRadius="8dp"
+           android:elevation="10dp"
+           >
+           <RelativeLayout
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:background="#23DA4A"
+               android:padding="10dp"
+               >
+
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerInParent="true"
+                   android:text="Click here"
+                   android:textColor="#fff"
+                   android:textSize="19sp" />
+
+
+           </RelativeLayout>
+
+
+       </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

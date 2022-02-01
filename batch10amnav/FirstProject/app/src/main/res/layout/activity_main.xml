@@ -4,46 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#0CDA20"
-    android:orientation="vertical"
     tools:context=".MainActivity">
-<TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="Log In Example"
-    android:layout_marginTop="15dp"
-    android:layout_gravity="center_horizontal"/>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:weightSum="20"
-        android:layout_margin="10dp"
-        android:orientation="horizontal">
-
-        <TextView
-            android:layout_width="0dp"
-            android:layout_weight="6"
-            android:textAlignment="center"
-            android:textColor="#fff"
-            android:layout_height="wrap_content"
-            android:text="Email"
-
-           />
-
-        <EditText
-            android:layout_width="0dp"
-            android:layout_weight="14"
-
-            android:layout_height="wrap_content"
-            android:hint="Enter email"
-            android:id="@+id/email"/>
-
-    </LinearLayout>
-<Button
+<ListView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-android:layout_margin="20dp"
-
-    android:text="showvalue"/>
+    android:id="@+id/listview"/>
 </LinearLayout>

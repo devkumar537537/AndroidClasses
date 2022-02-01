@@ -26,7 +26,7 @@ String[] wrongthree = {"Ram","Jef","Fourt"};
 Button votingbtn;
 String guesstext;
 int count = 0;
-boolean res = true;
+
 int rightcount = 0;
 int wrongcount = 0;
 
@@ -38,14 +38,10 @@ int wrongcount = 0;
         setContentView(R.layout.activity_main);
          combineView();
 
+setquestion(count);
 
 
 
-        questionstext.setText(questions[count]);
-            radionbtnone.setText(wrongone[count]);
-            radionbtntwo.setText(wrongtwo[count]);
-            radionbtnthree.setText(firstoption[count]);
-            radionbtnfour.setText(wrongthree[count]);
 
 
         votingbtn.setOnClickListener(new View.OnClickListener() {
@@ -71,11 +67,7 @@ int wrongcount = 0;
                        count = count+1;
                        if(count < questions.length)
                        {
-                           questionstext.setText(questions[count]);
-                           radionbtnone.setText(wrongone[count]);
-                           radionbtntwo.setText(wrongtwo[count]);
-                           radionbtnthree.setText(firstoption[count]);
-                           radionbtnfour.setText(wrongthree[count]);
+                 setquestion(count);
                        }else
                        {
                            Toast.makeText(MainActivity.this, "Questions are not availble", Toast.LENGTH_SHORT).show();
@@ -87,11 +79,7 @@ int wrongcount = 0;
                        count = count+1;
                        if(count < questions.length)
                        {
-                           questionstext.setText(questions[count]);
-                           radionbtnone.setText(wrongone[count]);
-                           radionbtntwo.setText(wrongtwo[count]);
-                           radionbtnthree.setText(firstoption[count]);
-                           radionbtnfour.setText(wrongthree[count]);
+                          setquestion(count);
                        }else
                        {
                            Toast.makeText(MainActivity.this, "Questions are not availble", Toast.LENGTH_SHORT).show();
@@ -113,6 +101,15 @@ int wrongcount = 0;
 
             }
         });
+    }
+
+    public void setquestion(int count)
+    {
+        questionstext.setText(questions[count]);
+        radionbtnone.setText(wrongone[count]);
+        radionbtntwo.setText(wrongtwo[count]);
+        radionbtnthree.setText(firstoption[count]);
+        radionbtnfour.setText(wrongthree[count]);
     }
 
     private void combineView() {

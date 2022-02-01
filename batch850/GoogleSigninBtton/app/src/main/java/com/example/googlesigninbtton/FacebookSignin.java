@@ -29,7 +29,7 @@ import com.google.firebase.auth.FacebookAuthProvider;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
-@SuppressWarnings("deprecation")
+
 public class FacebookSignin extends AppCompatActivity {
     ImageView profileimage;
     TextView email,name,id;
@@ -45,7 +45,7 @@ public class FacebookSignin extends AppCompatActivity {
         connectxml();
 
         firebaseAuth = FirebaseAuth.getInstance();
-        loginButton.setReadPermissions("email", "public_profile");
+
         callbackManager = CallbackManager.Factory.create();
 
         loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
@@ -129,6 +129,7 @@ signoutbtn.setOnClickListener(new View.OnClickListener() {
         name = findViewById(R.id.name);
         id = findViewById(R.id.userId);
         signoutbtn = findViewById(R.id.facesignout);
+
     }
 
     @Override

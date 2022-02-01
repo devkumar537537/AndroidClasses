@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
 import android.Manifest;
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
@@ -23,7 +24,7 @@ import com.google.android.gms.vision.barcode.Barcode;
 import com.google.android.gms.vision.barcode.BarcodeDetector;
 
 import java.io.IOException;
-
+@SuppressLint("MissingPermission")
 public class ScanQrCode extends AppCompatActivity {
     SurfaceView surfaceView;
     TextView texBArcodevalue;
@@ -65,7 +66,7 @@ btnaciton.setOnClickListener(new View.OnClickListener() {
     }
 
     private void intialisecamerasource() {
-        Toast.makeText(this, "Initialisation start", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Initialisation start", Toast.LENGTH_SHORT).show();
         barcodeDetector = new BarcodeDetector.Builder(this)
                 .setBarcodeFormats(Barcode.ALL_FORMATS)
                 .build();

@@ -137,10 +137,7 @@ movesignupt.setOnClickListener(new View.OnClickListener() {
                 }
             }
         });
-        if(getIntent() != null)
-        {
 
-        }
         signInButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -192,7 +189,7 @@ movesignupt.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onVerificationCompleted(@NonNull PhoneAuthCredential phoneAuthCredential) {
       String code = phoneAuthCredential.getSmsCode();
-verficode(code);
+      verficode(code);
       //singinwithcredention(phoneAuthCredential);
     }
 

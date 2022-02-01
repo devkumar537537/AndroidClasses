@@ -40,12 +40,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         connextxml();
         movetoother = findViewById(R.id.movebtn);
-        movetoother.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this,HomeActivity.class));
-            }
-        });
+        movetoother.setOnClickListener(v -> startActivity(new Intent(MainActivity.this,HomeActivity.class)));
         nameArray = new HashMap<>();
         numberArray = new HashMap<>();
         if(res)
@@ -98,8 +93,8 @@ public class MainActivity extends AppCompatActivity {
         {
 
 
-            stringBuilder.append("Name => "+nameArray.get(i)+" \n");
-            stringBuilder.append("Number => "+numberArray.get(i)+ "\n\n");
+            stringBuilder.append("Name => ").append(nameArray.get(i)).append(" \n");
+            stringBuilder.append("Number => ").append(numberArray.get(i)).append("\n\n");
 
 
         }
@@ -118,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
         Cursor cur = cr.query(ContactsContract.Contacts.CONTENT_URI,mColumnProjection,
                 null, null, null);
         if ((cur != null ? cur.getCount() : 0) > 0) {
-            while (cur != null && cur.moveToNext()) {
+            while (cur.moveToNext()) {
                 count++;
                 String name = cur.getString(0);
                 String id = cur.getString(1);
@@ -131,12 +126,12 @@ public class MainActivity extends AppCompatActivity {
                     while (pCur.moveToNext()) {
                         String phoneNo = pCur.getString(pCur.getColumnIndex(
                                 ContactsContract.CommonDataKinds.Phone.NUMBER));
-                        numberArray.put(count,phoneNo);
+                        numberArray.put(count, phoneNo);
                     }
                     pCur.close();
+
+
                 }
-
-
             }
         }
         cur.close();

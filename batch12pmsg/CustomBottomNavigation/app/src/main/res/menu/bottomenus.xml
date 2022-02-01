@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/homeiconos"
+    android:title="Home"
+    android:icon="@drawable/home"/>
+    <item android:id="@+id/usericon"
+        android:title="User"
+        android:icon="@drawable/user"/>
+    <item android:id="@+id/settingcions"
+        android:title="Setting"
+        android:icon="@drawable/setting"/>
+</menu>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/relativelayout"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/nameveiwsimple"
+        android:layout_margin="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Name will apeart here" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clickit"
+        android:id="@+id/clickbtnbase"
+        android:layout_margin="2dp"
+        android:layout_below="@+id/nameveiwsimple"/>
+
+    <ImageView
+        android:id="@+id/imageviewsimple"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/univers" />
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleProjet</string>
+    <string name="emailhint">Enter Your Age</string>
+</resources>

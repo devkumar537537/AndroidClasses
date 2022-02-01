@@ -9,19 +9,187 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b40d28f-b9ab-40b1-acfb-06732ddced54" name="Default Changelist" comment="" />
+    <list default="true" id="1b40d28f-b9ab-40b1-acfb-06732ddced54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Android5pmClasses/TypesOfAdaptes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/.idea/Rahoul3pm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/OtherAdvanceComponent/app/src/main/res/layout/spinnerlayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/androidTest/java/com/example/radioquiz/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/java/com/example/radioquiz/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/app/src/test/java/com/example/radioquiz/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RAdioQuiz/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RadioButtonsecond/app/src/main/java/com/example/radiobuttonsecond/SecondActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RadioButtonsecond/app/src/main/java/com/example/radiobuttonsecond/fragments/FirstFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RadioButtonsecond/app/src/main/java/com/example/radiobuttonsecond/fragments/SecondFragmet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RadioButtonsecond/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RadioButtonsecond/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/RadioButtonsecond/app/src/main/res/layout/fragment_second_fragmet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/java/com/example/typedofadapters/CusomBAseAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/java/com/example/typedofadapters/ItemClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/res/drawable/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/res/drawable/fragemtlifescyre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/res/drawable/none.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/res/drawable/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/res/drawable/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rahoul3pm/TypedOfAdapters/app/src/main/res/layout/baseitemlayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/FirstApplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/app/src/main/res/layout/listviewformate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/app/src/main/res/menu/contextmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/java/com/example/typesofadapter/ArrayModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/java/com/example/typesofadapter/CardviewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/java/com/example/typesofadapter/CustomArrayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/download.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/email.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/fragemtlifescyre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/lock.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/none.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/drawable/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/layout/activity_cardview_example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch10amnav/TypesOfAdapter/app/src/main/res/layout/arraylayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RadioButtonExamples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabsActivity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/androidTest/java/com/example/samllcomponent/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/java/com/example/samllcomponent/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/layout/listformate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/menu/popupmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/app/src/test/java/com/example/samllcomponent/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SamllComponent/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/java/com/example/sampleprojet/ConstraintExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/java/com/example/sampleprojet/RelativeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/drawable/two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/layout/activity_constraint_example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/layout/activity_relative_example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/layout/itemlayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/menu/contextmenufile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/menu/optionmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch530ap/SampleProjet/app/src/main/res/menu/popupmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../batch850/.idea/batch850.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/LayoutPractice/app/src/main/java/com/example/layoutpractice/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/LayoutPractice/app/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/LayoutPractice/app/src/main/res/menu/optionsmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/MyAdavanceView/app/src/main/java/com/example/myadavanceview/LIstViewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/MyAdavanceView/app/src/main/java/com/example/myadavanceview/SpinnerExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/MyAdavanceView/app/src/main/res/layout/activity_list_view_example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/MyAdavanceView/app/src/main/res/layout/activity_spinner_examples.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/MyAdavanceView/app/src/main/res/layout/listviewformate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lubna2pm/MyAdavanceView/app/src/main/res/menu/optionsmenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/java/com/example/spinnerexample/RelativeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/java/com/example/spinnerexample/fragements/FirstFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/java/com/example/spinnerexample/fragements/SecondFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/drawable/none.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/drawable/one.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/font/akronim_regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/font/arbutus.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/font/asset.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/layout/activity_relative_example.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/layout/fragment_first.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ravi12pm/SpinnerExample/app/src/main/res/layout/spinneritem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android5pmClasses/TypesOfAdaptes/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Android5pmClasses/TypesOfAdaptes/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Android5pmClasses/TypesOfAdaptes/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul/Typerofadapter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul/TypesofAdapter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../batch10amnav/FirstApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstApplication/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstProject/app/src/main/java/com/example/firstproject/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/app/src/main/java/com/example/firstproject/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../batch10amnav/FirstProject/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../batch10amnav/FirstProject/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RadioButtonExamples/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RadioButtonExamples/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RadioButtonExamples/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RadioButtonExamples/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Rahoul3pm/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TabsActivity/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TabsActivity/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TabsActivity/.idea/runConfigurations.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/cbitssandroid/.android/avd/deivce.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1nvLzcKQTnrOPjs6UIN1h84lqsl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -116,10 +284,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="482" y="123" width="424" height="484" key="FileChooserDialogImpl" timestamp="1623639077495">
-      <screen x="43" y="27" width="1323" height="741" />
-    </state>
-    <state x="482" y="123" width="424" height="484" key="FileChooserDialogImpl/43.27.1323.741@43.27.1323.741" timestamp="1623639077495" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

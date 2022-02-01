@@ -73,7 +73,6 @@ Button adddatabtn;
         addrightanswer = findViewById(R.id.rightoption);
         addtopic = findViewById(R.id.topic);
         addnumber = findViewById(R.id.numberquestion);
-
         adddatabtn = findViewById(R.id.addquestionbtn);
     }
 }

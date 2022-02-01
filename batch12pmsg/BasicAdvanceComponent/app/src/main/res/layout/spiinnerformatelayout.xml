@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    android:text="City will show here"
+    android:textColor="#37E332"
+    android:fontFamily="@font/dancing_script_variablefont_wght"
+    android:textSize="23sp"
+    android:textStyle="italic">
+
+
+</TextView>
