@@ -93,11 +93,11 @@ FirebaseAuth firebaseAuth;
             @Override
             public void onClick(View v) {
                 chooseFromgallary.setVisibility(View.GONE);
-                Intent intent = new Intent();
+                    Intent intent = new Intent();
 
-                intent.setAction(MediaStore.ACTION_IMAGE_CAPTURE);
+                    intent.setAction(MediaStore.ACTION_IMAGE_CAPTURE);
 
-                CamereResultLauncher.launch(intent);
+                    CamereResultLauncher.launch(intent);
             }
         });
 uploadimagebtn.setOnClickListener(new View.OnClickListener() {
@@ -164,7 +164,6 @@ deleteuserbtn.setOnClickListener(new View.OnClickListener() {
         });
     }
 });
-
 
     }
 

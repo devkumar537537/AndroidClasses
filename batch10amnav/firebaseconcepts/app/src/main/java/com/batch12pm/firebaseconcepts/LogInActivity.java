@@ -25,7 +25,6 @@ import java.util.concurrent.TimeUnit;
 public class LogInActivity extends AppCompatActivity {
 EditText email,password,numberedit,otpedit;
 Button login,movetoregister,submitnumber,submintotp;
-
 FirebaseAuth firebaseAuth;
 String phonenumber;
 String verification_code;
@@ -105,8 +104,8 @@ submintotp.setOnClickListener(new View.OnClickListener() {
         @Override
         public void onVerificationCompleted(@NonNull PhoneAuthCredential phoneAuthCredential) {
             progressBar.setVisibility(View.GONE);
-            String code = phoneAuthCredential.getSmsCode();
-            verficode(code);
+                String code = phoneAuthCredential.getSmsCode();
+                verficode(code);
         }
 
         @Override

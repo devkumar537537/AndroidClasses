@@ -122,17 +122,17 @@ firebaseFirestore.collection("UserImagedata").get().addOnCompleteListener(new On
         firebaseFirestore.collection("TenamBatchData").document(userid).get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
             @Override
             public void onComplete(@NonNull Task<DocumentSnapshot> task) {
-                DocumentSnapshot document = task.getResult();
-               if (document.exists()) {
-                         String name = document.get("nameText").toString();
-                         String number = document.get("number").toString();
+                    DocumentSnapshot document = task.getResult();
+                   if (document.exists()) {
+                             String name = document.get("nameText").toString();
+                             String number = document.get("number").toString();
 
-                         nameview.setText(name);
-                         numberview.setText(number);
+                             nameview.setText(name);
+                             numberview.setText(number);
 
-                } else {
-                    Toast.makeText(getApplicationContext(), "error "+task.getException(), Toast.LENGTH_SHORT).show();
-                }
+                    } else {
+                        Toast.makeText(getApplicationContext(), "error "+task.getException(), Toast.LENGTH_SHORT).show();
+                    }
             }
         });
     }

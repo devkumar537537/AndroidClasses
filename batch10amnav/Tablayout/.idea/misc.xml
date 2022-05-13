@@ -11,7 +11,7 @@
         <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.17239583333333333" />
         <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.17239583333333333" />
         <entry key="app/src/main/res/layout/fragment_user.xml" value="0.17239583333333333" />
-        <entry key="app/src/main/res/layout/tabview.xml" value="0.17239583333333333" />
+        <entry key="app/src/main/res/layout/tabview.xml" value="0.25" />
       </map>
     </option>
   </component>

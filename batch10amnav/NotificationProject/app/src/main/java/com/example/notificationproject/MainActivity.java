@@ -4,25 +4,30 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NotificationCompat;
+import androidx.core.app.RemoteInput;
 import androidx.core.content.ContextCompat;
 import androidx.core.graphics.drawable.DrawableCompat;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
+import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
+import android.content.ServiceConnection;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.IBinder;
 import android.os.StrictMode;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.target.CustomTarget;
@@ -44,6 +49,8 @@ TextView notificationtext;
     Context context;
     Bitmap image;
     URL url;
+    boolean isBound = true;
+    MyServiceClass myBoundedService;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,10 +63,12 @@ TextView notificationtext;
         }
         notificationtext = findViewById(R.id.noatificationetext);
         producenotfification = findViewById(R.id.notificationbutton);
+        Intent intent = new Intent(this, MyServiceClass.class);
+        bindService(intent,myConnection,Context.BIND_AUTO_CREATE);
         producenotfification.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                createnotification();
+              createnownotification();
             }
         });
 
@@ -75,15 +84,10 @@ TextView notificationtext;
 
     }
 
-    private void createnotification() {
+    private void createnownotification() {
 
 
-        try {
-             url = new URL("https://picsum.photos/200/300");
-             image = BitmapFactory.decodeStream(url.openConnection().getInputStream());
-        } catch(IOException e) {
-            System.out.println(e);
-        }
+
         NotificationManager notificationManager =(NotificationManager) getApplicationContext().getSystemService(Context.NOTIFICATION_SERVICE);
 
         if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O)
@@ -97,7 +101,7 @@ TextView notificationtext;
             notificationManager.createNotificationChannel(mchannel);
         }
 
-
+        RemoteInput remoteInput =new RemoteInput.Builder("txtrply").setLabel("Reply").build();
         NotificationCompat.Builder builder =
                 new NotificationCompat.Builder(this,CHANNEL_ID)
                 .setSmallIcon(android.R.drawable.stat_notify_missed_call)
@@ -105,30 +109,25 @@ TextView notificationtext;
                 .setContentText("You have terrorist call")
                 .setAutoCancel(true)
                 .setPriority(NotificationCompat.PRIORITY_DEFAULT);
-        Glide.with(getApplicationContext())
-                .asBitmap()
-                .load("https://picsum.photos/200/300")
-                .into(new CustomTarget<Bitmap>() {
-                    @Override
-                    public void onResourceReady(@NonNull Bitmap resource, @Nullable Transition<? super Bitmap> transition) {
-                        //largeIcon
-                        builder.setLargeIcon(resource);
+
+        Intent yesReceiveintent = new Intent(getApplicationContext(),SpecialActivity.class);
+        PendingIntent pendingIntentYes = PendingIntent.getActivity(this, NOTIFICATION_ID,yesReceiveintent, PendingIntent.FLAG_UPDATE_CURRENT);
+
+
+      NotificationCompat.Action action = new NotificationCompat.Action.Builder(android.R.drawable.ic_dialog_alert,"Reply",pendingIntentYes).addRemoteInput(remoteInput).build();
+      Intent secondaction =new Intent(getApplicationContext(),SpecialActivity.class);
+      secondaction.putExtra("play_text","play");
 
 
 
+      PendingIntent pendingIntenttwo =PendingIntent.getActivity(this,23,secondaction,PendingIntent.FLAG_UPDATE_CURRENT);
+      NotificationCompat.Action action1 =new NotificationCompat.Action.Builder(android.R.drawable.ic_media_play,"Play",pendingIntenttwo).build();
 
 
-                    }
 
-                    @Override
-                    public void onLoadCleared(@Nullable Drawable placeholder) {
-                        builder.setLargeIcon(getBitmapFromVectorDrawable(getApplicationContext(), android.R.drawable.star_on));
-                    }
-                });
-       Intent yesReceiveintent = new Intent(getApplicationContext(),SpecialActivity.class);
+      builder.addAction(action1);
+   builder.addAction(action);
 
-    PendingIntent pendingIntentYes = PendingIntent.getActivity(this, NOTIFICATION_ID,yesReceiveintent, PendingIntent.FLAG_UPDATE_CURRENT);
-builder.setContentIntent(pendingIntentYes);
         notificationManager.notify(NOTIFICATION_ID,builder.build());
     }
 
@@ -146,4 +145,22 @@ builder.setContentIntent(pendingIntentYes);
 
         return bitmap;
     }
+
+    private ServiceConnection myConnection = new ServiceConnection() {
+        @Override
+        public void onServiceConnected(ComponentName name, IBinder service) {
+        MyServiceClass.MyLocalBinder binder = (MyServiceClass.MyLocalBinder) service;
+            myBoundedService = binder.getService();
+            isBound = true;
+           myBoundedService.createnotification();
+            Toast.makeText(myBoundedService, "service connected", Toast.LENGTH_SHORT).show();
+        }
+
+        @Override
+        public void onServiceDisconnected(ComponentName name) {
+
+            isBound = false;
+            Toast.makeText(myBoundedService, "service false", Toast.LENGTH_SHORT).show();
+        }
+    };
 }

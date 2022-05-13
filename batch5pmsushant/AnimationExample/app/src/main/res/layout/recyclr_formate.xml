@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="23dp"
+    android:layout_margin="10dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1FBC27"
+        android:id="@+id/relativelayot"
+        >
+        <ImageView
+            android:id="@+id/imageRecycler"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/bookone"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Some text will appear  here"
+
+            android:layout_toRightOf="@+id/imageRecycler"
+            android:id="@+id/textvewrecyer"
+            android:textColor="#F4F2F2"
+            android:layout_margin="8dp"/>
+
+        <Button
+            android:id="@+id/colorbtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textvewrecyer"
+            android:layout_marginStart="10dp"
+            android:layout_toRightOf="@+id/imageRecycler"
+            android:text="change color" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -29,13 +29,15 @@ public class EmailActivity extends AppCompatActivity {
                 String subject_text = subjecttext.getText().toString().trim();
                 String message_text = mssage.getText().toString().trim();
 
-                Intent email = new Intent(Intent.ACTION_SEND);
-                email.putExtra(Intent.EXTRA_EMAIL, new String[]{ email_text});
-                email.putExtra(Intent.EXTRA_SUBJECT, subject_text);
-                email.putExtra(Intent.EXTRA_TEXT, message_text);
+
+                Intent email =new Intent(Intent.ACTION_SEND);
+                email.putExtra(Intent.EXTRA_EMAIL,new String[]{email_text});
+                email.putExtra(Intent.EXTRA_SUBJECT,subject_text);
+                email.putExtra(Intent.EXTRA_TEXT,message_text);
                 email.setType("message/rfc822");
 
-                startActivity(Intent.createChooser(email, "Choose an Email client :"));
+
+                startActivity(Intent.createChooser(email,"Choose client to send email"));
 
             }
         });

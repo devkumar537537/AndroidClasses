@@ -18,6 +18,11 @@ public class MyBoundeActivity extends AppCompatActivity {
     Button btntime,pausebtn,resetbtn;
     private boolean isBound;
 MyBoundedService myBoundedService;
+    private static final String CHANNEL_ID = "technicalGuyes";
+    CharSequence name = "my_channel";
+    String Description = "This is my channel";
+    private final int NOTIFICATION_ID = 201;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

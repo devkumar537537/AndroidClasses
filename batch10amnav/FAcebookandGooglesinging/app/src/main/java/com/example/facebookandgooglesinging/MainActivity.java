@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
@@ -31,11 +32,13 @@ import com.google.firebase.auth.FacebookAuthProvider;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+import java.util.Arrays;
+
 public class MainActivity extends AppCompatActivity {
     ImageView profileimage;
     TextView email,name,id;
     Button signoutbtn;
-    LoginButton loginButton;
+    Button loginButton;
     CallbackManager callbackManager;
     FirebaseAuth firebaseAuth;
     private static final String TAG = "ProfileActivity";
@@ -49,29 +52,36 @@ public class MainActivity extends AppCompatActivity {
         firebaseAuth = FirebaseAuth.getInstance();
 
         callbackManager = CallbackManager.Factory.create();
-        loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
-            @Override
-            public void onSuccess(LoginResult loginResult) {
 
-                Log.d(TAG, "facebook:onSuccess:" + loginResult);
-                handfacboologinwithfirebase(loginResult.getAccessToken());
-            }
+        LoginManager.getInstance().registerCallback(callbackManager,
+                new FacebookCallback<LoginResult>() {
+                    @Override
+                    public void onSuccess(LoginResult loginResult) {
 
-            @Override
-            public void onCancel() {
+                        Log.d(TAG, "facebook:onSuccess:" + loginResult);
+                        handfacboologinwithfirebase(loginResult.getAccessToken());
+                    }
 
-                Toast.makeText(getApplicationContext(), "User cancled login", Toast.LENGTH_SHORT).show();
+                    @Override
+                    public void onCancel() {
+                        Toast.makeText(getApplicationContext(), "User cancled login", Toast.LENGTH_SHORT).show();
                 updateUI(null);
-            }
+                    }
 
+                    @Override
+                    public void onError(FacebookException exception) {
+                        Toast.makeText(getApplicationContext(), "error "+exception.getMessage(), Toast.LENGTH_SHORT).show();
+
+              updateUI(null);
+                    }
+                });
+        loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onError(FacebookException error) {
-                Toast.makeText(getApplicationContext(), "error "+error.getMessage(), Toast.LENGTH_SHORT).show();
+            public void onClick(View v) {
+                LoginManager.getInstance().logInWithReadPermissions(MainActivity.this, Arrays.asList("public_profile"));
 
-                updateUI(null);
             }
         });
-
 signoutbtn.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View v) {
@@ -85,25 +95,24 @@ signoutbtn.setOnClickListener(new View.OnClickListener() {
 
     private void handfacboologinwithfirebase(AccessToken accessToken) {
 
-
         AuthCredential authCredential = FacebookAuthProvider.getCredential(accessToken.getToken());
         firebaseAuth.signInWithCredential(authCredential).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
-              if(task.isSuccessful())
-              {
-                  Toast.makeText(getApplicationContext(), "login successfull", Toast.LENGTH_SHORT).show();
-                  FirebaseUser user =  firebaseAuth.getCurrentUser();
-                  updateUI(user);
-              }else
-              {
-                  Toast.makeText(getApplicationContext(), "Authentication failed.",
-                          Toast.LENGTH_SHORT).show();
-                  updateUI(null);
-              }
-
+                if(task.isSuccessful())
+                {
+                    Toast.makeText(getApplicationContext(), "login successfull", Toast.LENGTH_SHORT).show();
+                    FirebaseUser user =  firebaseAuth.getCurrentUser();
+                    updateUI(user);
+                }else
+                {
+                    Toast.makeText(getApplicationContext(), "Authentication failed.",
+                            Toast.LENGTH_SHORT).show();
+                    updateUI(null);
+                }
             }
         });
+
     }
 
 
@@ -150,7 +159,7 @@ profileimage.setImageResource(R.drawable.ic_launcher_background);
     }
     private void connectxml() {
 
-        loginButton = findViewById(R.id.login_button);
+        loginButton = findViewById(R.id.facebookbtn);
         profileimage = findViewById(R.id.profileImage);
         email =findViewById(R.id.email);
         name = findViewById(R.id.name);
@@ -159,9 +168,10 @@ profileimage.setImageResource(R.drawable.ic_launcher_background);
 
     }
 
+
     @Override
-    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
-        callbackManager.onActivityResult(requestCode,resultCode,data);
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        callbackManager.onActivityResult(requestCode, resultCode, data);
         super.onActivityResult(requestCode, resultCode, data);
     }
 }

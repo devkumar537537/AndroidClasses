@@ -11,11 +11,12 @@
 
 
 
-    <com.facebook.login.widget.LoginButton
-        android:id="@+id/login_button"
+    <Button
+        android:id="@+id/facebookbtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:paddingBottom="15dp"
+        android:text="Login Facebook"
         android:paddingTop="15dp"
 
         />
@@ -26,7 +27,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/anotherlayout"
-        android:layout_below="@+id/login_button"
+        android:layout_below="@+id/facebookbtn"
         android:orientation="vertical">
         <ImageView
             android:layout_width="80dp"

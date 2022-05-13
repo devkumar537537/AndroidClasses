@@ -53,31 +53,31 @@ public class MyCretdialDetail extends AppCompatActivity {
     }
 
     private void deletedata() {
-        String id_text = editid.getText().toString();
+            String id_text = editid.getText().toString();
 
-        StringRequest stringRequest = new StringRequest(Request.Method.GET, "https://script.google.com/macros/s/AKfycbxOQ-A_egwFNSWYD1KJUpXevpPSmGg4ZF3kaWTHKr5e-0p8X5PdgMPFREGTqw2Nzo5j/exec?action=delete&id="+id_text,
-                new Response.Listener<String>() {
-                    @Override
-                    public void onResponse(String response) {
-                        detailProgressBar.setVisibility(View.GONE);
-                        Toast.makeText(MyCretdialDetail.this, response, Toast.LENGTH_SHORT).show();
-                    }
-                }, new Response.ErrorListener() {
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                detailProgressBar.setVisibility(View.GONE);
-                Toast.makeText(MyCretdialDetail.this, "errror "+error.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
+            StringRequest stringRequest = new StringRequest(Request.Method.GET, "https://script.google.com/macros/s/AKfycbxOQ-A_egwFNSWYD1KJUpXevpPSmGg4ZF3kaWTHKr5e-0p8X5PdgMPFREGTqw2Nzo5j/exec?action=delete&id="+id_text,
+                    new Response.Listener<String>() {
+                        @Override
+                        public void onResponse(String response) {
+                            detailProgressBar.setVisibility(View.GONE);
+                            Toast.makeText(MyCretdialDetail.this, response, Toast.LENGTH_SHORT).show();
+                        }
+                    }, new Response.ErrorListener() {
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                    detailProgressBar.setVisibility(View.GONE);
+                    Toast.makeText(MyCretdialDetail.this, "errror "+error.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
+                }
             }
-        }
-        );
+            );
 
-        int soketimeout= 50000;
+            int soketimeout= 50000;
 
-        RetryPolicy retryPolicy = new DefaultRetryPolicy(soketimeout,0,DefaultRetryPolicy.DEFAULT_BACKOFF_MULT);
-        stringRequest.setRetryPolicy(retryPolicy);
-        RequestQueue requestQueue = Volley.newRequestQueue(MyCretdialDetail.this);
+            RetryPolicy retryPolicy = new DefaultRetryPolicy(soketimeout,0,DefaultRetryPolicy.DEFAULT_BACKOFF_MULT);
+            stringRequest.setRetryPolicy(retryPolicy);
+            RequestQueue requestQueue = Volley.newRequestQueue(MyCretdialDetail.this);
 
-        requestQueue.add(stringRequest);
+            requestQueue.add(stringRequest);
     }
 
     private void updatedata() {

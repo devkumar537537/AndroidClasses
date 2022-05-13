@@ -50,7 +50,7 @@ public class SecondActivity extends AppCompatActivity {
         firebaseAuth = FirebaseAuth.getInstance();
 
         GoogleSignInOptions  gso=new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                .requestIdToken("369341452315-mnn3mgvls3qtvupvsdv23q378nv6kgie.apps.googleusercontent.com")
+                .requestIdToken("369341452315-sge22thjubc60uhmfhaiipqp5ueqv469.apps.googleusercontent.com")
                 .requestEmail()
                 .build();
 //        mGoogleSignInClient = GoogleSignIn.getClient(this, gso);

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/universtwo"
+    android:orientation="vertical"
+    tools:context=".FirstActivity">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="LogIn Example"
+    android:layout_margin="10dp"
+    android:layout_gravity="center_horizontal"
+    android:textSize="23sp"
+    android:textColor="#fff"
+    android:textStyle="bold"/>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="20"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:layout_margin="10dp"
+        android:layout_weight="6"
+        android:textColor="#fff"
+        android:textStyle="bold"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/valueedit"
+        android:layout_weight="14"
+        android:textColorHint="@color/white"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="12dp"
+        android:hint="Enter Email"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="20"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email"
+            android:layout_margin="10dp"
+            android:layout_weight="6"
+            android:textColor="#fff"
+            android:textStyle="bold"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/valueedit"
+            android:layout_weight="14"
+            android:textColorHint="@color/white"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginVertical="12dp"
+            android:hint="Enter Email"/>
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Calculate sum"
+        android:id="@+id/clickbtn"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Result will show here"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:textSize="23sp"
+        android:id="@+id/resultext"
+        android:textColor="@color/mycolor"/>
+</LinearLayout>

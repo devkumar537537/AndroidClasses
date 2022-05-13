@@ -1,6 +1,8 @@
 package com.example.googlespreasheeexample
 
 import android.os.Bundle
+import android.view.View
+import android.widget.ProgressBar
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -16,10 +18,12 @@ import java.util.ArrayList
 class MyPasswordlist : AppCompatActivity() {
   lateinit  var recyclerView: RecyclerView
    lateinit var userlist: ArrayList<Item>
+   lateinit var progregssbar:ProgressBar
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_my_passwordlist)
         recyclerView = findViewById(R.id.userrecyclerview)
+        progregssbar =findViewById(R.id.progressbarlist)
         userlist = ArrayList()
         val linearLayoutManager = LinearLayoutManager(applicationContext)
         recyclerView.layoutManager = linearLayoutManager
@@ -31,10 +35,13 @@ class MyPasswordlist : AppCompatActivity() {
             Request.Method.GET,
             "https://script.google.com/macros/s/AKfycbxCraFOxZ6tyecjd2V_2XQg-CGJEsUmc0olDVXmtvo_5VOclA94E-Ot3We2be2aMUhbwA/exec?action=getItems",
             { response ->
+                progregssbar.visibility = View.GONE
                 parsresponse(response)
                 Toast.makeText(this@MyPasswordlist, response, Toast.LENGTH_SHORT).show()
             }
         ) { error ->
+            progregssbar.visibility = View.GONE
+
             Toast.makeText(
                 applicationContext,
                 "error " + error.message,

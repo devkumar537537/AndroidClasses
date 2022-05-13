@@ -40,7 +40,7 @@
             android:layout_weight="14"
             android:layout_height="wrap_content"
             android:hint="Enter email"
-            android:id="@+id/emailedit"/>
+            android:id="@+id/emaileditt"/>
 
     </LinearLayout>
     <LinearLayout
@@ -75,5 +75,5 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Other onew"
+        android:text="Other onew"/>
 </LinearLayout>

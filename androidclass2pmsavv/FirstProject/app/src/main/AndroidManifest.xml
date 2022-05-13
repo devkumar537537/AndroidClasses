@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FirstProject">
         <activity
+            android:name=".TargetActivity"
+            android:exported="true" />
+        <activity
+            android:name=".GettingValuesActivity"
+            android:exported="true" />
+        <activity
             android:name=".SignUpPage"
             android:exported="true" />
         <activity

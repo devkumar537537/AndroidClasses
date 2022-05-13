@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidNOtification</string>
+    <string name="Channel_Nmae">My Channel</string>
+    <string name="Channel_ID">Channel ID</string>
+</resources>

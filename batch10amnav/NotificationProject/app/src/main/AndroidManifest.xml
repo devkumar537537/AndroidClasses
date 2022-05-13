@@ -22,8 +22,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <service android:name=".MyFirebaseServiceExample"
-            android:exported="true"/>
+<service android:name=".MyServiceClass"
+    android:exported="true">
+
+
+</service>
     </application>
 
 </manifest>

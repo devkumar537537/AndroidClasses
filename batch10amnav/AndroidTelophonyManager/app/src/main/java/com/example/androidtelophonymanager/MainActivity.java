@@ -1,6 +1,7 @@
 package com.example.androidtelophonymanager;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ActivityCompat;
 
 import android.Manifest;
 import android.content.Intent;
@@ -26,9 +27,11 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String number_text = numberedit.getText().toString().trim();
-                if (checkSelfPermission(Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
+                if(ActivityCompat.checkSelfPermission(MainActivity.this,Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED)
+                {
                     requestPermissions(perm,CALL_REQUEST);
                 } else {
+
                     Intent callintent = new Intent(Intent.ACTION_CALL);
                     callintent.setData(Uri.parse("tel:"+number_text));
                     startActivity(callintent);

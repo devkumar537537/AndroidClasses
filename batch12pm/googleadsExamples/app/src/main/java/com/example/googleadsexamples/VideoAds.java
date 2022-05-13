@@ -43,24 +43,7 @@ public class VideoAds extends AppCompatActivity {
 
                 if(mrewardedAd != null)
                 {
-                    Activity activitycontext = VideoAds.this;
-                    mrewardedAd.show(activitycontext, new OnUserEarnedRewardListener() {
-                        @Override
-                        public void onUserEarnedReward(@NonNull RewardItem rewardItem) {
-                            Log.e(TAG, "The user earned the reward" );
-                            int rewardamount = rewardItem.getAmount();
-                            String rewardTyep = rewardItem.getType();
-                            Log.e(TAG, "amount is => "+rewardamount +" and type is => "+rewardTyep );
 
-
-                        }
-                    });
-                    mrewardedAd.setFullScreenContentCallback(new FullScreenContentCallback(){
-                        @Override
-                        public void onAdDismissedFullScreenContent() {
-                            Toast.makeText(activitycontext, "Add dismissed", Toast.LENGTH_SHORT).show();
-                        }
-                    });
                 }else{
                     Log.e(TAG, "The rewarded as was 't read yet" );
                 }

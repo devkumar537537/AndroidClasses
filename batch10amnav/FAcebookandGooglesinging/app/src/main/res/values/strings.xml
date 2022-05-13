@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">FAcebookandGooglesinging</string>
-    <string name="facebook_app_id">444200063853117</string>
-    <string name="fb_login_protocol_scheme">fb444200063853117</string>
+<string name="app_name">FAcebookandloginapp</string>
+    <string name="facebook_app_id">734359484642080</string>
+    <string name="fb_login_protocol_scheme">fb734359484642080</string>
+    <string name="facebook_client_token">66b9a5d6d77f6ba243bc0a3a0c516a68</string>
+
 
 </resources>

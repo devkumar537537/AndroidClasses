@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/firsttextiveiw"
+    android:layout_centerHorizontal="true"
+    android:text="First Text"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_below="@+id/firsttextiveiw"
+        android:layout_centerHorizontal="true"
+        android:textSize="23sp"
+        android:layout_margin="10dp"
+        android:id="@+id/thirdtextiveiw"
+        android:text="Date will show here"/>
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/datepickerlayout"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/thirdtextiveiw"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:id="@+id/datepickerbtn"
+        android:layout_below="@+id/datepickerlayout"
+        android:text="Pick Date"
+        android:layout_margin="10dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_below="@id/datepickerbtn"
+        android:id="@+id/buttonone"
+        android:text="Pick Date"
+        android:layout_margin="10dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:layout_below="@+id/buttonone"
+        android:text="Pick Date"
+        android:id="@+id/buttontwo"
+        android:layout_margin="10dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    android:layout_below="@+id/buttontwo"
+        android:id="@+id/buttonthree"
+        android:text="Pick Date"
+        android:layout_margin="10dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/buttonthree"
+
+        android:text="Pick Date"
+        android:layout_margin="10dp"/>
+</RelativeLayout>
+</ScrollView>

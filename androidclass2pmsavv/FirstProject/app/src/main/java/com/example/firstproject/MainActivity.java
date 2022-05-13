@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 EditText editanyvalue;
 Button clickbtn;
 Button movebtn,movetothird;
+Button movetogetting;
 TextView textsample;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,7 +25,16 @@ TextView textsample;
         textsample = findViewById(R.id.sampletext);
            movebtn = findViewById(R.id.moveToSecond);
            movetothird = findViewById(R.id.moveTothird);
+          movetogetting = findViewById(R.id.movetogettingvalue);
+          movetogetting.setOnClickListener(new View.OnClickListener() {
+              @Override
+              public void onClick(View view) {
+                  Intent movetogettingintent =new Intent(MainActivity.this,GettingValuesActivity.class);
+                  startActivity(movetogettingintent);
 
+
+              }
+          });
            movetothird.setOnClickListener(new View.OnClickListener() {
                @Override
                public void onClick(View view) {

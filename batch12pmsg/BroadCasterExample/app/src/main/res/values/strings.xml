@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadCasterExample</string>
+    <string name="onwifi">Wifi is On</string>
+    <string name="offwifi">Wifi is Off</string>
+</resources>

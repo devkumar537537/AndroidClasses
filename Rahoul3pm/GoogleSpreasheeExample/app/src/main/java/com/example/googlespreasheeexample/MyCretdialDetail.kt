@@ -84,14 +84,15 @@ class MyCretdialDetail : AppCompatActivity() {
         ).show()
       }
     ) {
-      @Throws(AuthFailureError::class)
+
       override fun getParams(): Map<String, String>? {
         val params: MutableMap<String, String> = HashMap()
-        params["action"] = "update"
-        params["username"] = email_text
-        params["userpassword"] = number_text
-        params["id"] = id_text
-        params["date"] = date_text
+        params.put("action", "update")
+        params.put("username", email_text)
+        params.put("userpassword", number_text)
+        params.put("id", id_text)
+        params.put("date", date_text)
+
         return params
       }
     }

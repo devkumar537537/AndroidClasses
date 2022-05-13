@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/timesamplte"
+      android:text="Time Picker Example"
+      android:layout_centerHorizontal="true"
+      android:layout_margin="10dp"
+
+      />
+
+    <TimePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/timesamplte"
+        android:id="@+id/timelayout"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="pick time"
+        android:layout_below="@id/timelayout"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:id="@+id/picktimebtn"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timetextview"
+        android:text="Time will show here"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+android:layout_below="@id/picktimebtn"
+        android:textSize="23sp"
+        />
+
+  <RatingBar
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:layout_below="@id/timetextview"
+      android:layout_centerHorizontal="true"
+      android:numStars="5"
+      android:id="@+id/ratingbar"
+      />
+
+  <Button
+      android:id="@+id/pickratingbtn"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/ratingbar"
+      android:layout_centerHorizontal="true"
+      android:layout_marginStart="10dp"
+      android:layout_marginTop="10dp"
+      android:layout_marginEnd="10dp"
+      android:layout_marginBottom="10dp"
+      android:text="Pick Rating" />
+
+  <Button
+      android:id="@+id/movetosecond"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_below="@id/pickratingbtn"
+      android:layout_centerHorizontal="true"
+      android:layout_marginStart="10dp"
+      android:layout_marginTop="10dp"
+      android:layout_marginEnd="10dp"
+      android:layout_marginBottom="10dp"
+      android:text="Move to Second" />
+
+</RelativeLayout>
+</ScrollView>
